@@ -23,7 +23,7 @@ Term: Fall 2023
 
 + Team #
 + **Projec title**: + Team members
-        + Zhou, Jitian
++       + Zhou, Jitian
         + Chen, Zhengfei
         + Tang, Chulin
         + Liu, Jiaqi
