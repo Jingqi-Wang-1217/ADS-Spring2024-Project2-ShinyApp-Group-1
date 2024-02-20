@@ -8,10 +8,10 @@ Term: Spring 2024
 
 
 
-## Project Title Lorem ipsum dolor sit amet
+## Project Title: The U.S. Disasters Analysis
 Term: Spring 2024
 
-+ Team 1
++ Team #: Group 1
 + **Projec title**: + Team members
 + Zhou, Jitian
 + Chen, Zhengfei
