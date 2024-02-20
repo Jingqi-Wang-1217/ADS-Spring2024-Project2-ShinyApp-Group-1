@@ -4,7 +4,7 @@
 
 Term: Spring 2024
 
-![image](figs/proj2-group1.png)
+![image](doc/figs/proj2-group1.png)
 
 In this second project of GR5243 Applied Data Science, we develop a *Exploratory Data Analysis and Visualization* shiny app using one of **the OpenFEMA data sets** of your choice. See [Project 2 Description](doc/project2_desc.md) for more details.  
 
