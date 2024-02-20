@@ -1,0 +1,5004 @@
+,disasterNumber,state,fyDeclared,incidentType,hmProgramDeclared,Region
+0,5464,RI,2023,Fire,1,Northeast
+1,5463,KS,2023,Fire,1,Midwest
+2,4731,CO,2023,Flood,1,West
+6,4738,GA,2023,Hurricane,1,Southeast
+8,5444,TX,2022,Fire,1,Southwest
+10,5443,TX,2022,Fire,1,Southwest
+11,5471,OR,2023,Fire,1,West
+13,5429,TX,2022,Fire,1,Southwest
+14,5428,TX,2022,Fire,1,Southwest
+16,5426,FL,2022,Fire,1,Southeast
+18,5424,FL,2022,Fire,1,Southeast
+19,5422,TX,2022,Fire,1,Southwest
+20,5420,TX,2022,Fire,1,Southwest
+21,5419,CA,2022,Fire,1,West
+22,5418,SD,2022,Fire,1,Midwest
+23,5417,CA,2021,Fire,1,West
+24,5416,CA,2021,Fire,1,West
+25,5415,WA,2021,Fire,1,West
+26,5414,WA,2021,Fire,1,West
+27,5413,CA,2021,Fire,1,West
+28,5412,CA,2021,Fire,1,West
+29,5411,WA,2021,Fire,1,West
+30,5410,WA,2021,Fire,1,West
+31,5409,OR,2021,Fire,1,West
+32,5408,UT,2021,Fire,1,West
+34,5407,ID,2021,Fire,1,West
+36,5405,CA,2021,Fire,1,West
+37,5404,HI,2021,Fire,1,West
+38,5403,MT,2021,Fire,1,West
+40,5401,WA,2021,Fire,1,West
+41,5400,CA,2021,Fire,1,West
+43,5398,WA,2021,Fire,1,West
+44,5397,WA,2021,Fire,1,West
+45,5396,OR,2021,Fire,1,West
+47,5395,WA,2021,Fire,1,West
+48,5394,OR,2021,Fire,1,West
+49,5393,CA,2021,Fire,1,West
+50,5392,MT,2021,Fire,1,West
+51,5391,UT,2021,Fire,1,West
+52,5388,UT,2021,Fire,1,West
+53,5386,NM,2021,Fire,1,Southwest
+54,5384,SD,2021,Fire,1,Midwest
+55,5383,CA,2021,Fire,1,West
+56,5382,NV,2021,Fire,1,West
+57,5381,CA,2021,Fire,1,West
+60,5380,CA,2021,Fire,1,West
+61,5379,CO,2021,Fire,1,West
+62,5378,CO,2021,Fire,1,West
+63,5377,CA,2020,Fire,1,West
+64,5376,CA,2020,Fire,1,West
+66,5375,WY,2020,Fire,1,West
+68,5374,CA,2020,Fire,1,West
+69,5373,CA,2020,Fire,1,West
+70,5372,OR,2020,Fire,1,West
+71,5371,OR,2020,Fire,1,West
+73,5370,OR,2020,Fire,1,West
+74,5369,OR,2020,Fire,1,West
+75,5368,OR,2020,Fire,1,West
+76,5366,OR,2020,Fire,1,West
+77,5365,OR,2020,Fire,1,West
+78,5364,OR,2020,Fire,1,West
+79,5363,CA,2020,Fire,1,West
+82,5362,OR,2020,Fire,1,West
+83,5361,CA,2020,Fire,1,West
+84,5360,WA,2020,Fire,1,West
+85,5359,WA,2020,Fire,1,West
+86,5358,OR,2020,Fire,1,West
+87,5356,OR,2020,Fire,1,West
+92,5355,WA,2020,Fire,1,West
+94,5354,OR,2020,Fire,1,West
+95,5353,UT,2020,Fire,1,West
+96,5352,WA,2020,Fire,1,West
+97,5351,WA,2020,Fire,1,West
+100,5350,CA,2020,Fire,1,West
+101,5349,CO,2020,Fire,1,West
+102,5348,CA,2020,Fire,1,West
+104,5347,WY,2020,Fire,1,West
+105,5346,MT,2020,Fire,1,West
+106,5345,MT,2020,Fire,1,West
+109,5344,MT,2020,Fire,1,West
+112,5342,WA,2020,Fire,1,West
+113,5341,OR,2020,Fire,1,West
+114,5340,AZ,2020,Fire,1,Southwest
+116,5339,CA,2020,Fire,1,West
+117,5338,CA,2020,Fire,1,West
+119,5337,WA,2020,Fire,1,West
+120,5336,CA,2020,Fire,1,West
+123,5331,CA,2020,Fire,1,West
+128,5330,WA,2020,Fire,1,West
+130,5328,NV,2020,Fire,1,West
+131,5327,OR,2020,Fire,1,West
+132,5326,NV,2020,Fire,1,West
+133,5325,CA,2020,Fire,1,West
+136,5324,MT,2020,Fire,1,West
+138,5323,WA,2020,Fire,1,West
+139,5322,NV,2020,Fire,1,West
+140,5321,UT,2020,Fire,1,West
+141,5320,WA,2020,Fire,1,West
+142,5319,NV,2020,Fire,1,West
+143,5318,UT,2020,Fire,1,West
+144,5317,UT,2020,Fire,1,West
+145,5316,NV,2020,Fire,1,West
+146,5315,AZ,2020,Fire,1,Southwest
+147,5314,AZ,2020,Fire,1,Southwest
+148,5312,AZ,2020,Fire,1,Southwest
+149,5311,AZ,2020,Fire,1,Southwest
+150,5310,AZ,2020,Fire,1,Southwest
+151,5309,FL,2020,Fire,1,Southeast
+152,5308,FL,2020,Fire,1,Southeast
+153,5306,OK,2020,Fire,1,Southwest
+154,5292,UT,2019,Fire,1,West
+155,5291,NV,2019,Fire,1,West
+156,5290,AK,2019,Fire,1,West
+157,5289,NV,2019,Fire,1,West
+158,5287,AK,2019,Fire,1,West
+159,5286,MT,2019,Fire,1,West
+160,5285,OR,2019,Fire,1,West
+161,5284,AZ,2019,Fire,1,Southwest
+162,5283,NV,2019,Fire,1,West
+163,5282,AK,2019,Fire,1,West
+164,5281,NM,2019,Fire,1,Southwest
+165,5280,CA,2019,Fire,1,West
+167,5279,CA,2019,Fire,1,West
+168,5278,CA,2019,Fire,1,West
+169,5277,UT,2018,Fire,1,West
+170,4744,VT,2024,Flood,1,Northeast
+171,5274,OR,2018,Fire,1,West
+172,5273,WA,2018,Fire,1,West
+173,5272,SD,2018,Fire,1,Midwest
+174,5271,WA,2018,Fire,1,West
+176,5270,WA,2018,Fire,1,West
+177,5269,WA,2018,Fire,1,West
+179,5268,CA,2018,Fire,1,West
+180,5267,UT,2018,Fire,1,West
+181,5266,WA,2018,Fire,1,West
+182,5265,OR,2018,Fire,1,West
+183,5264,TX,2018,Fire,1,Southwest
+184,5263,ID,2018,Fire,1,West
+185,5262,CA,2018,Fire,1,West
+188,5261,WA,2018,Fire,1,West
+189,5260,CA,2018,Fire,1,West
+190,5258,TX,2018,Fire,1,Southwest
+191,5257,WA,2018,Fire,1,West
+192,5256,OR,2018,Fire,1,West
+194,5255,OR,2018,Fire,1,West
+196,5254,WA,2018,Fire,1,West
+197,5253,WA,2018,Fire,1,West
+198,5252,CA,2018,Fire,1,West
+199,5251,CA,2018,Fire,1,West
+200,5250,CA,2018,Fire,1,West
+201,5245,CA,2018,Fire,1,West
+202,5244,CA,2018,Fire,1,West
+203,5243,OR,2018,Fire,1,West
+204,5242,NV,2018,Fire,1,West
+205,5241,WY,2018,Fire,1,West
+206,5240,NM,2018,Fire,1,Southwest
+207,5238,AZ,2018,Fire,1,Southwest
+208,5237,TX,2018,Fire,1,Southwest
+209,5236,AZ,2018,Fire,1,Southwest
+210,5235,TX,2018,Fire,1,Southwest
+211,5234,TX,2018,Fire,1,Southwest
+212,5233,TX,2018,Fire,1,Southwest
+213,5230,OK,2018,Fire,1,Southwest
+214,5229,SD,2018,Fire,1,Midwest
+215,5228,CA,2018,Fire,1,West
+216,5227,CA,2018,Fire,1,West
+217,5226,CA,2018,Fire,1,West
+218,5225,CA,2018,Fire,1,West
+219,5224,CA,2018,Fire,1,West
+221,5223,CA,2018,Fire,1,West
+223,5221,CA,2018,Fire,1,West
+224,5220,CA,2018,Fire,1,West
+225,5219,CA,2018,Fire,1,West
+226,5218,CA,2018,Fire,1,West
+227,5217,CA,2018,Fire,1,West
+228,5216,CA,2018,Fire,1,West
+230,5214,CA,2018,Fire,1,West
+232,5213,CA,2017,Fire,1,West
+234,5212,MT,2017,Fire,1,West
+237,5211,MT,2017,Fire,1,West
+239,5210,MT,2017,Fire,1,West
+240,5209,MT,2017,Fire,1,West
+241,5208,MT,2017,Fire,1,West
+242,5206,UT,2017,Fire,1,West
+244,5205,CA,2017,Fire,1,West
+245,5204,CA,2017,Fire,1,West
+246,5202,CA,2017,Fire,1,West
+248,5201,CA,2017,Fire,1,West
+249,5200,WA,2017,Fire,1,West
+250,5199,CA,2017,Fire,1,West
+251,5195,OR,2017,Fire,1,West
+252,5194,MT,2017,Fire,1,West
+254,5193,NV,2017,Fire,1,West
+255,5192,CA,2017,Fire,1,West
+256,5191,NV,2017,Fire,1,West
+257,5190,NV,2017,Fire,1,West
+258,5189,CA,2017,Fire,1,West
+259,5188,AZ,2017,Fire,1,Southwest
+260,5187,WA,2017,Fire,1,West
+261,5186,AZ,2017,Fire,1,Southwest
+262,5185,UT,2017,Fire,1,West
+263,4720,VT,2023,Flood,1,Northeast
+264,5183,AZ,2017,Fire,1,Southwest
+265,5182,WA,2017,Fire,1,West
+266,5181,GA,2017,Fire,1,Southeast
+269,5180,FL,2017,Fire,1,Southeast
+270,5179,FL,2017,Fire,1,Southeast
+271,5178,FL,2017,Fire,1,Southeast
+277,5176,KS,2017,Fire,1,Midwest
+278,5175,KS,2017,Fire,1,Midwest
+280,5173,KS,2017,Fire,1,Midwest
+281,5172,KS,2017,Fire,1,Midwest
+284,5171,KS,2017,Fire,1,Midwest
+285,5170,KS,2017,Fire,1,Midwest
+289,5168,OK,2017,Fire,1,Southwest
+295,5163,GA,2017,Fire,1,Southeast
+296,5161,NC,2017,Fire,1,Southeast
+299,5160,TN,2017,Fire,1,Southeast
+302,5159,TN,2017,Fire,1,Southeast
+303,5158,KY,2017,Fire,1,Southeast
+304,5157,CO,2017,Fire,1,West
+306,5156,NV,2017,Fire,1,West
+308,5154,NV,2017,Fire,1,West
+309,5152,WA,2016,Fire,0,West
+310,5151,ID,2016,Fire,0,West
+311,5150,CA,2016,Fire,0,West
+313,5149,WA,2016,Fire,0,West
+314,5147,CA,2016,Fire,0,West
+315,5146,CA,2016,Fire,0,West
+316,5145,CA,2016,Fire,0,West
+317,5144,CA,2016,Fire,0,West
+318,5143,MT,2016,Fire,0,West
+319,5142,WA,2016,Fire,0,West
+320,5141,NV,2016,Fire,0,West
+321,5140,CA,2016,Fire,0,West
+322,5139,WY,2016,Fire,0,West
+323,5138,NV,2016,Fire,0,West
+324,5137,CA,2016,Fire,0,West
+325,5136,WY,2016,Fire,0,West
+326,5135,CA,2016,Fire,0,West
+327,5134,NM,2016,Fire,0,Southwest
+328,5132,CA,2016,Fire,0,West
+329,5131,CA,2016,Fire,0,West
+330,5129,CA,2016,Fire,0,West
+331,5128,CA,2016,Fire,0,West
+332,5127,NM,2016,Fire,0,Southwest
+334,5126,OR,2016,Fire,0,West
+335,4745,MT,2024,Flood,1,West
+336,5124,CA,2016,Fire,1,West
+337,5123,NH,2016,Fire,1,Northeast
+339,5121,KS,2016,Fire,1,Midwest
+340,5120,KS,2016,Fire,1,Midwest
+342,5119,OK,2016,Fire,0,Southwest
+343,5118,OK,2016,Fire,0,Southwest
+344,5117,OK,2016,Fire,1,Southwest
+347,5115,WY,2016,Fire,1,West
+348,5114,OR,2015,Fire,1,West
+349,5113,WA,2015,Fire,1,West
+350,5112,CA,2015,Fire,1,West
+353,5111,CA,2015,Fire,1,West
+355,5110,ID,2015,Fire,1,West
+356,5109,WA,2015,Fire,1,West
+358,5108,WA,2015,Fire,1,West
+360,5107,OR,2015,Fire,1,West
+361,5106,WA,2015,Fire,1,West
+363,5104,WA,2015,Fire,1,West
+365,5103,WA,2015,Fire,1,West
+366,5102,OR,2015,Fire,1,West
+367,5101,WA,2015,Fire,1,West
+368,5100,WA,2015,Fire,1,West
+371,5099,ID,2015,Fire,1,West
+373,5098,WA,2015,Fire,1,West
+374,5097,OR,2015,Fire,1,West
+375,5096,OR,2015,Fire,1,West
+376,5094,WA,2015,Fire,1,West
+377,5093,CA,2015,Fire,1,West
+378,5092,OR,2015,Fire,1,West
+379,5091,CA,2015,Fire,1,West
+382,5090,WA,2015,Fire,1,West
+383,5089,CA,2015,Fire,1,West
+384,5088,ID,2015,Fire,1,West
+386,5087,WA,2015,Fire,1,West
+387,5085,AK,2015,Fire,1,West
+388,5084,AK,2015,Fire,1,West
+389,5083,AZ,2015,Fire,0,Southwest
+390,5082,CA,2015,Fire,0,West
+391,5081,CA,2014,Fire,0,West
+392,5080,OR,2014,Fire,0,West
+393,5079,CA,2014,Fire,0,West
+394,5078,CA,2014,Fire,0,West
+395,5077,CA,2014,Fire,0,West
+396,5076,CA,2014,Fire,0,West
+397,5075,CA,2014,Fire,0,West
+398,5074,CA,2014,Fire,0,West
+399,5073,OR,2014,Fire,0,West
+400,5072,WA,2014,Fire,0,West
+401,5071,WA,2014,Fire,0,West
+402,5070,CA,2014,Fire,0,West
+403,5069,CA,2014,Fire,0,West
+405,5068,CA,2014,Fire,0,West
+406,5067,CA,2014,Fire,0,West
+407,5066,OR,2014,Fire,0,West
+409,5065,UT,2014,Fire,0,West
+410,5064,WA,2014,Fire,0,West
+411,5063,WA,2014,Fire,0,West
+413,5062,WA,2014,Fire,0,West
+415,5060,OR,2014,Fire,0,West
+418,5057,CA,2014,Fire,0,West
+420,5055,CA,2014,Fire,0,West
+421,5054,CA,2014,Fire,0,West
+422,5053,TX,2014,Fire,0,Southwest
+423,5052,OK,2014,Fire,0,Southwest
+424,5051,CA,2014,Fire,0,West
+425,5050,CA,2013,Fire,0,West
+426,5049,CA,2013,Fire,0,West
+429,5047,MT,2013,Fire,0,West
+430,5046,OR,2013,Fire,0,West
+432,5045,ID,2013,Fire,0,West
+434,5044,UT,2013,Fire,0,West
+435,5043,ID,2013,Fire,0,West
+436,5042,WA,2013,Fire,0,West
+437,5041,CA,2013,Fire,0,West
+438,5040,CA,2013,Fire,0,West
+440,3404,HI,2018,Hurricane,0,West
+442,5037,OR,2013,Fire,0,West
+444,5036,OR,2013,Fire,0,West
+445,5035,MT,2013,Fire,0,West
+446,5034,NV,2013,Fire,0,West
+447,5033,AZ,2013,Fire,0,Southwest
+448,5032,AZ,2013,Fire,0,Southwest
+449,5031,CO,2013,Fire,0,West
+452,5029,AZ,2013,Fire,0,Southwest
+453,5028,CO,2013,Fire,0,West
+454,5027,CO,2013,Fire,0,West
+455,5026,NM,2013,Fire,0,Southwest
+456,5025,CA,2013,Fire,0,West
+457,5024,CA,2013,Fire,0,West
+458,5023,CA,2013,Fire,0,West
+460,3399,HI,2018,Hurricane,0,West
+461,5021,CA,2012,Fire,0,West
+465,5019,ID,2012,Fire,0,West
+466,5018,WA,2012,Fire,0,West
+467,5017,WA,2012,Fire,0,West
+468,5016,MT,2012,Fire,0,West
+469,5015,WA,2012,Fire,0,West
+470,5014,WY,2012,Fire,0,West
+472,4728,IL,2023,Severe Storm,1,Midwest
+473,5012,WA,2012,Fire,0,West
+474,5011,WA,2012,Fire,0,West
+475,5010,SD,2012,Fire,0,Midwest
+476,5009,NE,2012,Fire,0,Midwest
+479,5008,MT,2012,Fire,0,West
+480,5007,CA,2012,Fire,0,West
+482,5006,ID,2012,Fire,0,West
+483,5005,WA,2012,Fire,0,West
+484,5004,CA,2012,Fire,0,West
+485,5003,OK,2012,Fire,0,Southwest
+487,5002,OK,2012,Fire,0,Southwest
+488,5001,OK,2012,Fire,0,Southwest
+489,5000,OK,2012,Fire,0,Southwest
+490,4713,CA,2023,Severe Storm,1,West
+491,4712,TN,2023,Severe Storm,1,Southeast
+512,4705,TX,2023,Winter Storm,1,Southwest
+537,4711,KY,2023,Flood,1,Southeast
+559,4710,AL,2023,Severe Storm,1,Southeast
+569,4709,FL,2023,Flood,1,Southeast
+570,4708,NV,2023,Flood,1,West
+577,4706,OK,2023,Tornado,1,Southwest
+601,4704,IN,2023,Severe Storm,1,Midwest
+613,4703,AZ,2023,Severe Storm,1,Southwest
+614,4702,KY,2023,Severe Storm,1,Southeast
+702,4701,TN,2023,Severe Storm,1,Southeast
+715,4700,AR,2023,Winter Storm,1,Southwest
+738,4698,AR,2023,Severe Storm,1,Southwest
+741,4697,MS,2023,Severe Storm,1,Southeast
+748,4696,ME,2023,Severe Storm,1,Northeast
+754,4695,VT,2023,Severe Storm,1,Northeast
+762,4694,NY,2023,Snowstorm,1,Northeast
+767,4693,NH,2023,Severe Storm,1,Northeast
+771,4692,CA,2023,Earthquake,1,West
+772,4691,TN,2023,Winter Storm,1,Southeast
+783,4690,OK,2023,Severe Storm,1,Southwest
+784,4689,SD,2023,Winter Storm,1,Midwest
+801,4688,SD,2023,Winter Storm,1,Midwest
+802,4687,SD,2023,Winter Storm,1,Midwest
+803,4686,ND,2023,Snowstorm,1,Midwest
+810,4685,GA,2023,Severe Storm,1,Southeast
+819,4684,AL,2023,Severe Storm,1,Southeast
+832,4683,CA,2023,Flood,1,West
+875,4682,WA,2023,Severe Storm,1,West
+878,4501,GA,2020,Biological,1,Southeast
+886,4681,AZ,2023,Flood,1,Southwest
+887,4680,FL,2023,Hurricane,1,Southeast
+950,4120,VT,2013,Flood,1,Northeast
+952,4679,WV,2023,Severe Storm,1,Southeast
+953,4678,WV,2023,Flood,1,Southeast
+954,4677,SC,2023,Hurricane,1,Southeast
+1000,4676,IL,2023,Flood,1,Midwest
+1001,4675,FL,2022,Hurricane,1,Southeast
+1007,4674,VA,2022,Severe Storm,1,Southeast
+1009,4673,FL,2022,Hurricane,1,Southeast
+1078,4672,AK,2022,Severe Storm,1,West
+1083,4671,PR,2022,Hurricane,1,Territories
+1161,4670,OK,2022,Severe Storm,1,Southwest
+1162,4669,AS,2022,Severe Storm,1,Territories
+1163,4668,AZ,2022,Severe Storm,1,Southwest
+1164,4667,AK,2022,Flood,1,West
+1167,4666,MN,2022,Severe Storm,1,Midwest
+1190,4665,MO,2022,Flood,1,Midwest
+1194,4664,SD,2022,Severe Storm,1,Midwest
+1200,4663,KY,2022,Flood,1,Southeast
+1220,4662,NE,2022,Severe Storm,1,Midwest
+1241,4661,AK,2022,Mud/Landslide,1,West
+1242,4660,ND,2022,Severe Storm,1,Midwest
+1282,4659,MN,2022,Flood,1,Midwest
+1301,4658,MN,2022,Severe Storm,1,Midwest
+1324,4657,OK,2022,Severe Storm,1,Southwest
+1331,4656,SD,2022,Severe Storm,1,Midwest
+1354,4654,KS,2022,Snowstorm,1,Midwest
+1374,4653,RI,2022,Snowstorm,1,Northeast
+1380,4652,NM,2022,Fire,1,Southwest
+1387,4651,MA,2022,Snowstorm,1,Northeast
+1392,4650,WA,2022,Flood,1,West
+1416,4649,PR,2022,Flood,1,Territories
+1421,4648,AK,2022,Severe Storm,1,West
+1424,4647,ME,2022,Coastal Storm,1,Northeast
+1427,4646,AK,2022,Severe Storm,1,West
+1428,4645,TN,2022,Severe Storm,1,Southeast
+1435,4644,VA,2022,Severe Storm,1,Southeast
+1463,4643,KY,2022,Severe Storm,1,Southeast
+1476,4642,IA,2022,Severe Storm,1,Midwest
+1501,4641,NE,2022,Severe Storm,1,Midwest
+1526,4640,KS,2022,Severe Storm,1,Midwest
+1581,4639,HI,2022,Severe Storm,1,West
+1583,4638,AK,2022,Severe Storm,1,West
+1584,4637,TN,2022,Tornado,1,Southeast
+1598,4636,MO,2022,Severe Storm,1,Midwest
+1605,4635,WA,2022,Flood,1,West
+1617,4634,CO,2022,Fire,1,West
+1618,4633,AR,2022,Tornado,1,Southwest
+1623,4631,WA,2022,Fire,1,West
+1624,4630,KY,2022,Tornado,1,Southeast
+1647,4629,CT,2022,Hurricane,1,Northeast
+1654,4628,VA,2022,Flood,1,Southeast
+1655,4627,DE,2022,Hurricane,1,Northeast
+1656,4626,MS,2022,Hurricane,1,Southeast
+1738,4625,NY,2022,Hurricane,1,Northeast
+1747,4624,NH,2022,Flood,1,Northeast
+1749,4623,MT,2021,Fire,1,West
+1751,4622,NH,2021,Severe Storm,1,Northeast
+1752,4621,VT,2021,Flood,1,Northeast
+1754,4620,AZ,2021,Flood,1,Southwest
+1757,4619,CA,2021,Fire,1,West
+1759,4618,PA,2021,Hurricane,1,Northeast
+1772,4617,NC,2021,Hurricane,1,Southeast
+1783,4616,NE,2021,Severe Storm,1,Midwest
+1797,4615,NY,2021,Hurricane,1,Northeast
+1811,4614,NJ,2021,Hurricane,1,Northeast
+1832,4613,ND,2021,Severe Storm,1,Midwest
+1841,4612,MO,2021,Severe Storm,1,Midwest
+1862,4611,LA,2021,Hurricane,1,Southwest
+1926,4610,CA,2021,Fire,1,West
+1932,4609,TN,2021,Flood,1,Southeast
+1936,4608,MT,2021,Other,1,West
+1941,4607,MI,2021,Severe Storm,1,Midwest
+1946,4606,LA,2021,Flood,1,Southwest
+1953,4605,WV,2021,Flood,1,Southeast
+1960,4604,HI,2021,Flood,1,West
+1961,4603,WV,2021,Severe Ice Storm,1,Southeast
+1966,4602,VA,2021,Severe Ice Storm,1,Southeast
+1999,4601,TN,2021,Tornado,1,Southeast
+2023,4600,GA,2021,Severe Storm,1,Southeast
+2032,4599,OR,2021,Severe Storm,1,West
+2039,4598,MS,2021,Severe Ice Storm,1,Southeast
+2076,4597,NJ,2021,Snowstorm,1,Northeast
+2081,4596,AL,2021,Severe Storm,1,Southeast
+2089,4595,KY,2021,Flood,1,Southeast
+2139,4594,TN,2021,Severe Ice Storm,1,Southeast
+2152,4593,WA,2021,Severe Storm,0,West
+2167,4593,WA,2021,Severe Storm,1,West
+2170,4592,KY,2021,Severe Ice Storm,1,Southeast
+2215,4591,AL,2021,Biological,1,Southeast
+2216,4590,LA,2021,Severe Ice Storm,1,Southwest
+2280,4589,ID,2021,Severe Storm,1,West
+2284,4588,NC,2021,Severe Storm,1,Southeast
+2303,4587,OK,2021,Severe Ice Storm,1,Southwest
+2380,4586,TX,2021,Severe Ice Storm,1,Southwest
+2634,4585,AK,2021,Mud/Landslide,1,West
+2639,4584,WA,2021,Fire,1,West
+2651,4583,MD,2021,Hurricane,1,Southeast
+2654,4582,AZ,2021,Biological,1,Southwest
+2655,4581,CO,2021,Fire,1,West
+2657,4580,CT,2021,Hurricane,1,Northeast
+2667,4579,GA,2021,Hurricane,1,Southeast
+2688,4578,UT,2021,Severe Storm,1,West
+2692,4577,LA,2021,Hurricane,1,Southwest
+2727,4576,MS,2021,Hurricane,1,Southeast
+2735,4575,OK,2021,Severe Ice Storm,1,Southwest
+2764,4574,NJ,2021,Hurricane,1,Northeast
+2775,4573,AL,2021,Hurricane,1,Southeast
+2796,4572,TX,2021,Hurricane,1,Southwest
+2801,4571,PR,2021,Flood,0,Territories
+2802,4734,FL,2023,Hurricane,1,Southeast
+2850,4569,CA,2021,Fire,1,West
+2862,4568,NC,2021,Hurricane,1,Southeast
+2878,4567,NY,2021,Hurricane,1,Northeast
+2885,4566,DE,2021,Hurricane,1,Northeast
+2887,4565,ND,2021,Severe Storm,1,Midwest
+2893,4564,FL,2020,Hurricane,1,Southeast
+2907,4563,AL,2020,Hurricane,1,Southeast
+2922,4562,OR,2020,Fire,1,West
+2942,4561,IA,2020,Severe Storm,1,Midwest
+2943,4560,PR,2020,Hurricane,1,Territories
+2947,4559,LA,2020,Hurricane,1,Southwest
+3011,4558,CA,2020,Fire,0,West
+3012,4558,CA,2020,Fire,1,West
+3031,4557,IA,2020,Severe Storm,1,Midwest
+3054,4556,AR,2020,Tornado,1,Southwest
+3067,4554,AL,2020,Severe Storm,1,Southeast
+3077,4553,ND,2020,Flood,1,Midwest
+3097,4552,MO,2020,Severe Storm,1,Midwest
+3116,4551,MS,2020,Severe Storm,1,Southeast
+3127,4550,TN,2020,Severe Storm,1,Southeast
+3147,4549,HI,2020,Severe Storm,1,West
+3148,4548,UT,2020,Earthquake,1,West
+3150,4547,MI,2020,Dam/Levee Break,1,Midwest
+3155,4546,AL,2020,Severe Storm,1,Southeast
+3174,4545,FL,2020,Biological,1,Southeast
+3181,4544,AR,2020,Tornado,1,Southwest
+3182,4543,NC,2020,Severe Storm,1,Southeast
+3201,4542,SC,2020,Severe Storm,1,Southeast
+3211,4541,TN,2020,Severe Storm,1,Southeast
+3220,4540,KY,2020,Severe Storm,1,Southeast
+3247,4539,WA,2020,Flood,1,West
+3262,4538,MS,2020,Severe Storm,1,Southeast
+3277,4288,WI,2017,Flood,1,Midwest
+3280,4536,MS,2020,Severe Storm,1,Southeast
+3316,4746,CA,2024,Tropical Storm,1,West
+3317,4730,AK,2023,Flood,1,West
+3318,4730,AK,2023,Flood,0,West
+3323,4740,NH,2023,Flood,1,Northeast
+3325,1968,CA,2011,Tsunami,1,West
+3330,4747,KS,2024,Severe Storm,1,Midwest
+3350,3602,MP,2024,Tropical Storm,0,Territories
+3355,3601,GU,2024,Tropical Storm,0,Territories
+3360,4292,PA,2017,Flood,1,Northeast
+3388,3485,NM,2020,Biological,0,Southwest
+3389,4724,HI,2023,Fire,1,West
+3391,3563,RI,2021,Hurricane,0,Northeast
+3397,4748,AR,2024,Severe Storm,1,Southwest
+3401,5155,CO,2017,Fire,1,West
+3402,1605,AL,2005,Hurricane,1,Southeast
+3424,4750,CA,2024,Hurricane,1,West
+3429,5474,HI,2023,Fire,1,West
+3430,5479,WA,2023,Fire,1,West
+3431,5483,OR,2023,Fire,1,West
+3432,4739,WY,2023,Flood,1,West
+3433,5468,WA,2023,Fire,1,West
+3434,5427,TX,2022,Fire,1,Southwest
+3435,5343,MT,2020,Fire,1,West
+3436,5335,CO,2020,Fire,1,West
+3438,5334,CO,2020,Fire,1,West
+3440,5305,OK,2020,Fire,1,Southwest
+3441,5304,OK,2020,Fire,1,Southwest
+3442,5275,OR,2018,Fire,1,West
+3443,5239,NM,2018,Fire,1,Southwest
+3444,5232,OK,2018,Fire,1,Southwest
+3445,5231,OK,2018,Fire,1,Southwest
+3446,5222,CA,2018,Fire,1,West
+3448,5215,CA,2018,Fire,1,West
+3450,5207,MT,2017,Fire,1,West
+3452,5184,NM,2017,Fire,1,Southwest
+3453,5177,OK,2017,Fire,1,Southwest
+3458,5174,KS,2017,Fire,1,Midwest
+3459,5169,OK,2017,Fire,1,Southwest
+3460,5167,TN,2017,Fire,1,Southeast
+3461,5166,KY,2017,Fire,1,Southeast
+3463,3412,KS,2019,Severe Storm,0,Midwest
+3496,4386,IA,2018,Severe Storm,1,Midwest
+3527,3524,IA,2020,Biological,0,Midwest
+3528,5462,NE,2023,Fire,1,Midwest
+3529,5460,OK,2023,Fire,1,Southwest
+3530,5459,OK,2023,Fire,1,Southwest
+3531,5458,OK,2023,Fire,1,Southwest
+3532,5440,TX,2022,Fire,1,Southwest
+3533,5421,OK,2022,Fire,1,Southwest
+3534,5288,TX,2019,Fire,1,Southwest
+3535,3548,MS,2021,Hurricane,0,Southeast
+3564,5441,AZ,2022,Fire,1,Southwest
+3565,5435,AZ,2022,Fire,1,Southwest
+3566,5480,MT,2023,Fire,1,West
+3567,5423,CO,2022,Fire,1,West
+3568,5406,MT,2021,Fire,1,West
+3569,5399,MT,2021,Fire,1,West
+3570,5434,AZ,2022,Fire,1,Southwest
+3571,5387,AZ,2021,Fire,1,Southwest
+3572,5385,AZ,2021,Fire,1,Southwest
+3574,5436,NE,2022,Fire,1,Midwest
+3577,5425,KS,2022,Fire,1,Midwest
+3579,5389,AZ,2021,Fire,1,Southwest
+3581,5295,CA,2020,Fire,1,West
+3582,5294,HI,2020,Fire,1,West
+3583,5293,CA,2020,Fire,1,West
+3585,5333,CA,2020,Fire,1,West
+3586,5303,CA,2020,Fire,1,West
+3587,5302,CA,2020,Fire,1,West
+3588,5301,CA,2020,Fire,1,West
+3589,5300,CA,2020,Fire,1,West
+3590,5299,CA,2020,Fire,1,West
+3591,5298,CA,2020,Fire,1,West
+3592,5297,CA,2020,Fire,1,West
+3593,5296,CA,2020,Fire,1,West
+3594,5332,CA,2020,Fire,1,West
+3595,5329,CA,2020,Fire,1,West
+3596,5452,ID,2022,Fire,1,West
+3597,5449,ID,2022,Fire,1,West
+3600,3600,LA,2023,Other,0,Southwest
+3601,4707,CA,2023,Winter Storm,1,West
+3602,4216,KY,2015,Snowstorm,1,Southeast
+3643,5430,NM,2022,Fire,1,Southwest
+3644,5438,NM,2022,Fire,1,Southwest
+3645,5437,NM,2022,Fire,1,Southwest
+3646,5433,NM,2022,Fire,1,Southwest
+3647,5432,NM,2022,Fire,1,Southwest
+3648,5431,NM,2022,Fire,1,Southwest
+3649,5454,OR,2022,Fire,1,West
+3650,5442,AK,2022,Fire,1,West
+3652,5481,WA,2023,Fire,1,West
+3653,1786,LA,2008,Hurricane,1,Southwest
+3655,5357,OR,2020,Fire,1,West
+3656,5446,OR,2022,Fire,1,West
+3657,5367,OR,2020,Fire,1,West
+3658,3493,NE,2020,Biological,0,Midwest
+3659,3582,MS,2022,Other,0,Southeast
+3661,5095,AZ,2015,Fire,1,Southwest
+3662,5086,AZ,2015,Fire,1,Southwest
+3663,3510,NM,2020,Biological,0,Southwest
+3664,5313,AZ,2020,Fire,1,Southwest
+3666,4752,UT,2024,Flood,1,West
+3671,1967,HI,2011,Tsunami,1,West
+3685,4237,SD,2015,Severe Storm,1,Midwest
+3686,5197,MT,2017,Fire,1,West
+3688,4328,OR,2017,Severe Storm,1,West
+3690,4751,TN,2024,Severe Storm,1,Southeast
+3694,5456,WA,2023,Fire,1,West
+3696,5455,WA,2022,Fire,1,West
+3698,5447,WA,2022,Fire,1,West
+3699,5478,HI,2023,Fire,1,West
+3700,5477,HI,2023,Fire,1,West
+3701,5476,HI,2023,Fire,1,West
+3702,5475,HI,2023,Fire,1,West
+3705,3522,LA,2020,Biological,0,Southwest
+3706,4031,NY,2011,Severe Storm,1,Northeast
+3721,4749,IL,2024,Flood,1,Midwest
+3722,5448,NV,2022,Fire,1,West
+3723,5402,NV,2021,Fire,1,West
+3724,5390,NV,2021,Fire,1,West
+3725,4232,VT,2015,Severe Storm,1,Northeast
+3727,4089,RI,2013,Hurricane,1,Northeast
+3731,1949,VI,2011,Severe Storm,1,Southeast
+3732,1939,VI,2010,Hurricane,1,Southeast
+3735,1807,VI,2009,Hurricane,1,Southeast
+3738,5249,CO,2018,Fire,1,West
+3739,5248,UT,2018,Fire,1,West
+3741,5246,CO,2018,Fire,1,West
+3743,1895,MA,2010,Severe Storm,1,Northeast
+3750,3603,VI,2024,Other,0,Southeast
+3751,3604,CT,2024,Severe Storm,0,Northeast
+3754,3570,OK,2020,Biological,0,Southwest
+3760,4754,ME,2024,Severe Storm,1,Northeast
+3770,4756,WV,2024,Flood,1,Southeast
+3775,4755,NY,2024,Flood,1,Northeast
+3778,4021,NJ,2011,Hurricane,1,Northeast
+3799,1830,MN,2009,Severe Storm,1,Midwest
+3827,4519,OR,2020,Flood,1,West
+3833,1805,OH,2009,Severe Storm,1,Midwest
+3866,1771,IL,2008,Severe Storm,1,Midwest
+3891,1768,WI,2008,Severe Storm,1,Midwest
+3922,1717,MN,2007,Severe Storm,1,Midwest
+3930,1580,OH,2005,Severe Storm,1,Midwest
+3992,1556,OH,2004,Severe Storm,1,Midwest
+4002,4274,OK,2016,Flood,1,Southwest
+4109,1453,OH,2003,Severe Storm,0,Midwest
+4132,1453,OH,2003,Severe Storm,1,Midwest
+4140,1419,MN,2002,Severe Storm,1,Midwest
+4159,1370,MN,2001,Flood,0,Midwest
+4198,1370,MN,2001,Flood,1,Midwest
+4231,1369,WI,2001,Flood,0,Midwest
+4263,4077,OH,2012,Severe Storm,1,Midwest
+4302,4002,OH,2011,Severe Storm,1,Midwest
+4323,3161,IL,2001,Snowstorm,0,Midwest
+4350,3160,MI,2001,Snowstorm,0,Midwest
+4364,3588,FL,2023,Tropical Storm,0,Southeast
+4390,3134,IL,1999,Snowstorm,0,Midwest
+4442,1982,MN,2011,Flood,1,Midwest
+4476,1960,IL,2011,Snowstorm,1,Midwest
+4541,1941,MN,2011,Severe Storm,1,Midwest
+4570,1702,SD,2007,Severe Storm,1,Midwest
+4597,1628,CA,2006,Severe Storm,1,West
+4628,1597,ND,2005,Severe Storm,1,Midwest
+4657,1585,CA,2005,Severe Storm,1,West
+4664,1577,CA,2005,Severe Storm,1,West
+4672,1515,ND,2004,Severe Storm,1,Midwest
+4694,1498,CA,2004,Fire,1,West
+4699,1446,GU,2003,Typhoon,1,Territories
+4700,1426,GU,2002,Typhoon,1,Territories
+4701,1376,ND,2001,Flood,0,Midwest
+4707,1376,ND,2001,Flood,1,Midwest
+4739,1375,SD,2001,Flood,0,Midwest
+4752,1375,SD,2001,Flood,1,Midwest
+4763,1334,ND,2000,Severe Storm,1,Midwest
+4764,1334,ND,2000,Severe Storm,0,Midwest
+4806,1279,ND,1999,Flood,0,Midwest
+4815,1279,ND,1999,Flood,1,Midwest
+4852,4392,IA,2018,Severe Storm,1,Midwest
+4856,4334,IA,2017,Severe Storm,1,Midwest
+4865,4321,NE,2017,Severe Storm,1,Midwest
+4875,4298,SD,2017,Severe Storm,1,Midwest
+4902,4289,IA,2017,Flood,1,Midwest
+4921,3587,FL,2023,Tropical Storm,0,Southeast
+4968,3584,FL,2022,Hurricane,0,Southeast
+5037,3583,PR,2022,Hurricane,0,Territories
+5060,4714,CA,2023,Severe Storm,1,West
+5120,1996,MT,2011,Severe Storm,1,West
+5200,1984,SD,2011,Flood,1,Midwest
+5240,1981,ND,2011,Flood,1,Midwest
+5243,5457,OR,2023,Fire,1,West
+5289,1915,SD,2010,Flood,1,Midwest
+5326,1907,ND,2010,Flood,1,Midwest
+5356,1829,ND,2009,Severe Storm,1,Midwest
+5408,1731,CA,2008,Fire,1,West
+5415,3565,NY,2021,Hurricane,0,Northeast
+5441,3530,TX,2020,Hurricane,0,Southwest
+5473,5162,SC,2017,Fire,1,Southeast
+5475,1946,PR,2011,Severe Storm,1,Territories
+5496,4757,MI,2024,Flood,1,Midwest
+5505,5486,LA,2023,Fire,1,Southwest
+5507,5484,LA,2023,Fire,1,Southwest
+5508,4753,RI,2024,Severe Storm,1,Northeast
+5511,4479,SC,2020,Severe Storm,1,Southeast
+5521,4478,MS,2020,Severe Storm,1,Southeast
+5534,4477,WI,2020,Flood,1,Midwest
+5537,4476,TN,2020,Tornado,1,Southeast
+5543,4475,ND,2020,Flood,1,Midwest
+5561,4474,VT,2020,Severe Storm,1,Northeast
+5569,4473,PR,2020,Earthquake,1,Territories
+5603,4472,NY,2020,Severe Storm,0,Northeast
+5619,4472,NY,2020,Severe Storm,1,Northeast
+5621,4471,TN,2020,Severe Storm,1,Southeast
+5631,4470,MS,2020,Severe Storm,1,Southeast
+5650,4469,SD,2020,Severe Storm,1,Midwest
+5675,4468,FL,2020,Hurricane,1,Southeast
+5689,4467,SD,2020,Severe Storm,1,Midwest
+5697,4466,TX,2020,Flood,1,Southwest
+5704,4465,NC,2020,Hurricane,0,Southeast
+5706,4465,NC,2020,Hurricane,1,Southeast
+5732,4464,SC,2019,Hurricane,1,Southeast
+5744,4463,SD,2019,Flood,1,Midwest
+5771,4462,LA,2019,Flood,1,Southwest
+5785,4461,IL,2019,Flood,1,Midwest
+5813,4460,AR,2019,Flood,1,Southwest
+5816,4459,WI,2019,Flood,1,Midwest
+5836,4458,LA,2019,Hurricane,1,Southwest
+5862,4457,NH,2019,Severe Storm,1,Northeast
+5863,4456,OK,2019,Severe Storm,1,Southwest
+5864,4455,WV,2019,Flood,1,Southeast
+5869,4454,TX,2019,Flood,1,Southwest
+5872,4453,OK,2019,Severe Storm,1,Southwest
+5891,4452,OR,2019,Flood,1,West
+5897,4451,MO,2019,Severe Storm,1,Midwest
+5984,4450,MS,2019,Severe Storm,1,Southeast
+5993,4449,KS,2019,Severe Storm,1,Midwest
+6063,4448,SD,2019,Severe Storm,1,Midwest
+6064,4447,OH,2019,Tornado,1,Midwest
+6076,4445,VT,2019,Flood,1,Northeast
+6082,4444,ND,2019,Flood,1,Midwest
+6101,4443,ID,2019,Flood,1,West
+6107,4442,MN,2019,Flood,1,Midwest
+6162,4441,AR,2019,Flood,0,Southwest
+6163,4441,AR,2019,Flood,1,Southwest
+6179,4440,SD,2019,Flood,1,Midwest
+6241,4439,LA,2019,Severe Storm,1,Southwest
+6244,4438,OK,2019,Severe Storm,1,Southwest
+6295,4437,MT,2019,Flood,1,West
+6303,4436,AZ,2019,Severe Storm,1,Southwest
+6304,4435,MO,2019,Flood,1,Midwest
+6320,4434,CA,2019,Severe Storm,1,West
+6338,4433,GU,2019,Typhoon,1,Territories
+6339,4432,OR,2019,Severe Storm,1,West
+6344,4431,CA,2019,Severe Storm,1,West
+6355,4430,IA,2019,Flood,1,Midwest
+6356,4429,MS,2019,Severe Storm,1,Southeast
+6378,4429,MS,2019,Severe Storm,0,Southeast
+6386,4428,KY,2019,Severe Storm,1,Southeast
+6447,4427,TN,2019,Flood,1,Southeast
+6506,4426,AL,2019,Severe Storm,1,Southeast
+6518,4425,CA,2019,Severe Storm,1,West
+6519,4424,OH,2019,Flood,1,Midwest
+6540,4423,CA,2019,Severe Storm,1,West
+6541,4422,CA,2019,Severe Storm,1,West
+6542,4421,IA,2019,Flood,1,Midwest
+6622,4420,NE,2019,Flood,1,Midwest
+6711,4419,AL,2019,Tornado,1,Southeast
+6712,4418,WA,2019,Severe Storm,1,West
+6720,4417,KS,2019,Severe Storm,1,Midwest
+6734,4416,TX,2019,Flood,1,Southwest
+6770,4415,MS,2019,Severe Storm,1,Southeast
+6781,4414,MN,2019,Flood,1,Midwest
+6782,4413,AK,2019,Earthquake,1,West
+6785,4412,NC,2019,Hurricane,1,Southeast
+6806,4411,VA,2019,Hurricane,1,Southeast
+6842,4410,CT,2019,Severe Storm,1,Northeast
+6844,4409,AZ,2019,Severe Storm,1,Southwest
+6845,4408,PA,2019,Severe Storm,1,Northeast
+6856,4407,CA,2019,Fire,1,West
+6859,4406,AL,2019,Hurricane,0,Southeast
+6860,4406,AL,2019,Hurricane,1,Southeast
+6864,4405,MT,2019,Flood,1,West
+6873,4404,MP,2019,Typhoon,1,Territories
+6877,4403,KS,2019,Severe Storm,1,Midwest
+6885,4402,WI,2019,Flood,1,Midwest
+6899,4401,VA,2019,Hurricane,1,Southeast
+6931,4400,GA,2019,Hurricane,1,Southeast
+7000,4399,FL,2019,Hurricane,0,Southeast
+7002,4399,FL,2019,Hurricane,1,Southeast
+7018,4398,GU,2019,Typhoon,1,Territories
+7019,4397,NY,2019,Flood,1,Northeast
+7026,4396,MP,2018,Typhoon,1,Territories
+7029,4395,HI,2018,Hurricane,1,West
+7032,4394,SC,2018,Hurricane,1,Southeast
+7051,4393,NC,2018,Hurricane,1,Southeast
+7103,4391,AK,2018,Flood,1,West
+7104,4390,MN,2018,Flood,1,Midwest
+7135,4389,AZ,2018,Flood,1,Southwest
+7136,4388,MT,2018,Flood,1,West
+7143,4387,NE,2018,Severe Storm,1,Midwest
+7154,4385,CT,2018,Tornado,1,Northeast
+7156,4384,WA,2018,Flood,1,West
+7157,4383,WI,2018,Flood,1,Midwest
+7163,4382,CA,2018,Fire,1,West
+7165,4381,MI,2018,Flood,1,Midwest
+7168,4380,VT,2018,Severe Storm,1,Northeast
+7173,4379,MA,2018,Snowstorm,1,Northeast
+7178,4378,WV,2018,Severe Storm,1,Southeast
+7185,4377,TX,2018,Flood,1,Southwest
+7188,4376,MD,2018,Flood,1,Southeast
+7190,4375,NE,2018,Snowstorm,1,Midwest
+7221,4374,MD,2018,Severe Storm,1,Southeast
+7223,4373,OK,2018,Fire,1,Southwest
+7228,4372,MA,2018,Severe Storm,1,Northeast
+7234,4371,NH,2018,Snowstorm,1,Northeast
+7237,4370,NH,2018,Coastal Storm,1,Northeast
+7238,4369,AK,2018,Coastal Storm,1,West
+7239,4368,NJ,2018,Severe Storm,1,Northeast
+7245,4367,ME,2018,Coastal Storm,1,Northeast
+7246,4366,HI,2018,Volcanic Eruption,1,West
+7247,4365,HI,2018,Flood,1,West
+7249,4364,NC,2018,Severe Storm,1,Southeast
+7251,4363,IN,2018,Flood,1,Midwest
+7282,4362,AL,2018,Severe Storm,1,Southeast
+7286,4361,KY,2018,Flood,1,Southeast
+7321,4360,OH,2018,Flood,1,Midwest
+7343,4359,WV,2018,Mud/Landslide,1,Southeast
+7364,4358,KY,2018,Flood,1,Southeast
+7387,4357,AS,2018,Hurricane,1,Territories
+7392,4355,NH,2018,Severe Storm,1,Northeast
+7398,4354,ME,2018,Severe Storm,1,Northeast
+7411,4353,CA,2018,Fire,1,West
+7415,4351,AK,2018,Severe Storm,1,West
+7416,4350,MS,2018,Hurricane,0,Southeast
+7417,4350,MS,2018,Hurricane,1,Southeast
+7422,4349,AL,2018,Hurricane,1,Southeast
+7430,4348,NY,2018,Flood,1,Northeast
+7438,4347,KS,2018,Severe Storm,1,Midwest
+7440,4346,SC,2018,Hurricane,1,Southeast
+7487,4345,LA,2018,Hurricane,1,Southwest
+7507,4344,CA,2018,Fire,1,West
+7516,4343,WI,2018,Severe Storm,1,Midwest
+7527,4342,ID,2018,Flood,1,West
+7529,4341,FL,2017,Hurricane,1,Southeast
+7535,4340,VI,2017,Hurricane,1,Southeast
+7538,4339,PR,2017,Hurricane,1,Territories
+7616,4338,GA,2017,Hurricane,1,Southeast
+7775,4337,FL,2017,Hurricane,1,Southeast
+7842,4336,PR,2017,Hurricane,1,Territories
+7864,4336,PR,2017,Hurricane,0,Territories
+7874,4335,VI,2017,Hurricane,1,Southeast
+7877,4333,ID,2017,Flood,1,West
+7882,4332,TX,2017,Hurricane,1,Southwest
+7935,4331,WV,2017,Severe Storm,1,Southeast
+7947,4330,VT,2017,Severe Storm,1,Northeast
+7954,4329,NH,2017,Severe Storm,1,Northeast
+7956,4327,WY,2017,Flood,1,West
+7959,4326,MI,2017,Severe Storm,1,Midwest
+7963,4325,NE,2017,Severe Storm,1,Midwest
+7982,4323,ND,2017,Flood,1,Midwest
+7993,4322,NY,2017,Snowstorm,1,Northeast
+8021,4320,TN,2017,Severe Storm,1,Southeast
+8035,4319,KS,2017,Snowstorm,1,Midwest
+8062,4318,AR,2017,Severe Storm,1,Southwest
+8094,4317,MO,2017,Flood,1,Midwest
+8149,4315,OK,2017,Severe Storm,1,Southwest
+8170,4314,MS,2017,Severe Storm,1,Southeast
+8179,4313,ID,2017,Flood,1,West
+8188,4312,CA,2017,Severe Storm,1,West
+8189,4311,UT,2017,Flood,1,West
+8191,4310,ID,2017,Flood,1,West
+8202,4309,WA,2017,Flood,1,West
+8217,4308,CA,2017,Flood,1,West
+8261,4307,NV,2017,Severe Storm,1,West
+8268,4306,WY,2017,Severe Storm,1,West
+8269,4305,CA,2017,Flood,1,West
+8291,4304,KS,2017,Severe Ice Storm,1,Midwest
+8311,4303,NV,2017,Severe Storm,1,West
+8319,4302,CA,2017,Severe Storm,1,West
+8320,4301,CA,2017,Severe Storm,1,West
+8354,4299,OK,2017,Severe Storm,1,Southwest
+8365,4297,GA,2017,Tornado,1,Southeast
+8388,4296,OR,2017,Severe Storm,1,West
+8390,4295,MS,2017,Tornado,1,Southeast
+8394,4294,GA,2017,Severe Storm,1,Southeast
+8401,4293,TN,2017,Fire,1,Southeast
+8402,4291,VA,2017,Hurricane,1,Southeast
+8412,4290,MN,2017,Flood,1,Midwest
+8422,4287,KS,2017,Severe Storm,1,Midwest
+8435,4286,SC,2017,Hurricane,1,Southeast
+8461,4285,NC,2017,Hurricane,1,Southeast
+8511,4284,GA,2017,Hurricane,1,Southeast
+8531,4283,FL,2017,Hurricane,1,Southeast
+8549,4282,HI,2017,Mud/Landslide,1,West
+8550,4281,IA,2016,Flood,1,Midwest
+8558,4280,FL,2016,Hurricane,1,Southeast
+8584,4279,MD,2016,Flood,1,Southeast
+8585,4278,KY,2016,Severe Storm,1,Southeast
+8605,4277,LA,2016,Flood,1,Southwest
+8631,4276,WI,2016,Severe Storm,1,Midwest
+8640,4273,WV,2016,Flood,1,Southeast
+8658,4272,TX,2016,Flood,0,Southwest
+8661,4272,TX,2016,Flood,1,Southwest
+8704,4271,MT,2016,Severe Storm,0,West
+8705,4271,MT,2016,Severe Storm,1,West
+8709,4270,AR,2016,Severe Storm,1,Southwest
+8721,4268,MS,2016,Flood,1,Southeast
+8750,4267,PA,2016,Snowstorm,1,Northeast
+8773,4266,TX,2016,Flood,1,Southwest
+8794,4265,DE,2016,Snowstorm,1,Northeast
+8795,4264,NJ,2016,Severe Storm,1,Northeast
+8812,4263,LA,2016,Flood,1,Southwest
+8849,4262,VA,2016,Snowstorm,1,Southeast
+8879,4261,MD,2016,Snowstorm,1,Southeast
+8898,4260,DC,2016,Snowstorm,1,Southeast
+8899,4259,GA,2016,Severe Storm,1,Southeast
+8933,4258,OR,2016,Severe Storm,1,West
+8947,4257,AK,2016,Severe Storm,1,West
+8948,4256,OK,2016,Severe Storm,1,Southwest
+8990,4255,TX,2016,Severe Storm,1,Southwest
+9041,4254,AR,2016,Severe Storm,1,Southwest
+9079,4253,WA,2016,Flood,1,West
+9089,4252,ID,2016,Severe Storm,1,West
+9092,4251,AL,2016,Severe Storm,1,Southeast
+9131,4250,MO,2016,Flood,1,Midwest
+9183,4249,WA,2016,Severe Storm,1,West
+9199,4247,OK,2016,Severe Ice Storm,1,Southwest
+9220,4246,ID,2016,Severe Storm,1,West
+9225,4245,TX,2016,Severe Storm,0,Southwest
+9226,4245,TX,2016,Severe Storm,1,Southwest
+9247,4244,AK,2016,Coastal Storm,1,West
+9248,4243,WA,2016,Fire,1,West
+9257,4242,WA,2016,Severe Storm,1,West
+9263,4241,SC,2016,Flood,1,Southeast
+9299,4240,CA,2015,Fire,1,West
+9301,4239,KY,2015,Severe Storm,1,Southeast
+9335,4238,MO,2015,Severe Storm,1,Midwest
+9411,4236,WV,2015,Severe Storm,1,Southeast
+9420,4235,MP,2015,Typhoon,1,Territories
+9423,4234,IA,2015,Severe Storm,1,Midwest
+9442,4233,SD,2015,Severe Storm,1,Midwest
+9456,4230,KS,2015,Severe Storm,1,Midwest
+9500,4229,CO,2015,Flood,1,West
+9515,4228,LA,2015,Flood,1,Southwest
+9522,4227,WY,2015,Flood,1,West
+9526,4226,AR,2015,Severe Storm,1,Southwest
+9555,4225,NE,2015,Severe Storm,1,Midwest
+9583,4224,GU,2015,Typhoon,1,Territories
+9584,4223,TX,2015,Severe Storm,1,Southwest
+9697,4222,OK,2015,Severe Storm,1,Southwest
+9761,4221,WV,2015,Flood,1,Southeast
+9769,4220,WV,2015,Flood,1,Southeast
+9781,4219,WV,2015,Severe Storm,1,Southeast
+9787,4218,KY,2015,Flood,1,Southeast
+9846,4217,KY,2015,Flood,1,Southeast
+9875,4214,MA,2015,Severe Storm,1,Northeast
+9885,4213,CT,2015,Severe Storm,1,Northeast
+9889,4212,RI,2015,Severe Storm,1,Northeast
+9894,4211,TN,2015,Severe Ice Storm,1,Southeast
+9939,4210,WV,2015,Severe Storm,1,Southeast
+9971,4209,NH,2015,Severe Storm,1,Northeast
+9974,4208,ME,2015,Snowstorm,1,Northeast
+9978,4207,VT,2015,Severe Storm,1,Northeast
+9988,4206,CA,2015,Flood,1,West
+9989,4205,MS,2015,Tornado,1,Southeast
+9990,4204,NY,2015,Snowstorm,1,Northeast
+9999,4203,AZ,2015,Flood,1,Southwest
+10001,4202,NV,2015,Flood,1,West
+10002,4201,HI,2015,Volcanic Eruption,1,West
+10003,4200,MO,2015,Severe Storm,1,Midwest
+10023,4199,NM,2015,Severe Storm,1,Southwest
+10031,4198,MT,2015,Severe Storm,1,West
+10037,4197,NM,2015,Severe Storm,1,Southwest
+10045,4196,KY,2014,Severe Storm,1,Southeast
+10049,4194,HI,2014,Severe Storm,1,West
+10051,4193,CA,2014,Earthquake,1,West
+10053,4192,AS,2014,Severe Storm,1,Territories
+10058,4191,GU,2014,Severe Storm,1,Territories
+10059,4190,ND,2014,Flood,1,Midwest
+10069,4189,TN,2014,Severe Storm,1,Southeast
+10092,4188,WA,2014,Fire,1,West
+10095,4187,IA,2014,Severe Storm,1,Midwest
+10119,4186,SD,2014,Flood,1,Midwest
+10132,4185,NE,2014,Severe Storm,1,Midwest
+10144,4184,IA,2014,Flood,1,Midwest
+10171,4183,NE,2014,Severe Storm,1,Midwest
+10183,4182,MN,2014,Flood,1,Midwest
+10223,4181,IA,2014,Severe Storm,1,Midwest
+10232,4180,NY,2014,Severe Storm,1,Northeast
+10243,4179,NE,2014,Tornado,1,Midwest
+10249,4178,VT,2014,Flood,1,Northeast
+10256,4177,FL,2014,Severe Storm,1,Southeast
+10265,4176,AL,2014,Severe Storm,1,Southeast
+10286,4175,MS,2014,Severe Storm,1,Southeast
+10299,4174,AR,2014,Severe Storm,1,Southwest
+10311,4173,IN,2014,Severe Storm,1,Midwest
+10341,4172,MT,2014,Flood,1,West
+10356,4171,TN,2014,Severe Ice Storm,1,Southeast
+10366,4170,MD,2014,Severe Storm,1,Southeast
+10369,4169,OR,2014,Severe Storm,1,West
+10373,4168,WA,2014,Mud/Landslide,1,West
+10377,4167,NC,2014,Severe Ice Storm,1,Southeast
+10386,4166,SC,2014,Severe Ice Storm,1,Southeast
+10408,4165,GA,2014,Severe Ice Storm,1,Southeast
+10453,4164,OK,2014,Severe Storm,1,Southwest
+10457,4163,VT,2014,Severe Ice Storm,1,Northeast
+10464,4162,AK,2014,Severe Storm,1,West
+10468,4161,AK,2014,Flood,1,West
+10469,4160,AR,2014,Severe Ice Storm,1,Southwest
+10483,4159,TX,2014,Severe Storm,1,Southwest
+10487,4158,CA,2014,Fire,1,West
+10488,4157,IL,2014,Tornado,1,Midwest
+10503,4156,NE,2014,Severe Storm,1,Midwest
+10513,4155,SD,2014,Severe Storm,1,Midwest
+10529,4154,ND,2014,Severe Storm,1,Midwest
+10536,4153,NC,2014,Flood,1,Southeast
+10542,4152,NM,2014,Flood,1,Southwest
+10568,4151,NM,2014,Severe Storm,1,Southwest
+10569,4150,KS,2014,Severe Storm,1,Midwest
+10616,4149,PA,2014,Severe Storm,1,Northeast
+10627,4147,NM,2013,Severe Storm,1,Southwest
+10628,4146,NC,2013,Flood,1,Southeast
+10642,4145,CO,2013,Flood,1,West
+10660,4144,MO,2013,Severe Storm,1,Midwest
+10678,4143,AR,2013,Severe Storm,1,Southwest
+10684,4142,CA,2013,Fire,1,West
+10685,4141,WI,2013,Severe Storm,1,Midwest
+10693,4140,VT,2013,Flood,1,Northeast
+10700,4139,NH,2013,Severe Storm,1,Northeast
+10703,4138,FL,2013,Severe Storm,1,Southeast
+10707,4137,SD,2013,Severe Storm,1,Midwest
+10715,4136,TX,2013,Other,1,Southwest
+10716,4135,IA,2013,Severe Storm,1,Midwest
+10728,4134,CO,2013,Fire,1,West
+10729,4133,CO,2013,Fire,1,West
+10730,4132,WV,2013,Flood,1,Southeast
+10732,4131,MN,2013,Severe Storm,1,Midwest
+10750,4130,MO,2013,Severe Storm,1,Midwest
+10778,4129,NY,2013,Flood,1,Northeast
+10794,4128,ND,2013,Severe Storm,1,Midwest
+10815,4126,IA,2013,Severe Storm,1,Midwest
+10864,4125,SD,2013,Severe Storm,1,Midwest
+10870,4124,AR,2013,Severe Storm,1,Southwest
+10881,4123,ND,2013,Flood,1,Midwest
+10882,4122,AK,2013,Flood,1,West
+10887,4119,IA,2013,Flood,1,Midwest
+10907,4118,ND,2013,Flood,1,Midwest
+10924,4117,OK,2013,Tornado,1,Southwest
+10945,4116,IL,2013,Flood,1,Midwest
+10992,4115,SD,2013,Severe Storm,1,Midwest
+11000,4114,IA,2013,Severe Storm,1,Midwest
+11005,4113,MN,2013,Severe Storm,1,Midwest
+11010,4112,KS,2013,Snowstorm,1,Midwest
+11033,4110,MA,2013,Severe Storm,1,Northeast
+11047,4109,OK,2013,Severe Storm,1,Southwest
+11064,4108,ME,2013,Severe Storm,1,Northeast
+11070,4107,RI,2013,Severe Storm,1,Northeast
+11075,4106,CT,2013,Severe Storm,1,Northeast
+11084,4105,NH,2013,Severe Storm,1,Northeast
+11092,4104,AZ,2013,Freezing,1,Southwest
+11093,4103,NC,2013,Mud/Landslide,1,Southeast
+11094,4102,LA,2013,Severe Storm,1,Southwest
+11105,4101,MS,2013,Severe Storm,1,Southeast
+11112,4100,AR,2013,Severe Ice Storm,1,Southwest
+11120,4099,PA,2013,Hurricane,1,Northeast
+11138,4098,OH,2013,Hurricane,1,Midwest
+11141,4097,MA,2013,Hurricane,1,Northeast
+11147,4096,DC,2013,Hurricane,1,Southeast
+11148,4095,NH,2013,Hurricane,1,Northeast
+11154,4094,AK,2013,Severe Storm,1,West
+11159,4093,WV,2013,Hurricane,1,Southeast
+11177,4092,VA,2013,Hurricane,1,Southeast
+11206,4091,MD,2013,Hurricane,1,Southeast
+11230,4090,DE,2013,Hurricane,1,Northeast
+11233,4088,UT,2013,Flood,1,West
+11234,4087,CT,2013,Hurricane,1,Northeast
+11242,4086,NJ,2013,Hurricane,1,Northeast
+11263,4085,NY,2013,Hurricane,1,Northeast
+11277,4084,FL,2013,Hurricane,1,Southeast
+11289,4083,WA,2012,Severe Storm,1,West
+11292,4082,AL,2012,Hurricane,1,Southeast
+11300,4081,MS,2012,Hurricane,1,Southeast
+11349,4080,LA,2012,Hurricane,1,Southwest
+11404,4079,NM,2012,Flood,0,Southwest
+11406,4079,NM,2012,Flood,1,Southwest
+11409,4078,OK,2012,Fire,1,Southwest
+11411,4076,WI,2012,Severe Storm,1,Midwest
+11415,4075,MD,2012,Severe Storm,1,Southeast
+11421,4074,MT,2012,Fire,1,West
+11424,4072,VA,2012,Severe Storm,0,Southeast
+11425,4072,VA,2012,Severe Storm,1,Southeast
+11493,4071,WV,2012,Severe Storm,1,Southeast
+11540,4070,NJ,2012,Severe Storm,1,Northeast
+11543,4069,MN,2012,Severe Storm,1,Midwest
+11561,4068,FL,2012,Severe Storm,1,Southeast
+11595,4067,CO,2012,Fire,1,West
+11598,4066,VT,2012,Severe Storm,1,Northeast
+11601,4065,NH,2012,Severe Storm,1,Northeast
+11602,4064,OK,2012,Severe Storm,1,Southwest
+11607,4063,KS,2012,Severe Storm,1,Midwest
+11621,4062,HI,2012,Severe Storm,1,West
+11623,4061,WV,2012,Severe Storm,1,Southeast
+11626,4060,TN,2012,Severe Storm,1,Southeast
+11636,4059,WV,2012,Severe Storm,1,Southeast
+11647,4058,IN,2012,Severe Storm,1,Midwest
+11653,4057,KY,2012,Severe Storm,1,Southeast
+11676,4056,WA,2012,Severe Storm,1,West
+11687,4055,OR,2012,Flood,1,West
+11699,4054,AK,2012,Severe Storm,1,West
+11700,4053,UT,2012,Severe Storm,1,West
+11701,4052,AL,2012,Severe Storm,1,Southeast
+11704,4051,MA,2012,Severe Storm,1,Northeast
+11710,4050,AK,2012,Severe Storm,1,West
+11715,4049,NH,2012,Severe Storm,1,Northeast
+11717,4048,NJ,2012,Severe Storm,1,Northeast
+11728,4047,NM,2012,Flood,1,Southwest
+11734,4046,CT,2012,Severe Storm,1,Northeast
+11741,4045,VA,2012,Severe Storm,1,Southeast
+11749,4044,DC,2012,Earthquake,1,Southeast
+11750,4043,VT,2012,Severe Storm,1,Northeast
+11753,4042,VA,2012,Earthquake,1,Southeast
+11763,4041,LA,2012,Coastal Storm,1,Southwest
+11771,4040,PR,2012,Hurricane,1,Territories
+11774,4039,NJ,2012,Severe Storm,1,Northeast
+11779,4038,MD,2012,Flood,1,Southeast
+11786,4037,DE,2011,Hurricane,1,Northeast
+11788,4036,DC,2011,Hurricane,1,Southeast
+11789,4034,MD,2011,Hurricane,1,Southeast
+11804,4033,NJ,2011,Severe Storm,1,Northeast
+11807,4032,ME,2011,Hurricane,1,Northeast
+11811,4030,PA,2011,Flood,0,Northeast
+11812,4030,PA,2011,Flood,1,Northeast
+11845,4029,TX,2011,Fire,0,Southwest
+11857,4029,TX,2011,Fire,1,Southwest
+11910,4028,MA,2011,Hurricane,1,Northeast
+11919,4027,RI,2011,Hurricane,1,Northeast
+11925,4026,NH,2011,Hurricane,1,Northeast
+11932,4025,PA,2011,Hurricane,0,Northeast
+11934,4025,PA,2011,Hurricane,1,Northeast
+11946,4024,VA,2011,Hurricane,1,Southeast
+11995,4023,CT,2011,Hurricane,1,Northeast
+12003,4022,VT,2011,Hurricane,1,Northeast
+12017,4020,NY,2011,Hurricane,1,Northeast
+12049,4019,NC,2011,Hurricane,1,Southeast
+12087,4018,IA,2011,Severe Storm,1,Midwest
+12089,4017,PR,2011,Hurricane,1,Territories
+12145,4016,IA,2011,Severe Storm,1,Midwest
+12151,4015,LA,2011,Flood,0,Southwest
+12158,4015,LA,2011,Flood,1,Southwest
+12173,4014,NE,2011,Severe Storm,1,Midwest
+12185,4013,NE,2011,Flood,1,Midwest
+12202,4012,MO,2011,Flood,1,Midwest
+12213,4011,UT,2011,Flood,1,West
+12232,4010,KS,2011,Severe Storm,1,Midwest
+12257,4009,MN,2011,Severe Storm,1,Midwest
+12273,4008,KY,2011,Severe Storm,1,Southeast
+12280,4007,WY,2011,Severe Storm,1,West
+12296,4006,NH,2011,Flood,1,Northeast
+12298,4005,TN,2011,Severe Storm,1,Southeast
+12305,4004,PR,2011,Severe Storm,1,Territories
+12318,4003,PA,2011,Severe Storm,1,Northeast
+12323,4001,VT,2011,Severe Storm,1,Northeast
+12327,4000,AR,2011,Severe Storm,1,Southwest
+12330,3591,CA,2023,Flood,0,West
+12371,3589,NY,2023,Winter Storm,0,Northeast
+12382,3586,NC,2023,Hurricane,0,Southeast
+12483,3581,VI,2022,Other,0,Southeast
+12484,3579,OK,2020,Biological,0,Southwest
+12485,3577,IL,2022,Tornado,0,Midwest
+12499,3576,TN,2022,Tornado,0,Southeast
+12508,3575,KY,2022,Tornado,0,Southeast
+12524,3573,NJ,2021,Hurricane,0,Northeast
+12545,3572,NY,2021,Hurricane,0,Northeast
+12559,3571,CA,2021,Fire,0,West
+12563,3569,MS,2021,Hurricane,0,Southeast
+12646,3568,LA,2021,Hurricane,0,Southwest
+12710,3567,VT,2021,Hurricane,0,Northeast
+12724,3566,MA,2021,Hurricane,0,Northeast
+12725,3564,CT,2021,Hurricane,0,Northeast
+12735,3562,FL,2021,Hurricane,0,Southeast
+12758,3561,FL,2021,Severe Storm,0,Southeast
+12795,3560,FL,2021,Other,0,Southeast
+12796,3559,NM,2020,Biological,0,Southwest
+12798,3558,NM,2020,Biological,0,Southwest
+12800,3557,NY,2020,Biological,0,Northeast
+12801,3556,LA,2021,Severe Ice Storm,0,Southwest
+12865,3555,OK,2021,Severe Ice Storm,0,Southwest
+12942,3554,TX,2021,Severe Ice Storm,0,Southwest
+13196,3552,TN,2021,Other,0,Southeast
+13197,3551,FL,2021,Hurricane,0,Southeast
+13210,3550,MS,2021,Hurricane,0,Southeast
+13223,3549,LA,2021,Hurricane,0,Southwest
+13287,3546,FL,2020,Hurricane,0,Southeast
+13300,3545,AL,2020,Hurricane,0,Southeast
+13368,3543,LA,2020,Hurricane,0,Southwest
+13432,3541,AR,2020,Hurricane,0,Southwest
+13507,3540,TX,2020,Hurricane,0,Southwest
+13569,3539,MS,2020,Hurricane,0,Southeast
+13593,3538,LA,2020,Hurricane,0,Southwest
+13657,3537,PR,2020,Hurricane,0,Territories
+13735,3535,CT,2020,Hurricane,0,Northeast
+13745,3534,NC,2020,Hurricane,0,Southeast
+13846,3533,FL,2020,Hurricane,0,Southeast
+13865,3532,PR,2020,Hurricane,0,Territories
+13943,3531,VI,2020,Hurricane,0,Southeast
+13946,3529,HI,2020,Hurricane,0,West
+13950,3525,MI,2020,Dam/Levee Break,0,Midwest
+13952,3515,RI,2020,Biological,0,Northeast
+13953,3498,ME,2020,Biological,0,Northeast
+13954,3497,MA,2020,Biological,0,Northeast
+13955,3496,NM,2020,Biological,0,Southwest
+13956,3492,KS,2020,Biological,0,Midwest
+13957,3491,KS,2020,Biological,0,Midwest
+13958,3486,OK,2020,Biological,0,Southwest
+13959,3484,MA,2020,Biological,0,Northeast
+14004,3475,SD,2020,Biological,0,Midwest
+14085,3580,NM,2020,Biological,0,Southwest
+14088,4715,GU,2023,Hurricane,1,Territories
+14089,3594,GU,2023,Tropical Storm,0,Territories
+14090,4446,NE,2019,Flood,1,Midwest
+14092,5247,CO,2018,Fire,1,West
+14093,4300,LA,2017,Tornado,1,Southwest
+14104,5259,CA,2018,Fire,1,West
+14106,4537,AS,2020,Biological,1,Territories
+14111,4535,WY,2020,Biological,1,West
+14135,4534,ID,2020,Biological,0,West
+14140,4534,ID,2020,Biological,1,West
+14184,4533,AK,2020,Biological,0,West
+14234,4533,AK,2020,Biological,1,West
+14268,4532,VT,2020,Biological,1,Northeast
+14282,4531,MN,2020,Biological,1,Midwest
+14389,4530,OK,2020,Biological,1,Southwest
+14501,4529,NM,2020,Biological,1,Southwest
+14570,4528,MS,2020,Biological,1,Southeast
+14610,3451,NJ,2020,Biological,0,Northeast
+14631,3442,AZ,2020,Biological,0,Southwest
+14667,3436,CO,2020,Biological,0,West
+14733,3432,FL,2020,Biological,0,Southeast
+14800,3429,OR,2020,Biological,0,West
+14836,3428,CA,2020,Biological,0,West
+14894,3427,WA,2020,Biological,0,West
+14933,3426,PR,2020,Earthquake,0,Territories
+15011,3425,MP,2020,Typhoon,0,Territories
+15015,3424,MP,2020,Typhoon,0,Territories
+15019,3416,LA,2019,Coastal Storm,0,Southwest
+15060,3415,CA,2019,Earthquake,0,West
+15062,3414,AR,2019,Flood,0,Southwest
+15078,3413,LA,2019,Flood,0,Southwest
+15089,3411,OK,2019,Flood,0,Southwest
+15099,3410,AK,2019,Earthquake,0,West
+15102,3409,CA,2019,Fire,0,West
+15105,3408,MP,2019,Typhoon,0,Territories
+15109,3407,AL,2019,Hurricane,0,Southeast
+15127,3406,GA,2019,Hurricane,0,Southeast
+15235,3405,FL,2019,Hurricane,0,Southeast
+15270,3403,VA,2018,Hurricane,0,Southeast
+15404,3402,MP,2018,Typhoon,0,Territories
+15407,3401,NC,2018,Hurricane,0,Southeast
+15508,3400,SC,2018,Hurricane,0,Southeast
+15555,3398,CA,2018,Fire,0,West
+15556,3397,AS,2018,Hurricane,0,Territories
+15561,3396,CA,2018,Fire,0,West
+15566,3394,AL,2018,Hurricane,0,Southeast
+15606,3393,MS,2018,Hurricane,0,Southeast
+15612,3392,LA,2018,Hurricane,0,Southwest
+15631,3391,PR,2017,Hurricane,0,Territories
+15709,3390,VI,2017,Hurricane,0,Southeast
+15712,3389,AL,2017,Hurricane,0,Southeast
+15780,3388,FL,2017,Hurricane,0,Southeast
+15781,3387,GA,2017,Hurricane,0,Southeast
+15940,3386,SC,2017,Hurricane,0,Southeast
+15987,3385,FL,2017,Hurricane,0,Southeast
+16054,3384,PR,2017,Hurricane,0,Territories
+16076,3383,VI,2017,Hurricane,0,Southeast
+16079,3382,LA,2017,Hurricane,0,Southwest
+16094,3381,CA,2017,Dam/Levee Break,0,West
+16097,3380,NC,2017,Hurricane,0,Southeast
+16163,3379,GA,2017,Hurricane,0,Southeast
+16193,3378,SC,2017,Hurricane,0,Southeast
+16240,3377,FL,2017,Hurricane,0,Southeast
+16268,3376,LA,2016,Flood,0,Southwest
+16275,3375,MI,2016,Toxic Substances,0,Midwest
+16276,3374,MO,2016,Flood,0,Midwest
+16351,3373,SC,2016,Severe Storm,0,Southeast
+16398,3372,WA,2015,Fire,0,West
+16413,3371,WA,2014,Fire,0,West
+16416,3370,WA,2014,Mud/Landslide,0,West
+16417,3369,SC,2014,Severe Ice Storm,0,Southeast
+16463,3368,GA,2014,Severe Ice Storm,0,Southeast
+16554,3367,PA,2014,Severe Ice Storm,0,Northeast
+16561,3366,WV,2014,Chemical,0,Southeast
+16570,3365,CO,2013,Flood,0,West
+16585,3364,ND,2013,Flood,0,Midwest
+16591,3363,TX,2013,Other,0,Southwest
+16592,3362,MA,2013,Terrorist,0,Northeast
+16596,3361,CT,2013,Severe Storm,0,Northeast
+16605,3360,NH,2013,Hurricane,0,Northeast
+16615,3359,VA,2013,Hurricane,0,Southeast
+16751,3358,WV,2013,Hurricane,0,Southeast
+16806,3357,DE,2013,Hurricane,0,Northeast
+16809,3356,PA,2013,Hurricane,0,Northeast
+16877,3355,RI,2013,Hurricane,0,Northeast
+16882,3354,NJ,2013,Hurricane,0,Northeast
+16903,3353,CT,2013,Hurricane,0,Northeast
+16911,3352,DC,2013,Hurricane,0,Southeast
+16912,3351,NY,2013,Hurricane,0,Northeast
+16974,3350,MA,2013,Hurricane,0,Northeast
+16988,3349,MD,2013,Hurricane,0,Southeast
+17012,3348,MS,2012,Hurricane,0,Southeast
+17046,3347,LA,2012,Hurricane,0,Southwest
+17080,3346,OH,2012,Severe Storm,0,Midwest
+17168,3345,WV,2012,Severe Storm,0,Southeast
+17223,3344,NH,2012,Severe Storm,0,Northeast
+17233,3343,MA,2012,Severe Storm,0,Northeast
+17241,3342,CT,2012,Severe Storm,0,Northeast
+17249,3341,NY,2011,Severe Storm,0,Northeast
+17264,3340,PA,2011,Flood,0,Northeast
+17306,3339,PA,2011,Hurricane,0,Northeast
+17319,3338,VT,2011,Hurricane,0,Northeast
+17333,3337,DC,2011,Hurricane,0,Southeast
+17334,3336,DE,2011,Hurricane,0,Northeast
+17337,3335,MD,2011,Hurricane,0,Southeast
+17360,3334,RI,2011,Hurricane,0,Northeast
+17365,3333,NH,2011,Hurricane,0,Northeast
+17375,3332,NJ,2011,Hurricane,0,Northeast
+17396,3331,CT,2011,Hurricane,0,Northeast
+17404,3330,MA,2011,Hurricane,0,Northeast
+17418,3329,VA,2011,Hurricane,0,Southeast
+17448,3328,NY,2011,Hurricane,0,Northeast
+17465,3327,NC,2011,Hurricane,0,Southeast
+17499,3326,PR,2011,Hurricane,0,Territories
+17577,3325,MO,2011,Flood,0,Midwest
+17605,3324,KS,2011,Flood,0,Midwest
+17609,3323,NE,2011,Flood,0,Midwest
+17627,3322,LA,2011,Flood,0,Southwest
+17653,3321,TN,2011,Flood,0,Southeast
+17657,3320,MS,2011,Flood,0,Southeast
+17671,3319,AL,2011,Severe Storm,0,Southeast
+17738,3318,ND,2011,Flood,0,Midwest
+17760,3317,MO,2011,Severe Storm,0,Midwest
+17875,3316,OK,2011,Severe Storm,0,Southwest
+17952,3315,MA,2010,Hurricane,0,Northeast
+17962,3314,NC,2010,Hurricane,0,Southeast
+17992,3313,TX,2010,Hurricane,0,Southwest
+18017,3312,MA,2010,Other,0,Northeast
+18021,3311,RI,2010,Severe Storm,0,Northeast
+18026,3310,MN,2010,Flood,0,Midwest
+18055,3309,ND,2010,Flood,0,Midwest
+18074,3308,OK,2010,Severe Storm,0,Southwest
+18151,3307,AZ,2010,Severe Storm,0,Southwest
+18156,3305,OK,2009,Snowstorm,0,Southwest
+18160,3304,MN,2009,Severe Storm,0,Midwest
+18167,3303,MO,2009,Severe Ice Storm,0,Midwest
+18282,3302,KY,2009,Severe Ice Storm,0,Southeast
+18382,3301,AR,2009,Severe Ice Storm,0,Southwest
+18430,3300,DC,2009,Other,0,Southeast
+18431,3299,NY,2009,Severe Storm,0,Northeast
+18447,3298,ME,2009,Severe Storm,0,Northeast
+18453,3297,NH,2009,Severe Storm,0,Northeast
+18463,3296,MA,2009,Severe Storm,0,Northeast
+18472,3295,LA,2008,Hurricane,0,Southwest
+18476,3294,TX,2008,Hurricane,0,Southwest
+18564,3293,FL,2008,Hurricane,0,Southeast
+18565,3292,AL,2008,Hurricane,0,Southeast
+18632,3291,MS,2008,Hurricane,0,Southeast
+18714,3290,TX,2008,Hurricane,0,Southwest
+18775,3289,LA,2008,Hurricane,0,Southwest
+18839,3288,FL,2008,Severe Storm,0,Southeast
+18906,3287,CA,2008,Fire,0,West
+18919,3286,OH,2008,Snowstorm,0,Midwest
+18939,3285,WI,2008,Snowstorm,0,Midwest
+18950,3284,TX,2008,Fire,0,Southwest
+19179,3283,IL,2008,Snowstorm,0,Midwest
+19187,3282,KS,2008,Severe Storm,0,Midwest
+19292,3281,MO,2008,Severe Ice Storm,0,Midwest
+19408,3280,OK,2008,Severe Ice Storm,0,Southwest
+19485,3279,CA,2008,Fire,0,West
+19492,3278,MN,2007,Other,0,Midwest
+19493,3277,TX,2007,Hurricane,0,Southwest
+19525,3276,FM,2007,Drought,0,Territories
+19526,3275,IA,2007,Snowstorm,0,Midwest
+19556,3274,IN,2007,Snowstorm,0,Midwest
+19605,3273,NY,2007,Snowstorm,0,Northeast
+19608,3272,OK,2007,Severe Ice Storm,0,Southwest
+19685,3271,CO,2007,Snowstorm,0,West
+19695,3270,CO,2007,Snowstorm,0,West
+19711,3269,IL,2007,Snowstorm,0,Midwest
+19737,3268,NY,2007,Snowstorm,0,Northeast
+19741,3267,MO,2006,Severe Storm,0,Midwest
+19749,3266,CT,2006,Snowstorm,0,Northeast
+19754,3265,ME,2006,Snowstorm,0,Northeast
+19755,3264,MA,2006,Severe Storm,0,Northeast
+19756,3263,DE,2005,Hurricane,0,Northeast
+19759,3262,NY,2005,Hurricane,0,Northeast
+19821,3261,TX,2005,Hurricane,0,Southwest
+20076,3260,LA,2005,Hurricane,0,Southwest
+20140,3258,NH,2005,Hurricane,0,Northeast
+20150,3257,NJ,2005,Hurricane,0,Northeast
+20171,3256,ME,2005,Hurricane,0,Northeast
+20186,3255,RI,2005,Hurricane,0,Northeast
+20191,3254,NC,2005,Hurricane,0,Southeast
+20228,3253,MT,2005,Hurricane,0,West
+20284,3252,MA,2005,Hurricane,0,Northeast
+20298,3251,MD,2005,Hurricane,0,Southeast
+20322,3250,OH,2005,Hurricane,0,Midwest
+20410,3249,WI,2005,Hurricane,0,Midwest
+20483,3248,CA,2005,Hurricane,0,West
+20541,3247,ND,2005,Coastal Storm,0,Midwest
+20594,3246,CT,2005,Hurricane,0,Northeast
+20602,3245,NE,2005,Hurricane,0,Midwest
+20695,3244,ID,2005,Hurricane,0,West
+20739,3243,NV,2005,Hurricane,0,West
+20756,3242,MN,2005,Hurricane,0,Midwest
+20843,3241,AZ,2005,Hurricane,0,Southwest
+20858,3240,VA,2005,Hurricane,0,Southeast
+20992,3239,IA,2005,Hurricane,0,Midwest
+21091,3238,IN,2005,Hurricane,0,Midwest
+21183,3237,AL,2005,Hurricane,0,Southeast
+21250,3236,KS,2005,Hurricane,0,Midwest
+21355,3234,SD,2005,Coastal Storm,0,Midwest
+21421,3233,SC,2005,Hurricane,0,Southeast
+21467,3232,MO,2005,Hurricane,0,Midwest
+21582,3230,IL,2005,Hurricane,0,Midwest
+21684,3229,NM,2005,Hurricane,0,Southwest
+21717,3228,OR,2005,Coastal Storm,0,West
+21753,3227,WA,2005,Coastal Storm,0,West
+21792,3226,DC,2005,Hurricane,0,Southeast
+21793,3225,MI,2005,Hurricane,0,Midwest
+21876,3224,CO,2005,Coastal Storm,0,West
+21940,3223,UT,2005,Coastal Storm,0,West
+21969,3222,NC,2005,Hurricane,0,Southeast
+22069,3221,WV,2005,Hurricane,0,Southeast
+22124,3220,FL,2005,Hurricane,0,Southeast
+22191,3219,OK,2005,Hurricane,0,Southwest
+22268,3218,GA,2005,Hurricane,0,Southeast
+22427,3217,TN,2005,Hurricane,0,Southeast
+22522,3216,TX,2005,Hurricane,0,Southwest
+22776,3215,AR,2005,Hurricane,0,Southwest
+22852,3214,AL,2005,Hurricane,0,Southeast
+22858,3213,MS,2005,Hurricane,0,Southeast
+22869,3212,LA,2005,Hurricane,0,Southwest
+22932,3211,NH,2005,Snowstorm,0,Northeast
+22937,3210,ME,2005,Snowstorm,0,Northeast
+22940,3209,ME,2005,Snowstorm,0,Northeast
+22949,3208,NH,2005,Snowstorm,0,Northeast
+22954,3207,NH,2005,Snowstorm,0,Northeast
+22963,3206,ME,2005,Snowstorm,0,Northeast
+22976,3205,ME,2005,Snowstorm,0,Northeast
+22978,3204,NV,2005,Snowstorm,0,West
+22994,3203,RI,2005,Snowstorm,0,Northeast
+22999,3202,NV,2005,Snowstorm,0,West
+23014,3201,MA,2005,Snowstorm,0,Northeast
+23028,3200,CT,2005,Snowstorm,0,Northeast
+23036,3199,IL,2005,Snowstorm,0,Midwest
+23052,3198,OH,2005,Snowstorm,0,Midwest
+23078,3197,IN,2005,Snowstorm,0,Midwest
+23128,3196,ND,2004,Snowstorm,0,Midwest
+23138,3195,NY,2004,Snowstorm,0,Northeast
+23142,3194,ME,2004,Snowstorm,0,Northeast
+23149,3193,NH,2004,Snowstorm,0,Northeast
+23157,3192,CT,2004,Snowstorm,0,Northeast
+23164,3191,MA,2004,Snowstorm,0,Northeast
+23176,3190,ME,2004,Snowstorm,0,Northeast
+23187,3189,MI,2003,Other,0,Midwest
+23201,3188,NJ,2003,Other,0,Northeast
+23206,3187,OH,2003,Other,0,Midwest
+23219,3186,NY,2003,Other,0,Northeast
+23284,3185,CO,2003,Snowstorm,0,West
+23313,3184,NY,2003,Snowstorm,0,Northeast
+23335,3183,DE,2003,Snowstorm,0,Northeast
+23338,3182,RI,2003,Snowstorm,0,Northeast
+23340,3181,NJ,2003,Snowstorm,0,Northeast
+23361,3180,PA,2003,Severe Storm,0,Northeast
+23397,3179,MD,2003,Severe Storm,0,Southeast
+23417,3178,DC,2003,Severe Storm,0,Southeast
+23418,3177,NH,2003,Snowstorm,0,Northeast
+23423,3176,CT,2003,Snowstorm,0,Northeast
+23431,3175,MA,2003,Snowstorm,0,Northeast
+23445,3174,ME,2003,Snowstorm,0,Northeast
+23446,3173,NY,2003,Snowstorm,0,Northeast
+23466,3172,LA,2003,Other,0,Southwest
+23507,3171,TX,2003,Other,0,Southwest
+23561,3170,NY,2002,Snowstorm,0,Northeast
+23567,3169,NJ,2001,Fire,0,Northeast
+23588,3168,VA,2001,Fire,0,Southeast
+23589,3167,VT,2001,Snowstorm,0,Northeast
+23598,3166,NH,2001,Snowstorm,0,Northeast
+23605,3165,MA,2001,Snowstorm,0,Northeast
+23612,3164,ME,2001,Snowstorm,0,Northeast
+23625,3163,WI,2001,Snowstorm,0,Midwest
+23639,3162,IN,2001,Snowstorm,0,Midwest
+23668,3159,AR,2001,Severe Ice Storm,0,Southwest
+23720,3158,OK,2001,Severe Ice Storm,0,Southwest
+23759,3157,NY,2001,Snowstorm,0,Northeast
+23762,3156,NJ,2001,Other,0,Northeast
+23783,3155,NY,2001,Other,0,Northeast
+23844,3154,NM,2000,Fire,0,Southwest
+23877,3153,MA,2000,Fire,0,Northeast
+23878,3152,VI,2000,Hurricane,0,Southeast
+23881,3151,PR,2000,Hurricane,0,Territories
+23959,3150,FL,2000,Hurricane,0,Southeast
+23988,3149,NY,1999,Hurricane,0,Northeast
+23992,3148,NJ,1999,Hurricane,0,Northeast
+24013,3147,VA,1999,Hurricane,0,Southeast
+24032,3146,NC,1999,Hurricane,0,Southeast
+24098,3145,SC,1999,Hurricane,0,Southeast
+24125,3144,GA,1999,Hurricane,0,Southeast
+24131,3143,FL,1999,Hurricane,0,Southeast
+24143,3142,TX,1999,Fire,0,Southwest
+24370,3141,NC,1999,Hurricane,0,Southeast
+24381,3140,CA,1999,Fire,0,West
+24391,3139,FL,1999,Fire,0,Southeast
+24443,3138,NY,1999,Snowstorm,0,Northeast
+24449,3137,MI,1999,Snowstorm,0,Midwest
+24480,3136,NY,1999,Snowstorm,0,Northeast
+24490,3135,IN,1999,Snowstorm,0,Midwest
+24547,3133,AL,1998,Hurricane,0,Southeast
+24559,3132,MS,1998,Hurricane,0,Southeast
+24577,3131,FL,1998,Hurricane,0,Southeast
+24611,3130,PR,1998,Hurricane,0,Territories
+24612,3129,VI,1998,Hurricane,0,Southeast
+24613,3128,NM,1998,Fire,0,Southwest
+24614,3127,TX,1998,Fire,0,Southwest
+24615,3126,KS,1998,Other,0,Midwest
+24617,3125,AR,1998,Tornado,0,Southwest
+24618,3124,PR,1997,Other,0,Territories
+24619,3123,RI,1997,Other,0,Northeast
+24621,3122,HI,1997,Severe Storm,0,West
+24622,3121,ME,1997,Severe Storm,0,Northeast
+24624,3120,CA,1997,Fire,0,West
+24628,3119,MA,1997,Flood,0,Northeast
+24633,3118,OK,1996,Fire,0,Southwest
+24640,3117,TX,1996,Fire,0,Southwest
+24690,3116,FL,1995,Hurricane,0,Southeast
+24691,3115,OK,1995,Human Cause,0,Southwest
+24692,3114,FL,1994,Flood,0,Southeast
+24706,3113,TX,1993,Drought,0,Southwest
+24855,3112,VA,1993,Snowstorm,0,Southeast
+24991,3111,DE,1993,Snowstorm,0,Northeast
+24994,3110,NC,1993,Snowstorm,0,Southeast
+25053,3109,WV,1993,Snowstorm,0,Southeast
+25108,3108,DC,1993,Snowstorm,0,Southeast
+25109,3107,NY,1993,Snowstorm,0,Northeast
+25171,3106,NJ,1993,Snowstorm,0,Northeast
+25192,3105,PA,1993,Snowstorm,0,Northeast
+25259,3104,KY,1993,Snowstorm,0,Southeast
+25332,3103,MA,1993,Snowstorm,0,Northeast
+25346,3102,RI,1993,Snowstorm,0,Northeast
+25351,3101,NH,1993,Snowstorm,0,Northeast
+25361,3100,MD,1993,Snowstorm,0,Southeast
+25385,3099,ME,1993,Snowstorm,0,Northeast
+25401,3098,CT,1993,Snowstorm,0,Northeast
+25409,3097,GA,1993,Snowstorm,0,Southeast
+25502,3096,AL,1993,Snowstorm,0,Southeast
+25569,3095,TN,1993,Snowstorm,0,Southeast
+25626,3094,RI,1992,Toxic Substances,0,Northeast
+25628,3093,FM,1992,Drought,0,Territories
+25630,3092,WY,1987,Toxic Substances,0,West
+25631,3091,WI,1984,Flood,0,Midwest
+25634,3090,LA,1984,Tornado,0,Southwest
+25635,3089,GA,1984,Tornado,0,Southeast
+25641,3088,AL,1984,Tornado,0,Southeast
+25645,3087,MS,1984,Flood,0,Southeast
+25646,3086,WA,1982,Flood,0,West
+25647,3085,AR,1982,Tornado,0,Southwest
+25659,3084,MS,1982,Tornado,0,Southeast
+25662,3083,NJ,1981,Drought,0,Northeast
+25683,3082,ME,1980,Fishing Losses,0,Northeast
+25691,3081,PA,1980,Tornado,0,Northeast
+25695,3080,NY,1980,Toxic Substances,0,Northeast
+25696,3079,FL,1980,Human Cause,0,Southeast
+25700,3078,CA,1980,Coastal Storm,0,West
+25703,3077,MS,1979,Severe Storm,0,Southeast
+25708,3076,IA,1979,Tornado,0,Midwest
+25713,3075,FL,1979,Flood,0,Southeast
+25715,3074,AL,1979,Flood,0,Southeast
+25724,3073,NH,1979,Flood,0,Northeast
+25725,3072,GA,1979,Flood,0,Southeast
+25728,3071,MO,1979,Flood,0,Midwest
+25730,3070,WA,1979,Flood,0,West
+25731,3069,WI,1979,Snowstorm,0,Midwest
+25734,3068,IL,1979,Snowstorm,0,Midwest
+25758,3067,CA,1979,Fire,0,West
+25759,3066,NY,1978,Toxic Substances,0,Northeast
+25760,3065,ND,1978,Tornado,0,Midwest
+25761,3064,AL,1978,Tornado,0,Southeast
+25763,3063,MS,1978,Tornado,0,Southeast
+25778,3062,AR,1978,Tornado,0,Southwest
+25779,3061,ND,1978,Snowstorm,0,Midwest
+25788,3060,CT,1978,Snowstorm,0,Northeast
+25796,3059,MA,1978,Snowstorm,0,Northeast
+25797,3058,RI,1978,Snowstorm,0,Northeast
+25802,3057,MI,1978,Snowstorm,0,Midwest
+25885,3056,IN,1978,Snowstorm,0,Midwest
+25886,3055,OH,1978,Snowstorm,0,Midwest
+25974,3054,AR,1978,Tornado,0,Southwest
+25977,3053,VT,1977,Drought,0,Northeast
+25978,3052,WV,1977,Flood,0,Southeast
+25981,3051,WV,1977,Drought,0,Southeast
+25990,3050,MT,1977,Drought,0,West
+25996,3049,NC,1977,Drought,0,Southeast
+26045,3048,WI,1978,Severe Storm,0,Midwest
+26055,3047,SC,1977,Drought,0,Southeast
+26086,3046,VA,1977,Drought,0,Southeast
+26148,3045,AL,1977,Drought,0,Southeast
+26215,3044,GA,1977,Drought,0,Southeast
+26359,3043,WY,1977,Drought,0,West
+26363,3042,VI,1977,Drought,0,Southeast
+26366,3041,NV,1977,Drought,0,West
+26371,3040,ID,1977,Drought,0,West
+26380,3039,OR,1977,Drought,0,West
+26399,3038,AZ,1977,Drought,0,Southwest
+26407,3037,WA,1977,Drought,0,West
+26423,3036,IA,1977,Drought,0,Midwest
+26426,3035,MI,1977,Drought,0,Midwest
+26470,3034,NM,1977,Drought,0,Southwest
+26478,3033,NC,1977,Snowstorm,0,Southeast
+26508,3032,MS,1977,Snowstorm,0,Southeast
+26580,3031,LA,1977,Snowstorm,0,Southwest
+26614,3030,MI,1977,Snowstorm,0,Midwest
+26626,3029,OH,1977,Snowstorm,0,Midwest
+26673,3028,IN,1977,Snowstorm,0,Midwest
+26713,3027,NY,1977,Snowstorm,0,Northeast
+26722,3026,PA,1977,Snowstorm,0,Northeast
+26743,3025,CO,1977,Drought,0,West
+26785,3024,UT,1977,Drought,0,West
+26812,3023,CA,1977,Drought,0,West
+26859,3022,NE,1977,Drought,0,Midwest
+26861,3021,WV,1977,Drought,0,Southeast
+26873,3020,OK,1977,Fire,0,Southwest
+26874,3019,AR,1977,Drought,0,Southwest
+26906,3018,VA,1977,Drought,0,Southeast
+26944,3017,MO,1976,Drought,0,Midwest
+27039,3016,ND,1976,Drought,0,Midwest
+27057,3015,SD,1976,Drought,0,Midwest
+27119,3014,WI,1976,Drought,0,Midwest
+27185,3013,MN,1976,Drought,0,Midwest
+27263,3012,ND,1976,Flood,0,Midwest
+27264,3011,LA,1975,Flood,0,Southwest
+27271,3010,MS,1975,Flood,0,Southeast
+27276,3009,KY,1975,Other,0,Southeast
+27277,3008,GA,1975,Tornado,0,Southeast
+27278,3007,AL,1975,Tornado,0,Southeast
+27283,3006,MS,1975,Tornado,0,Southeast
+27285,3005,NJ,1975,Coastal Storm,0,Northeast
+27286,3004,NY,1975,Flood,0,Northeast
+27287,3003,AK,1974,Other,0,West
+27288,3002,PR,1974,Drought,0,Territories
+27312,3001,VI,1974,Drought,0,Southeast
+27314,2999,OK,2012,Fire,0,Southwest
+27315,2997,OK,2012,Fire,0,Southwest
+27316,2996,SD,2012,Fire,0,Midwest
+27317,2994,UT,2012,Fire,0,West
+27318,2991,UT,2012,Fire,0,West
+27319,2990,UT,2012,Fire,0,West
+27320,2989,MT,2012,Fire,0,West
+27322,2988,MT,2012,Fire,0,West
+27323,2987,MT,2012,Fire,0,West
+27324,2986,UT,2012,Fire,0,West
+27325,2985,CO,2012,Fire,0,West
+27326,2984,CO,2012,Fire,0,West
+27327,2983,UT,2012,Fire,0,West
+27328,2982,NM,2012,Fire,0,Southwest
+27329,2981,NM,2012,Fire,0,Southwest
+27330,2980,CO,2012,Fire,0,West
+27331,2979,NM,2012,Fire,0,Southwest
+27332,2978,NM,2012,Fire,0,Southwest
+27334,2977,NV,2012,Fire,0,West
+27335,2976,TX,2012,Fire,0,Southwest
+27336,2975,CO,2012,Fire,0,West
+27337,2974,NV,2012,Fire,0,West
+27338,2973,NV,2012,Fire,0,West
+27339,2972,NV,2012,Fire,0,West
+27340,2971,CA,2011,Fire,0,West
+27341,2970,CA,2011,Fire,0,West
+27342,2969,NV,2011,Fire,0,West
+27343,2966,WA,2011,Fire,0,West
+27344,2965,TX,2011,Fire,0,Southwest
+27346,2964,TX,2011,Fire,0,Southwest
+27349,2963,TX,2011,Fire,0,Southwest
+27350,2962,TX,2011,Fire,0,Southwest
+27351,2961,CA,2011,Fire,0,West
+27352,2960,TX,2011,Fire,0,Southwest
+27353,2959,TX,2011,Fire,0,Southwest
+27354,2957,TX,2011,Fire,0,Southwest
+27355,2956,OK,2011,Fire,0,Southwest
+27356,2955,CA,2011,Fire,0,West
+27357,2954,OK,2011,Fire,0,Southwest
+27358,2953,OK,2011,Fire,0,Southwest
+27359,2952,TX,2011,Fire,0,Southwest
+27360,2951,OK,2011,Fire,0,Southwest
+27361,2950,MT,2011,Fire,0,West
+27362,2948,OK,2011,Fire,0,Southwest
+27363,2947,OK,2011,Fire,0,Southwest
+27365,2943,OK,2011,Fire,0,Southwest
+27366,2941,OK,2011,Fire,0,Southwest
+27367,2939,OK,2011,Fire,0,Southwest
+27368,2938,OK,2011,Fire,0,Southwest
+27369,2937,TX,2011,Fire,0,Southwest
+27370,2936,NC,2011,Fire,0,Southeast
+27372,2934,NM,2011,Fire,0,Southwest
+27373,2932,OK,2011,Fire,0,Southwest
+27374,2927,TX,2011,Fire,0,Southwest
+27375,2923,CO,2011,Fire,0,West
+27377,2922,TX,2011,Fire,0,Southwest
+27379,2921,GA,2011,Fire,0,Southeast
+27380,2920,GA,2011,Fire,0,Southeast
+27383,2919,AZ,2011,Fire,0,Southwest
+27384,2917,NM,2011,Fire,0,Southwest
+27385,2915,AZ,2011,Fire,0,Southwest
+27387,2913,TX,2011,Fire,0,Southwest
+27389,2911,TX,2011,Fire,0,Southwest
+27390,2909,AK,2011,Fire,0,West
+27391,2908,TX,2011,Fire,0,Southwest
+27392,2907,AZ,2011,Fire,0,Southwest
+27393,2906,TX,2011,Fire,0,Southwest
+27394,2902,FL,2011,Fire,0,Southeast
+27395,2901,TX,2011,Fire,0,Southwest
+27396,2900,NE,2011,Fire,0,Midwest
+27397,2897,NM,2011,Fire,0,Southwest
+27399,2896,TX,2011,Fire,0,Southwest
+27400,2895,TX,2011,Fire,0,Southwest
+27403,2893,TX,2011,Fire,0,Southwest
+27406,2892,TX,2011,Fire,0,Southwest
+27408,2891,TX,2011,Fire,0,Southwest
+27409,2890,OK,2011,Fire,0,Southwest
+27410,2884,TX,2011,Fire,0,Southwest
+27413,2882,TX,2011,Fire,0,Southwest
+27414,2881,TX,2011,Fire,0,Southwest
+27416,2878,KS,2011,Fire,0,Midwest
+27418,2877,CO,2011,Fire,0,West
+27419,2876,GA,2011,Fire,0,Southeast
+27420,2875,GA,2011,Fire,0,Southeast
+27421,2874,OK,2011,Fire,0,Southwest
+27422,2873,CO,2011,Fire,0,West
+27423,2872,OK,2011,Fire,0,Southwest
+27424,2871,OK,2011,Fire,0,Southwest
+27425,2870,TX,2011,Fire,0,Southwest
+27427,2869,OK,2011,Fire,0,Southwest
+27428,2868,OK,2011,Fire,0,Southwest
+27429,2867,TX,2011,Fire,0,Southwest
+27430,2866,NM,2011,Fire,0,Southwest
+27431,2865,TX,2011,Fire,0,Southwest
+27432,2864,TX,2011,Fire,0,Southwest
+27433,2863,TX,2011,Fire,0,Southwest
+27434,2862,TX,2011,Fire,0,Southwest
+27435,2861,VA,2011,Fire,0,Southeast
+27436,2860,VA,2011,Fire,0,Southeast
+27437,2858,CA,2010,Fire,0,West
+27438,2857,CO,2010,Fire,0,West
+27439,2856,CA,2010,Fire,0,West
+27440,2855,CO,2010,Fire,0,West
+27441,2854,WA,2010,Fire,0,West
+27442,2853,ID,2010,Fire,0,West
+27443,2852,CA,2010,Fire,0,West
+27444,2851,CA,2010,Fire,0,West
+27445,2850,CA,2010,Fire,0,West
+27446,2849,CA,2010,Fire,0,West
+27447,2848,WA,2010,Fire,0,West
+27448,2847,NV,2010,Fire,0,West
+27449,2846,AZ,2010,Fire,0,Southwest
+27450,2845,AZ,2010,Fire,0,Southwest
+27451,2844,HI,2010,Fire,0,West
+27452,2843,NM,2010,Fire,0,Southwest
+27453,2842,NM,2010,Fire,0,Southwest
+27454,2841,CA,2010,Fire,0,West
+27455,2840,AZ,2010,Fire,0,Southwest
+27456,2839,CA,2009,Fire,0,West
+27457,2838,OR,2009,Fire,0,West
+27458,2837,MT,2009,Fire,0,West
+27459,2836,CA,2009,Fire,0,West
+27460,2835,AZ,2009,Fire,0,Southwest
+27461,2834,HI,2009,Fire,0,West
+27462,2833,CA,2009,Fire,0,West
+27463,2832,CA,2009,Fire,0,West
+27464,2831,UT,2009,Fire,0,West
+27465,2830,CA,2009,Fire,0,West
+27466,2829,OR,2009,Fire,0,West
+27468,2826,WA,2009,Fire,0,West
+27469,2825,CA,2009,Fire,0,West
+27471,2824,CA,2009,Fire,0,West
+27472,2823,WA,2009,Fire,0,West
+27473,2822,NV,2009,Fire,0,West
+27474,2821,AZ,2009,Fire,0,Southwest
+27475,2820,AK,2009,Fire,0,West
+27476,2819,FL,2009,Fire,0,Southeast
+27477,2818,NM,2009,Fire,0,Southwest
+27478,2817,CA,2009,Fire,0,West
+27479,2816,SC,2009,Fire,0,Southeast
+27480,2815,TX,2009,Fire,0,Southwest
+27481,2814,TX,2009,Fire,0,Southwest
+27482,2813,OK,2009,Fire,0,Southwest
+27483,2812,OK,2009,Fire,0,Southwest
+27484,2811,OK,2009,Fire,0,Southwest
+27485,2810,TX,2009,Fire,0,Southwest
+27486,2809,OK,2009,Fire,0,Southwest
+27487,2808,OK,2009,Fire,0,Southwest
+27488,2807,TX,2009,Fire,0,Southwest
+27489,2806,TX,2009,Fire,0,Southwest
+27490,2805,TX,2009,Fire,0,Southwest
+27491,2804,TX,2009,Fire,0,Southwest
+27492,2803,TX,2009,Fire,0,Southwest
+27493,2802,TX,2009,Fire,0,Southwest
+27494,2801,TX,2009,Fire,0,Southwest
+27495,2800,TX,2009,Fire,0,Southwest
+27496,2799,OK,2009,Fire,0,Southwest
+27497,2798,TX,2009,Fire,0,Southwest
+27498,2797,TX,2009,Fire,0,Southwest
+27499,2796,TX,2009,Fire,0,Southwest
+27500,2795,TX,2009,Fire,0,Southwest
+27501,2794,TX,2009,Fire,0,Southwest
+27502,2793,CO,2009,Fire,0,West
+27503,2792,CA,2009,Fire,0,West
+27507,2791,CA,2009,Fire,0,West
+27508,2790,CA,2009,Fire,0,West
+27509,2789,CA,2009,Fire,0,West
+27510,2788,CA,2009,Fire,0,West
+27511,2787,OR,2008,Fire,0,West
+27512,2786,CA,2008,Fire,0,West
+27513,2785,TX,2008,Fire,0,Southwest
+27514,2784,WA,2008,Fire,0,West
+27515,2783,WA,2008,Fire,0,West
+27516,2782,CA,2008,Fire,0,West
+27517,2781,CA,2008,Fire,0,West
+27518,2780,CA,2008,Fire,0,West
+27519,2779,AZ,2008,Fire,0,Southwest
+27520,2778,CO,2008,Fire,0,West
+27522,2777,NM,2008,Fire,0,Southwest
+27523,2776,CA,2008,Fire,0,West
+27525,2775,CA,2008,Fire,0,West
+27526,2774,TX,2008,Fire,0,Southwest
+27527,2773,NC,2008,Fire,0,Southeast
+27530,2772,CA,2008,Fire,0,West
+27531,2771,CA,2008,Fire,0,West
+27532,2770,CA,2008,Fire,0,West
+27533,2769,OK,2008,Fire,0,Southwest
+27534,2768,TX,2008,Fire,0,Southwest
+27536,2767,TX,2008,Fire,0,Southwest
+27537,2766,CA,2008,Fire,0,West
+27539,2765,FL,2008,Fire,0,Southeast
+27540,2764,TX,2008,Fire,0,Southwest
+27542,2763,CA,2008,Fire,0,West
+27543,2762,NM,2008,Fire,0,Southwest
+27544,2761,TX,2008,Fire,0,Southwest
+27545,2760,CO,2008,Fire,0,West
+27546,2759,TX,2008,Fire,0,Southwest
+27547,2758,TX,2008,Fire,0,Southwest
+27548,2757,TX,2008,Fire,0,Southwest
+27549,2756,OK,2008,Fire,0,Southwest
+27550,2755,TX,2008,Fire,0,Southwest
+27551,2754,TX,2008,Fire,0,Southwest
+27552,2753,TX,2008,Fire,0,Southwest
+27554,2752,TX,2008,Fire,0,Southwest
+27555,2751,TX,2008,Fire,0,Southwest
+27556,2750,TX,2008,Fire,0,Southwest
+27557,2749,TX,2008,Fire,0,Southwest
+27558,2748,TX,2008,Fire,0,Southwest
+27559,2747,TX,2008,Fire,0,Southwest
+27560,2746,OK,2008,Fire,0,Southwest
+27561,2745,TX,2008,Fire,0,Southwest
+27562,2744,TX,2008,Fire,0,Southwest
+27563,2743,TX,2008,Fire,0,Southwest
+27564,2742,TX,2008,Fire,0,Southwest
+27565,2741,NM,2008,Fire,0,Southwest
+27566,2740,HI,2008,Fire,0,West
+27567,2739,CA,2008,Fire,0,West
+27568,2738,CA,2008,Fire,0,West
+27569,2737,CA,2008,Fire,0,West
+27570,2736,CA,2008,Fire,0,West
+27572,2735,CA,2008,Fire,0,West
+27573,2734,CA,2008,Fire,0,West
+27574,2733,CA,2008,Fire,0,West
+27575,2732,CA,2008,Fire,0,West
+27576,2731,WA,2007,Fire,0,West
+27577,2730,MT,2007,Fire,0,West
+27578,2729,CA,2007,Fire,0,West
+27579,2728,CA,2007,Fire,0,West
+27580,2727,OR,2007,Fire,0,West
+27581,2726,ID,2007,Fire,0,West
+27582,2725,ID,2007,Fire,0,West
+27584,2724,ID,2007,Fire,0,West
+27585,2723,MT,2007,Fire,0,West
+27586,2722,HI,2007,Fire,0,West
+27587,2721,MT,2007,Fire,0,West
+27588,2720,HI,2007,Fire,0,West
+27589,2719,WY,2007,Fire,0,West
+27590,2718,MT,2007,Fire,0,West
+27591,2717,NV,2007,Fire,0,West
+27592,2716,SD,2007,Fire,0,Midwest
+27593,2715,UT,2007,Fire,0,West
+27594,2714,WA,2007,Fire,0,West
+27595,2713,NV,2007,Fire,0,West
+27596,2712,OR,2007,Fire,0,West
+27597,2711,WA,2007,Fire,0,West
+27598,2710,SD,2007,Fire,0,Midwest
+27599,2709,NV,2007,Fire,0,West
+27600,2708,CA,2007,Fire,0,West
+27601,2707,UT,2007,Fire,0,West
+27602,2706,CA,2007,Fire,0,West
+27603,2705,NV,2007,Fire,0,West
+27604,2704,NV,2007,Fire,0,West
+27605,2703,UT,2007,Fire,0,West
+27608,2702,CA,2007,Fire,0,West
+27609,2701,HI,2007,Fire,0,West
+27610,2700,CA,2007,Fire,0,West
+27611,2699,AK,2007,Fire,0,West
+27612,2698,CO,2007,Fire,0,West
+27613,2697,GA,2007,Fire,0,Southeast
+27614,2696,FL,2007,Fire,0,Southeast
+27620,2695,NJ,2007,Fire,0,Northeast
+27622,2694,CA,2007,Fire,0,West
+27623,2693,GA,2007,Fire,0,Southeast
+27624,2692,FL,2007,Fire,0,Southeast
+27627,2691,CA,2007,Fire,0,West
+27628,2689,FL,2007,Fire,0,Southeast
+27636,2688,GA,2007,Fire,0,Southeast
+27637,2686,GA,2007,Fire,0,Southeast
+27638,2685,GA,2007,Fire,0,Southeast
+27640,2684,FL,2007,Fire,0,Southeast
+27641,2683,CA,2007,Fire,0,West
+27642,2682,NM,2007,Fire,0,Southwest
+27643,2681,CA,2007,Fire,0,West
+27644,2679,NV,2007,Fire,0,West
+27645,2678,CA,2007,Fire,0,West
+27646,2677,CA,2006,Fire,0,West
+27647,2676,CA,2006,Fire,0,West
+27648,2675,TX,2006,Fire,0,Southwest
+27649,2674,WA,2006,Fire,0,West
+27650,2673,HI,2006,Fire,0,West
+27651,2671,MT,2006,Fire,0,West
+27653,2670,NV,2006,Fire,0,West
+27654,2669,MT,2006,Fire,0,West
+27655,2668,WA,2006,Fire,0,West
+27657,2667,TX,2006,Fire,0,Southwest
+27659,2666,TX,2006,Fire,0,Southwest
+27660,2665,WY,2006,Fire,0,West
+27661,2664,NV,2006,Fire,0,West
+27662,2663,WA,2006,Fire,0,West
+27663,2662,CA,2006,Fire,0,West
+27664,2661,NE,2006,Fire,0,Midwest
+27666,2660,NE,2006,Fire,0,Midwest
+27667,2659,OR,2006,Fire,0,West
+27668,2658,SD,2006,Fire,0,Midwest
+27669,2657,OR,2006,Fire,0,West
+27670,2656,CA,2006,Fire,0,West
+27671,2654,WY,2006,Fire,0,West
+27672,2652,MT,2006,Fire,0,West
+27673,2651,TX,2006,Fire,0,Southwest
+27674,2650,NV,2006,Fire,0,West
+27677,2649,NV,2006,Fire,0,West
+27678,2648,NV,2006,Fire,0,West
+27679,2647,NM,2006,Fire,0,Southwest
+27681,2646,CO,2006,Fire,0,West
+27682,2645,AZ,2006,Fire,0,Southwest
+27683,2644,NM,2006,Fire,0,Southwest
+27684,2643,AZ,2006,Fire,0,Southwest
+27685,2642,AZ,2006,Fire,0,Southwest
+27686,2641,AK,2006,Fire,0,West
+27687,2640,AZ,2006,Fire,0,Southwest
+27688,2639,TX,2006,Fire,0,Southwest
+27689,2638,FL,2006,Fire,0,Southeast
+27690,2637,VA,2006,Fire,0,Southeast
+27691,2636,NM,2006,Fire,0,Southwest
+27692,2635,OK,2006,Fire,0,Southwest
+27693,2634,OK,2006,Fire,0,Southwest
+27694,2632,KS,2006,Fire,0,Midwest
+27695,2631,NM,2006,Fire,0,Southwest
+27696,2630,CA,2006,Fire,0,West
+27698,2629,TX,2006,Fire,0,Southwest
+27699,2628,OK,2006,Fire,0,Southwest
+27701,2627,OK,2006,Fire,0,Southwest
+27702,2626,OK,2006,Fire,0,Southwest
+27703,2625,OK,2006,Fire,0,Southwest
+27704,2624,OK,2006,Fire,0,Southwest
+27705,2623,OK,2006,Fire,0,Southwest
+27707,2622,TX,2006,Fire,0,Southwest
+27708,2621,TX,2006,Fire,0,Southwest
+27709,2620,TX,2006,Fire,0,Southwest
+27710,2619,TX,2006,Fire,0,Southwest
+27711,2618,OK,2006,Fire,0,Southwest
+27712,2615,OK,2006,Fire,0,Southwest
+27713,2613,CO,2006,Fire,0,West
+27715,2612,TX,2006,Fire,0,Southwest
+27716,2609,TX,2006,Fire,0,Southwest
+27717,2608,OK,2006,Fire,0,Southwest
+27718,2607,OK,2006,Fire,0,Southwest
+27719,2605,OK,2006,Fire,0,Southwest
+27720,2604,OK,2006,Fire,0,Southwest
+27721,2601,OK,2006,Fire,0,Southwest
+27722,2600,NM,2006,Fire,0,Southwest
+27724,2599,OK,2006,Fire,0,Southwest
+27725,2597,OK,2006,Fire,0,Southwest
+27726,2596,TX,2006,Fire,0,Southwest
+27727,2595,OK,2006,Fire,0,Southwest
+27728,2594,OK,2006,Fire,0,Southwest
+27729,2593,TX,2006,Fire,0,Southwest
+27730,2592,OK,2006,Fire,0,Southwest
+27731,2591,TX,2006,Fire,0,Southwest
+27732,2590,OK,2006,Fire,0,Southwest
+27733,2587,OK,2006,Fire,0,Southwest
+27734,2586,CA,2006,Fire,0,West
+27735,2585,CA,2006,Fire,0,West
+27736,2584,CA,2006,Fire,0,West
+27737,2583,CA,2005,Fire,0,West
+27739,2582,CA,2005,Fire,0,West
+27740,2581,NV,2005,Fire,0,West
+27741,2580,CA,2005,Fire,0,West
+27743,2579,OR,2005,Fire,0,West
+27744,2578,NV,2005,Fire,0,West
+27745,2577,HI,2005,Fire,0,West
+27746,2576,HI,2005,Fire,0,West
+27747,2575,WA,2005,Fire,0,West
+27749,2574,HI,2005,Fire,0,West
+27750,2573,HI,2005,Fire,0,West
+27751,2572,WA,2005,Fire,0,West
+27752,2571,CA,2005,Fire,0,West
+27753,2570,AZ,2005,Fire,0,Southwest
+27755,2569,SD,2005,Fire,0,Midwest
+27756,2568,NV,2005,Fire,0,West
+27758,2567,NV,2005,Fire,0,West
+27759,2565,SD,2005,Fire,0,Midwest
+27760,2564,UT,2005,Fire,0,West
+27761,2563,NV,2005,Fire,0,West
+27762,2562,AZ,2005,Fire,0,Southwest
+27763,2560,AZ,2005,Fire,0,Southwest
+27764,2559,AZ,2005,Fire,0,Southwest
+27765,2558,AZ,2005,Fire,0,Southwest
+27766,2557,SD,2005,Fire,0,Midwest
+27767,2556,HI,2004,Fire,0,West
+27768,2555,CA,2004,Fire,0,West
+27769,2554,CA,2004,Fire,0,West
+27771,2553,CA,2004,Fire,0,West
+27772,2552,CA,2004,Fire,0,West
+27773,2551,AK,2004,Fire,0,West
+27778,2550,NV,2004,Fire,0,West
+27779,2549,OR,2004,Fire,0,West
+27780,2548,CA,2004,Fire,0,West
+27781,2547,CA,2004,Fire,0,West
+27782,2546,WA,2004,Fire,0,West
+27783,2545,CA,2004,Fire,0,West
+27784,2544,CA,2004,Fire,0,West
+27785,2543,WA,2004,Fire,0,West
+27786,2542,AK,2004,Fire,0,West
+27787,2541,CA,2004,Fire,0,West
+27788,2540,CA,2004,Fire,0,West
+27789,2539,OR,2004,Fire,0,West
+27790,2538,WA,2004,Fire,0,West
+27791,2537,WA,2004,Fire,0,West
+27792,2535,CA,2004,Fire,0,West
+27793,2534,CA,2004,Fire,0,West
+27794,2533,CA,2004,Fire,0,West
+27795,2532,CA,2004,Fire,0,West
+27796,2530,CA,2004,Fire,0,West
+27797,2529,CA,2004,Fire,0,West
+27798,2528,CA,2004,Fire,0,West
+27799,2527,WA,2004,Fire,0,West
+27800,2526,CO,2004,Fire,0,West
+27801,2525,AK,2004,Fire,0,West
+27802,2524,NV,2004,Fire,0,West
+27803,2523,AZ,2004,Fire,0,Southwest
+27805,2522,NM,2004,Fire,0,Southwest
+27806,2521,UT,2004,Fire,0,West
+27807,2520,AZ,2004,Fire,0,Southwest
+27808,2519,CA,2004,Fire,0,West
+27809,2518,NM,2004,Fire,0,Southwest
+27810,2517,CA,2004,Fire,0,West
+27811,2516,CA,2004,Fire,0,West
+27812,2515,CA,2004,Fire,0,West
+27813,2514,CO,2004,Fire,0,West
+27814,2513,SD,2004,Fire,0,Midwest
+27815,2512,WY,2004,Fire,0,West
+27816,2511,CO,2004,Fire,0,West
+27817,2510,CO,2004,Fire,0,West
+27818,2509,CO,2004,Fire,0,West
+27819,2508,CA,2004,Fire,0,West
+27820,2507,CA,2004,Fire,0,West
+27821,2506,CA,2004,Fire,0,West
+27822,2505,CA,2004,Fire,0,West
+27823,2502,CA,2004,Fire,0,West
+27825,2501,CA,2004,Fire,0,West
+27826,2500,CA,2004,Fire,0,West
+27827,2499,NV,2003,Fire,0,West
+27828,2498,WA,2003,Fire,0,West
+27829,2497,CA,2003,Fire,0,West
+27830,2496,OR,2003,Fire,0,West
+27831,2495,OR,2003,Fire,0,West
+27832,2494,MT,2003,Fire,0,West
+27833,2493,OR,2003,Fire,0,West
+27836,2492,MT,2003,Fire,0,West
+27838,2491,CA,2003,Fire,0,West
+27840,2490,MT,2003,Fire,0,West
+27842,2489,MT,2003,Fire,0,West
+27843,2488,MT,2003,Fire,0,West
+27844,2487,CA,2003,Fire,0,West
+27845,2486,CO,2003,Fire,0,West
+27846,2485,MT,2003,Fire,0,West
+27847,2484,MT,2003,Fire,0,West
+27848,2483,MT,2003,Fire,0,West
+27849,2482,OK,2003,Fire,0,Southwest
+27850,2481,WA,2003,Fire,0,West
+27851,2480,UT,2003,Fire,0,West
+27852,2479,NV,2003,Fire,0,West
+27853,2478,AZ,2003,Fire,0,Southwest
+27856,2477,WA,2003,Fire,0,West
+27857,2476,NV,2003,Fire,0,West
+27858,2475,CA,2003,Fire,0,West
+27859,2474,CA,2003,Fire,0,West
+27860,2473,CA,2003,Fire,0,West
+27861,2472,NM,2003,Fire,0,Southwest
+27862,2471,AZ,2003,Fire,0,Southwest
+27863,2470,AZ,2003,Fire,0,Southwest
+27865,2469,NV,2003,Fire,0,West
+27866,2468,HI,2003,Fire,0,West
+27867,2467,NM,2003,Fire,0,Southwest
+27868,2466,CA,2003,Fire,0,West
+27869,2465,CA,2002,Fire,0,West
+27871,2464,CA,2002,Fire,0,West
+27873,2463,CA,2002,Fire,0,West
+27874,2462,CA,2002,Fire,0,West
+27875,2461,CA,2002,Fire,0,West
+27876,2460,WY,2002,Fire,0,West
+27877,2459,NM,2002,Fire,0,Southwest
+27878,2458,SD,2002,Fire,0,Midwest
+27880,2457,CO,2002,Fire,0,West
+27882,2456,CA,2002,Fire,0,West
+27883,2455,OR,2002,Fire,0,West
+27885,2454,OR,2002,Fire,0,West
+27886,2453,OR,2002,Fire,0,West
+27888,2452,OR,2002,Fire,0,West
+27889,2451,WA,2002,Fire,0,West
+27890,2450,CA,2002,Fire,0,West
+27891,2449,WA,2002,Fire,0,West
+27892,2448,OR,2002,Fire,0,West
+27893,2447,CO,2002,Fire,0,West
+27894,2446,NV,2002,Fire,0,West
+27895,2445,OR,2002,Fire,0,West
+27896,2444,OR,2002,Fire,0,West
+27897,2443,OR,2002,Fire,0,West
+27898,2442,CO,2002,Fire,0,West
+27900,2441,NV,2002,Fire,0,West
+27901,2439,AZ,2002,Fire,0,Southwest
+27902,2438,NV,2002,Fire,0,West
+27903,2437,UT,2002,Fire,0,West
+27904,2436,WY,2002,Fire,0,West
+27905,2435,ND,2002,Fire,0,Midwest
+27906,2434,SD,2002,Fire,0,Midwest
+27907,2433,CA,2002,Fire,0,West
+27908,2432,CO,2002,Fire,0,West
+27909,2431,CO,2002,Fire,0,West
+27910,2430,AZ,2002,Fire,0,Southwest
+27911,2429,AZ,2002,Fire,0,Southwest
+27912,2428,CO,2002,Fire,0,West
+27913,2426,SC,2002,Fire,0,Southeast
+27914,2425,CA,2002,Fire,0,West
+27915,2424,NM,2002,Fire,0,Southwest
+27916,2423,CO,2002,Fire,0,West
+27917,2422,CO,2002,Fire,0,West
+27918,2421,CO,2002,Fire,0,West
+27919,2420,NV,2002,Fire,0,West
+27920,2419,CO,2002,Fire,0,West
+27921,2418,CO,2002,Fire,0,West
+27922,2417,CA,2002,Fire,0,West
+27923,2416,NM,2002,Fire,0,Southwest
+27924,2415,NM,2002,Fire,0,Southwest
+27925,2414,NM,2002,Fire,0,Southwest
+27926,2413,CO,2002,Fire,0,West
+27927,2412,CO,2002,Fire,0,West
+27928,2411,NJ,2002,Fire,0,Northeast
+27929,2410,CO,2002,Fire,0,West
+27930,2409,MN,2002,Fire,0,Midwest
+27931,2408,NM,2002,Fire,0,Southwest
+27933,2407,CO,2002,Fire,0,West
+27934,2406,AZ,2002,Fire,0,Southwest
+27935,2405,CA,2002,Fire,0,West
+27936,2404,NM,2002,Fire,0,Southwest
+27937,2403,CO,2002,Fire,0,West
+27938,2402,NM,2002,Fire,0,Southwest
+27939,2401,CO,2002,Fire,0,West
+27940,2400,AZ,2002,Fire,0,Southwest
+27941,2399,CO,2002,Fire,0,West
+27942,2398,NM,2002,Fire,0,Southwest
+27943,2397,VA,2002,Fire,0,Southeast
+27944,2396,CA,2002,Fire,0,West
+27945,2395,AL,2002,Fire,0,Southeast
+27948,2394,VA,2002,Fire,0,Southeast
+27950,2393,VA,2002,Fire,0,Southeast
+27951,2392,WV,2002,Fire,0,Southeast
+27953,2391,WV,2002,Fire,0,Southeast
+27965,2390,VA,2002,Fire,0,Southeast
+27968,2389,TN,2002,Fire,0,Southeast
+27969,2388,SC,2002,Fire,0,Southeast
+27970,2387,TN,2002,Fire,0,Southeast
+27976,2386,KY,2002,Fire,0,Southeast
+27982,2385,KY,2002,Fire,0,Southeast
+27992,2384,KY,2002,Fire,0,Southeast
+27993,2383,CO,2002,Fire,0,West
+27994,2382,WY,2001,Fire,0,West
+27995,2381,UT,2001,Fire,0,West
+27996,2380,OR,2001,Fire,0,West
+27997,2379,WA,2001,Fire,0,West
+27998,2378,WA,2001,Fire,0,West
+27999,2377,WA,2001,Fire,0,West
+28000,2376,WA,2001,Fire,0,West
+28001,2375,OR,2001,Fire,0,West
+28002,2374,WA,2001,Fire,0,West
+28003,2373,WA,2001,Fire,0,West
+28004,2372,WA,2001,Fire,0,West
+28005,2371,NV,2001,Fire,0,West
+28006,2370,WY,2001,Fire,0,West
+28007,2369,SD,2001,Fire,0,Midwest
+28008,2368,WA,2001,Fire,0,West
+28009,2367,WY,2001,Fire,0,West
+28010,2366,NV,2001,Fire,0,West
+28011,2365,AK,2001,Fire,0,West
+28012,2364,NM,2001,Fire,0,Southwest
+28014,2363,FL,2001,Fire,0,Southeast
+28016,2362,GA,2001,Fire,0,Southeast
+28017,2361,FL,2001,Fire,0,Southeast
+28018,2360,FL,2001,Fire,0,Southeast
+28020,2359,FL,2001,Fire,0,Southeast
+28022,2358,FL,2001,Fire,0,Southeast
+28027,2357,FL,2001,Fire,0,Southeast
+28030,2356,NV,2000,Fire,0,West
+28031,2355,FL,2001,Fire,0,Southeast
+28034,2354,FL,2001,Fire,0,Southeast
+28039,2353,FL,2001,Fire,0,Southeast
+28042,2352,TX,2001,Fire,0,Southwest
+28043,2351,TX,2001,Fire,0,Southwest
+28044,2350,KY,2001,Fire,0,Southeast
+28050,2349,KY,2001,Fire,0,Southeast
+28060,2348,TN,2001,Fire,0,Southeast
+28063,2347,TN,2001,Fire,0,Southeast
+28065,2346,TN,2001,Fire,0,Southeast
+28067,2345,MN,2001,Fire,0,Midwest
+28072,2344,TX,2001,Fire,0,Southwest
+28073,2343,OK,2000,Fire,0,Southwest
+28074,2342,OK,2000,Fire,0,Southwest
+28075,2341,OK,2000,Fire,0,Southwest
+28076,2340,TX,2000,Fire,0,Southwest
+28077,2339,AL,2000,Fire,0,Southeast
+28078,2338,CO,2000,Fire,0,West
+28079,2337,LA,2000,Fire,0,Southwest
+28090,2336,TX,2000,Fire,0,Southwest
+28091,2335,TX,2000,Fire,0,Southwest
+28093,2334,TX,2000,Fire,0,Southwest
+28094,2333,TX,2000,Fire,0,Southwest
+28095,2332,TX,2000,Fire,0,Southwest
+28096,2331,TX,2000,Fire,0,Southwest
+28097,2330,TX,2000,Fire,0,Southwest
+28098,2329,TX,2000,Fire,0,Southwest
+28099,2328,TX,2000,Fire,0,Southwest
+28100,2327,TX,2000,Fire,0,Southwest
+28101,2326,MT,2000,Fire,0,West
+28102,2325,TX,2000,Fire,0,Southwest
+28103,2324,SD,2000,Fire,0,Midwest
+28104,2323,WA,2000,Fire,0,West
+28106,2322,TX,2000,Fire,0,Southwest
+28107,2321,MT,2000,Fire,0,West
+28109,2320,MT,2000,Fire,0,West
+28113,2319,SD,2000,Fire,0,Midwest
+28114,2318,MT,2000,Fire,0,West
+28116,2317,MT,2000,Fire,0,West
+28123,2316,NV,2000,Fire,0,West
+28124,2315,WY,2000,Fire,0,West
+28125,2314,MT,2000,Fire,0,West
+28129,2313,WA,2000,Fire,0,West
+28130,2312,NV,2000,Fire,0,West
+28131,2311,WA,2000,Fire,0,West
+28132,2310,NM,2000,Fire,0,Southwest
+28133,2307,FL,2000,Fire,0,Southeast
+28137,2306,FL,2000,Fire,0,Southeast
+28143,2305,FL,2000,Fire,0,Southeast
+28146,2304,NM,2000,Fire,0,Southwest
+28147,2303,FL,2000,Fire,0,Southeast
+28152,2302,FL,2000,Fire,0,Southeast
+28153,2301,FL,2000,Fire,0,Southeast
+28156,2300,FL,2000,Fire,0,Southeast
+28159,2299,FL,2000,Fire,0,Southeast
+28164,2298,FL,2000,Fire,0,Southeast
+28165,2297,NM,2000,Fire,0,Southwest
+28166,2296,NM,2000,Fire,0,Southwest
+28167,2295,NM,2000,Fire,0,Southwest
+28169,2294,FL,2000,Fire,0,Southeast
+28170,2293,HI,2000,Fire,0,West
+28171,2292,MO,2000,Fire,0,Midwest
+28172,2291,TX,2000,Fire,0,Southwest
+28173,2290,TX,2000,Fire,0,Southwest
+28174,2289,TX,2000,Fire,0,Southwest
+28175,2288,KY,2000,Fire,0,Southeast
+28178,2287,TX,2000,Fire,0,Southwest
+28179,2286,TX,2000,Fire,0,Southwest
+28180,2285,TX,1999,Fire,0,Southwest
+28182,2284,TX,1999,Fire,0,Southwest
+28183,2283,AL,1999,Fire,0,Southeast
+28184,2282,TX,1999,Fire,0,Southwest
+28185,2281,AL,1999,Fire,0,Southeast
+28186,2280,AL,1999,Fire,0,Southeast
+28187,2279,AL,1999,Fire,0,Southeast
+28188,2278,AL,1999,Fire,0,Southeast
+28189,2277,AL,1999,Fire,0,Southeast
+28190,2276,AL,1999,Fire,0,Southeast
+28191,2275,TX,1999,Fire,0,Southwest
+28192,2274,TX,1999,Fire,0,Southwest
+28193,2273,TX,1999,Fire,0,Southwest
+28194,2272,TX,1999,Fire,0,Southwest
+28195,2271,NV,1999,Fire,0,West
+28196,2270,TX,1999,Fire,0,Southwest
+28197,2269,NY,1999,Fire,0,Northeast
+28198,2268,NV,1999,Fire,0,West
+28199,2267,NV,1999,Fire,0,West
+28200,2266,MT,1999,Fire,0,West
+28201,2265,NV,1999,Fire,0,West
+28202,2264,NV,1999,Fire,0,West
+28203,2263,AZ,1999,Fire,0,Southwest
+28205,2262,FL,1999,Fire,0,Southeast
+28208,2261,MI,1999,Fire,0,Midwest
+28209,2260,FL,1999,Fire,0,Southeast
+28214,2259,FL,1999,Fire,0,Southeast
+28217,2258,FL,1999,Fire,0,Southeast
+28222,2257,FL,1999,Fire,0,Southeast
+28224,2256,FL,1999,Fire,0,Southeast
+28228,2255,FL,1999,Fire,0,Southeast
+28235,2254,FL,1999,Fire,0,Southeast
+28238,2253,FL,1999,Fire,0,Southeast
+28242,2252,FL,1999,Fire,0,Southeast
+28247,2251,FL,1999,Fire,0,Southeast
+28253,2250,TN,1999,Fire,0,Southeast
+28256,2249,TX,1999,Fire,0,Southwest
+28257,2248,WA,1998,Fire,0,West
+28258,2247,OK,1998,Fire,0,Southwest
+28259,2246,TX,1998,Fire,0,Southwest
+28260,2245,TX,1998,Fire,0,Southwest
+28261,2244,TX,1998,Fire,0,Southwest
+28262,2243,OK,1998,Fire,0,Southwest
+28263,2242,TX,1998,Fire,0,Southwest
+28264,2241,TX,1998,Fire,0,Southwest
+28265,2240,TX,1998,Fire,0,Southwest
+28266,2238,TX,1998,Fire,0,Southwest
+28267,2237,WA,1998,Fire,0,West
+28268,2236,HI,1998,Fire,0,West
+28269,2235,TX,1998,Fire,0,Southwest
+28270,2234,TX,1998,Fire,0,Southwest
+28271,2233,TX,1998,Fire,0,Southwest
+28272,2232,TX,1998,Fire,0,Southwest
+28273,2231,TX,1998,Fire,0,Southwest
+28274,2230,TX,1998,Fire,0,Southwest
+28275,2229,TX,1998,Fire,0,Southwest
+28276,2228,TX,1998,Fire,0,Southwest
+28277,2227,TX,1998,Fire,0,Southwest
+28278,2226,OK,1998,Fire,0,Southwest
+28279,2225,WA,1998,Fire,0,West
+28280,2224,TX,1998,Fire,0,Southwest
+28281,2222,TX,1998,Fire,0,Southwest
+28282,2221,TX,1998,Fire,0,Southwest
+28283,2220,TX,1998,Fire,0,Southwest
+28284,2219,TX,1998,Fire,0,Southwest
+28285,2217,TX,1998,Fire,0,Southwest
+28286,2215,FL,1998,Fire,0,Southeast
+28287,2214,FL,1998,Fire,0,Southeast
+28288,2213,NM,1998,Fire,0,Southwest
+28289,2212,FL,1998,Fire,0,Southeast
+28290,2211,FL,1998,Fire,0,Southeast
+28291,2210,TX,1998,Fire,0,Southwest
+28292,2209,FL,1998,Fire,0,Southeast
+28293,2208,FL,1998,Fire,0,Southeast
+28294,2207,FL,1998,Fire,0,Southeast
+28295,2206,FL,1998,Fire,0,Southeast
+28296,2205,FL,1998,Fire,0,Southeast
+28297,2204,FL,1998,Fire,0,Southeast
+28298,2203,FL,1998,Fire,0,Southeast
+28299,2201,FL,1998,Fire,0,Southeast
+28300,2200,FL,1998,Fire,0,Southeast
+28301,2199,TX,1998,Fire,0,Southwest
+28302,2198,TX,1998,Fire,0,Southwest
+28303,2197,GU,1998,Fire,0,Territories
+28304,2196,HI,1998,Fire,0,West
+28305,2195,HI,1998,Fire,0,West
+28306,2194,WA,1997,Fire,0,West
+28307,2193,WA,1997,Fire,0,West
+28308,2192,WA,1997,Fire,0,West
+28309,2191,MT,1996,Fire,0,West
+28310,2190,NV,1996,Fire,0,West
+28311,2189,OR,1996,Fire,0,West
+28312,2188,NV,1996,Fire,0,West
+28313,2187,OR,1996,Fire,0,West
+28314,2186,WA,1996,Fire,0,West
+28315,2185,NV,1996,Fire,0,West
+28316,2184,TX,1996,Fire,0,Southwest
+28317,2183,NV,1996,Fire,0,West
+28318,2182,AZ,1996,Fire,0,Southwest
+28319,2181,AZ,1996,Fire,0,Southwest
+28320,2180,AK,1996,Fire,0,West
+28321,2179,TX,1996,Fire,0,Southwest
+28322,2178,CO,1996,Fire,0,West
+28323,2177,NM,1996,Fire,0,Southwest
+28324,2176,AZ,1996,Fire,0,Southwest
+28325,2175,TX,1996,Fire,0,Southwest
+28326,2174,TX,1996,Fire,0,Southwest
+28327,2173,OK,1996,Fire,0,Southwest
+28328,2172,TX,1996,Fire,0,Southwest
+28329,2171,TX,1996,Fire,0,Southwest
+28330,2170,TX,1996,Fire,0,Southwest
+28331,2169,TX,1996,Fire,0,Southwest
+28332,2168,TX,1996,Fire,0,Southwest
+28333,2167,TX,1996,Fire,0,Southwest
+28334,2166,TX,1996,Fire,0,Southwest
+28335,2165,TX,1996,Fire,0,Southwest
+28336,2164,TX,1996,Fire,0,Southwest
+28337,2163,TX,1996,Fire,0,Southwest
+28338,2162,TX,1996,Fire,0,Southwest
+28339,2161,TX,1996,Fire,0,Southwest
+28340,2160,TX,1996,Fire,0,Southwest
+28341,2159,TX,1996,Fire,0,Southwest
+28342,2158,TX,1996,Fire,0,Southwest
+28343,2157,TX,1996,Fire,0,Southwest
+28344,2156,TX,1996,Fire,0,Southwest
+28345,2155,TX,1996,Fire,0,Southwest
+28346,2154,TX,1996,Fire,0,Southwest
+28347,2153,TX,1996,Fire,0,Southwest
+28348,2152,TX,1996,Fire,0,Southwest
+28349,2151,TX,1996,Fire,0,Southwest
+28350,2150,TX,1996,Fire,0,Southwest
+28351,2149,TX,1996,Fire,0,Southwest
+28352,2148,TX,1996,Fire,0,Southwest
+28353,2147,TX,1996,Fire,0,Southwest
+28354,2146,TX,1996,Fire,0,Southwest
+28355,2145,TX,1996,Fire,0,Southwest
+28356,2144,OK,1996,Fire,0,Southwest
+28357,2143,TX,1996,Fire,0,Southwest
+28358,2142,TX,1996,Fire,0,Southwest
+28359,2141,TX,1996,Fire,0,Southwest
+28360,2140,OK,1996,Fire,0,Southwest
+28361,2139,TX,1996,Fire,0,Southwest
+28362,2138,TX,1996,Fire,0,Southwest
+28363,2137,TX,1996,Fire,0,Southwest
+28364,2136,OK,1996,Fire,0,Southwest
+28365,2135,TX,1996,Fire,0,Southwest
+28366,2134,TX,1996,Fire,0,Southwest
+28367,2133,TX,1996,Fire,0,Southwest
+28368,2132,TX,1996,Fire,0,Southwest
+28369,2131,TX,1996,Fire,0,Southwest
+28370,2130,TX,1996,Fire,0,Southwest
+28371,2129,TX,1996,Fire,0,Southwest
+28372,2128,TX,1996,Fire,0,Southwest
+28373,2127,TX,1996,Fire,0,Southwest
+28374,2126,TX,1996,Fire,0,Southwest
+28375,2125,TX,1996,Fire,0,Southwest
+28376,2124,TX,1996,Fire,0,Southwest
+28377,2123,TX,1996,Fire,0,Southwest
+28378,2122,TX,1996,Fire,0,Southwest
+28379,2121,TX,1996,Fire,0,Southwest
+28380,2120,OK,1996,Fire,0,Southwest
+28381,2119,OK,1996,Fire,0,Southwest
+28382,2118,OK,1996,Fire,0,Southwest
+28383,2117,TX,1996,Fire,0,Southwest
+28384,2116,MA,1995,Fire,0,Northeast
+28385,2115,NY,1995,Fire,0,Northeast
+28386,2114,AZ,1995,Fire,0,Southwest
+28387,2113,AZ,1995,Fire,0,Southwest
+28389,2112,OR,1994,Fire,0,West
+28390,2111,MT,1994,Fire,0,West
+28391,2110,MT,1994,Fire,0,West
+28392,2109,SD,1994,Fire,0,Midwest
+28393,2108,UT,1994,Fire,0,West
+28394,2107,UT,1994,Fire,0,West
+28395,2106,NV,1994,Fire,0,West
+28396,2105,WA,1994,Fire,0,West
+28397,2104,WA,1994,Fire,0,West
+28398,2103,WA,1994,Fire,0,West
+28399,2102,CO,1994,Fire,0,West
+28400,2101,WA,1994,Fire,0,West
+28401,2100,TX,1994,Fire,0,Southwest
+28402,2099,CO,1994,Fire,0,West
+28403,2098,CO,1994,Fire,0,West
+28404,2097,AZ,1994,Fire,0,Southwest
+28405,2096,AZ,1994,Fire,0,Southwest
+28406,2095,AZ,1994,Fire,0,Southwest
+28407,2094,AZ,1994,Fire,0,Southwest
+28408,2093,AZ,1994,Fire,0,Southwest
+28409,2092,TX,1993,Fire,0,Southwest
+28410,2091,TX,1993,Fire,0,Southwest
+28411,2090,TX,1993,Fire,0,Southwest
+28412,2089,AZ,1993,Fire,0,Southwest
+28413,2088,AZ,1993,Fire,0,Southwest
+28414,2087,AZ,1993,Fire,0,Southwest
+28415,2086,AZ,1993,Fire,0,Southwest
+28416,2085,WA,1992,Fire,0,West
+28417,2084,OR,1992,Fire,0,West
+28418,2083,OR,1992,Fire,0,West
+28419,2082,OR,1992,Fire,0,West
+28420,2081,OR,1992,Fire,0,West
+28421,2080,ME,1992,Fire,0,Northeast
+28422,2079,WA,1992,Fire,0,West
+28423,2078,AK,1991,Fire,0,West
+28424,2077,CO,1991,Fire,0,West
+28425,2076,SD,1990,Fire,0,Midwest
+28426,2075,OR,1990,Fire,0,West
+28427,2074,AK,1990,Fire,0,West
+28428,2073,AZ,1990,Fire,0,Southwest
+28429,2072,CO,1989,Fire,0,West
+28430,2071,CA,1988,Fire,0,West
+28431,2070,WA,1988,Fire,0,West
+28432,2069,OR,1988,Fire,0,West
+28433,2068,SD,1988,Fire,0,Midwest
+28434,2067,TX,1988,Fire,0,Southwest
+28435,2066,OR,1988,Fire,0,West
+28436,2065,CA,1987,Fire,0,West
+28437,2064,OR,1987,Fire,0,West
+28438,2063,OR,1987,Fire,0,West
+28439,2062,OR,1987,Fire,0,West
+28440,2061,SD,1987,Fire,0,Midwest
+28441,2060,OR,1987,Fire,0,West
+28442,2059,NC,1986,Fire,0,Southeast
+28443,2058,WA,1985,Fire,0,West
+28444,2057,SD,1985,Fire,0,Midwest
+28445,2056,SD,1985,Fire,0,Midwest
+28446,2055,CA,1985,Fire,0,West
+28447,2054,CA,1985,Fire,0,West
+28448,2053,FL,1985,Fire,0,Southeast
+28449,2052,FL,1985,Fire,0,Southeast
+28450,2051,FL,1985,Fire,0,Southeast
+28451,2050,FL,1985,Fire,0,Southeast
+28452,2049,MT,1984,Fire,0,West
+28453,2048,MT,1984,Fire,0,West
+28454,2047,MT,1984,Fire,0,West
+28455,2046,OR,1984,Fire,0,West
+28457,2045,NV,1983,Fire,0,West
+28458,2044,HI,1983,Fire,0,West
+28459,2043,OR,1981,Fire,0,West
+28460,2042,NV,1981,Fire,0,West
+28461,2041,OR,1981,Fire,0,West
+28462,2040,CO,1980,Fire,0,West
+28463,2039,WI,1980,Fire,0,Midwest
+28464,2038,ID,1979,Fire,0,West
+28465,2037,MT,1979,Fire,0,West
+28466,2036,OR,1979,Fire,0,West
+28467,2035,OR,1979,Fire,0,West
+28468,2034,OR,1979,Fire,0,West
+28469,2033,WA,1979,Fire,0,West
+28470,2032,NV,1979,Fire,0,West
+28471,2031,CO,1978,Fire,0,West
+28472,2030,OR,1978,Fire,0,West
+28473,2029,ID,1977,Fire,0,West
+28474,2028,CA,1977,Fire,0,West
+28475,2027,ME,1977,Fire,0,Northeast
+28476,2026,MT,1977,Fire,0,West
+28477,2025,NM,1977,Fire,0,Southwest
+28478,2024,MN,1977,Fire,0,Midwest
+28479,2023,MN,1976,Fire,0,Midwest
+28480,2022,MN,1976,Fire,0,Midwest
+28481,2021,MN,1976,Fire,0,Midwest
+28482,2020,MN,1976,Fire,0,Midwest
+28483,2019,MN,1976,Fire,0,Midwest
+28484,2018,MN,1976,Fire,0,Midwest
+28485,2017,SD,1975,Fire,0,Midwest
+28486,2016,SD,1974,Fire,0,Midwest
+28487,2015,NM,1974,Fire,0,Southwest
+28488,2014,OR,1973,Fire,0,West
+28489,2013,OR,1973,Fire,0,West
+28490,2012,MT,1973,Fire,0,West
+28491,2011,OR,1973,Fire,0,West
+28492,2010,OR,1973,Fire,0,West
+28493,2009,MT,1973,Fire,0,West
+28494,2008,OR,1973,Fire,0,West
+28495,2007,MT,1973,Fire,0,West
+28496,2006,AK,1973,Fire,0,West
+28497,2005,AK,1971,Fire,0,West
+28498,2004,AK,1971,Fire,0,West
+28499,2003,OK,1971,Fire,0,Southwest
+28500,2002,WA,1970,Fire,0,West
+28501,2001,AK,1970,Fire,0,West
+28502,1999,TX,2011,Fire,1,Southwest
+28624,1998,IA,2011,Flood,1,Midwest
+28630,1997,IN,2011,Severe Storm,1,Midwest
+28666,1995,VT,2011,Severe Storm,1,Northeast
+28674,1994,MA,2011,Tornado,1,Northeast
+28676,1993,NY,2011,Flood,1,Northeast
+28707,1992,AK,2011,Flood,1,West
+28710,1991,IL,2011,Severe Storm,1,Midwest
+28731,1990,MN,2011,Severe Storm,1,Midwest
+28733,1989,OK,2011,Severe Storm,1,Southwest
+28748,1988,OK,2011,Severe Storm,1,Southwest
+28758,1987,ID,2011,Flood,1,West
+28764,1986,ND,2011,Severe Storm,1,Midwest
+28773,1985,OK,2011,Severe Storm,1,Southwest
+28789,1983,MS,2011,Flood,1,Southeast
+28803,1980,MO,2011,Severe Storm,1,Midwest
+28844,1979,TN,2011,Severe Storm,1,Southeast
+28862,1978,TN,2011,Severe Storm,1,Southeast
+28871,1977,IA,2011,Severe Storm,1,Midwest
+28877,1976,KY,2011,Severe Storm,1,Southeast
+28956,1975,AR,2011,Severe Storm,1,Southwest
+29016,1974,TN,2011,Severe Storm,1,Southeast
+29068,1973,GA,2011,Severe Storm,1,Southeast
+29094,1972,MS,2011,Severe Storm,1,Southeast
+29134,1971,AL,2011,Severe Storm,1,Southeast
+29202,1970,OK,2011,Severe Storm,1,Southwest
+29205,1969,NC,2011,Severe Storm,1,Southeast
+29225,1966,WI,2011,Snowstorm,0,Midwest
+29226,1966,WI,2011,Snowstorm,1,Midwest
+29236,1965,TN,2011,Severe Storm,1,Southeast
+29249,1964,OR,2011,Tsunami,1,West
+29252,1963,WA,2011,Severe Storm,1,West
+29259,1962,NM,2011,Severe Storm,0,Southwest
+29260,1962,NM,2011,Severe Storm,1,Southwest
+29274,1961,MO,2011,Severe Storm,1,Midwest
+29336,1959,MA,2011,Snowstorm,1,Northeast
+29343,1958,CT,2011,Snowstorm,1,Northeast
+29351,1957,NY,2011,Severe Storm,1,Northeast
+29361,1956,OR,2011,Severe Storm,1,West
+29367,1955,UT,2011,Flood,1,West
+29370,1954,NJ,2011,Snowstorm,1,Northeast
+29385,1953,ME,2011,Severe Storm,1,Northeast
+29388,1952,CA,2011,Flood,1,West
+29398,1951,VT,2011,Severe Storm,1,Northeast
+29401,1950,AZ,2011,Severe Storm,1,Southwest
+29402,1948,VI,2011,Severe Storm,1,Southeast
+29405,1947,SD,2011,Severe Storm,1,Midwest
+29410,1945,NE,2011,Severe Storm,1,Midwest
+29417,1944,WI,2011,Severe Storm,1,Midwest
+29426,1943,NY,2011,Tornado,1,Northeast
+29429,1942,NC,2011,Severe Storm,1,Southeast
+29443,1940,AZ,2011,Severe Storm,1,Southwest
+29445,1938,SD,2010,Severe Storm,1,Midwest
+29457,1937,TN,2010,Severe Storm,1,Southeast
+29467,1936,NM,2010,Flood,1,Southwest
+29474,1935,IL,2010,Severe Storm,1,Midwest
+29485,1934,MO,2010,Severe Storm,1,Midwest
+29504,4527,SD,2020,Biological,1,Midwest
+29537,1933,WI,2010,Severe Storm,1,Midwest
+29540,1932,KS,2010,Severe Storm,1,Midwest
+29581,1931,TX,2010,Hurricane,1,Southwest
+29625,1930,IA,2010,Severe Storm,1,Midwest
+29686,1929,SD,2010,Severe Storm,1,Midwest
+29690,1928,IA,2010,Severe Storm,1,Midwest
+29692,1927,ID,2010,Severe Storm,1,West
+29699,1926,OK,2010,Severe Storm,1,Southwest
+29706,1925,KY,2010,Severe Storm,1,Southeast
+29714,1924,NE,2010,Severe Storm,1,Midwest
+29776,1923,WY,2010,Flood,1,West
+29779,1922,MT,2010,Severe Storm,1,West
+29782,1921,MN,2010,Tornado,1,Midwest
+29795,1920,ME,2010,Severe Storm,1,Northeast
+29797,1919,PR,2010,Severe Storm,1,Territories
+29807,1918,WV,2010,Flood,1,Southeast
+29812,1917,OK,2010,Severe Storm,1,Southwest
+29828,1916,MS,2010,Severe Storm,1,Southeast
+29837,1914,SD,2010,Severe Storm,1,Midwest
+29840,1913,NH,2010,Severe Storm,1,Northeast
+29924,1911,CA,2010,Earthquake,1,West
+29925,1910,MD,2010,Snowstorm,1,Southeast
+29947,1909,TN,2010,Severe Storm,1,Southeast
+29996,1908,AL,2010,Severe Storm,1,Southeast
+29999,1906,MS,2010,Severe Storm,1,Southeast
+30008,1905,VA,2010,Snowstorm,1,Southeast
+30046,1904,CT,2010,Severe Storm,1,Northeast
+30051,1903,WV,2010,Snowstorm,1,Southeast
+30071,1902,NE,2010,Flood,1,Midwest
+30108,1901,ND,2010,Severe Storm,1,Midwest
+30121,1900,MN,2010,Flood,1,Midwest
+30149,1899,NY,2010,Severe Storm,1,Northeast
+30158,1898,PA,2010,Snowstorm,1,Northeast
+30185,1897,NJ,2010,Severe Storm,1,Northeast
+30201,1896,DE,2010,Snowstorm,1,Northeast
+30204,1894,RI,2010,Severe Storm,1,Northeast
+30209,1893,WV,2010,Severe Storm,1,Southeast
+30215,1892,NH,2010,Severe Storm,1,Northeast
+30221,1891,ME,2010,Severe Storm,1,Northeast
+30226,1890,DC,2010,Severe Storm,1,Southeast
+30227,1889,NJ,2010,Snowstorm,1,Northeast
+30234,1888,AZ,2010,Severe Storm,1,Southwest
+30248,1887,SD,2010,Severe Storm,1,Midwest
+30280,1886,SD,2010,Severe Storm,1,Midwest
+30295,1885,KS,2010,Severe Storm,1,Midwest
+30346,1884,CA,2010,Severe Storm,1,West
+30352,1883,OK,2010,Severe Ice Storm,1,Southwest
+30402,1882,DC,2010,Snowstorm,1,Southeast
+30403,1881,WV,2010,Snowstorm,1,Southeast
+30421,1880,IA,2010,Severe Storm,1,Midwest
+30448,1879,ND,2010,Severe Storm,1,Midwest
+30474,1878,NE,2010,Severe Storm,1,Midwest
+30532,1877,IA,2010,Severe Storm,1,Midwest
+30559,1876,OK,2010,Severe Storm,1,Southwest
+30613,1875,MD,2010,Snowstorm,1,Southeast
+30625,1874,VA,2010,Snowstorm,1,Southeast
+30675,1873,NJ,2010,Snowstorm,1,Northeast
+30682,1872,AR,2010,Severe Storm,1,Southwest
+30707,1871,NC,2010,Severe Storm,1,Southeast
+30722,1870,AL,2010,Severe Storm,1,Southeast
+30736,1869,NY,2010,Severe Storm,1,Northeast
+30738,1868,KS,2010,Severe Storm,1,Midwest
+30741,1867,NJ,2010,Severe Storm,1,Northeast
+30744,1866,AL,2010,Hurricane,1,Southeast
+30746,1865,AK,2010,Severe Storm,1,West
+30747,1864,NE,2010,Severe Storm,1,Midwest
+30754,1863,LA,2010,Severe Storm,1,Southwest
+30765,1862,VA,2010,Severe Storm,1,Southeast
+30777,1861,AR,2010,Severe Storm,1,Southwest
+30815,1860,KS,2009,Severe Storm,1,Midwest
+30820,1859,AS,2009,Earthquake,0,Territories
+30821,1859,AS,2009,Earthquake,1,Territories
+30825,1858,GA,2009,Severe Storm,1,Southeast
+30848,1857,NY,2009,Severe Storm,1,Northeast
+30854,1856,TN,2009,Severe Storm,1,Southeast
+30860,1855,KY,2009,Severe Storm,1,Southeast
+30862,1854,IA,2009,Severe Storm,1,Midwest
+30863,1853,NE,2009,Severe Storm,1,Midwest
+30880,1852,ME,2009,Severe Storm,1,Northeast
+30889,1851,TN,2009,Severe Storm,1,Southeast
+30892,1850,IL,2009,Severe Storm,1,Midwest
+30900,1849,KS,2009,Severe Storm,1,Midwest
+30928,1848,KS,2009,Severe Storm,1,Midwest
+30961,1847,MO,2009,Severe Storm,1,Midwest
+31014,1846,OK,2009,Fire,1,Southwest
+31023,1845,AR,2009,Severe Storm,1,Southwest
+31061,1844,SD,2009,Severe Storm,1,Midwest
+31077,1843,AK,2009,Flood,1,West
+31085,1842,AL,2009,Severe Storm,1,Southeast
+31089,1841,KY,2009,Severe Storm,1,Southeast
+31113,1840,FL,2009,Severe Storm,1,Southeast
+31118,1839,TN,2009,Severe Storm,1,Southeast
+31123,1838,WV,2009,Severe Storm,1,Southeast
+31128,1838,WV,2009,Severe Storm,0,Southeast
+31134,1837,MS,2009,Severe Storm,1,Southeast
+31145,1836,AL,2009,Severe Storm,1,Southeast
+31151,1835,AL,2009,Severe Storm,1,Southeast
+31172,1834,AR,2009,Tornado,0,Southwest
+31173,1834,AR,2009,Tornado,1,Southwest
+31228,1833,GA,2009,Severe Storm,1,Southeast
+31279,1832,IN,2009,Severe Storm,1,Midwest
+31295,1831,FL,2009,Severe Storm,1,Southeast
+31318,1828,IN,2009,Severe Storm,1,Midwest
+31339,1827,NY,2009,Severe Storm,1,Northeast
+31348,1826,IL,2009,Severe Storm,1,Midwest
+31357,1825,WA,2009,Severe Storm,1,West
+31393,1824,OR,2009,Severe Storm,1,West
+31403,1823,OK,2009,Severe Storm,1,Southwest
+31413,1822,MO,2009,Severe Storm,1,Midwest
+31434,1821,TN,2009,Severe Ice Storm,1,Southeast
+31441,1820,OK,2009,Severe Storm,1,Southwest
+31446,1819,AR,2009,Severe Storm,1,Southwest
+31476,1818,KY,2009,Severe Ice Storm,1,Southeast
+31580,1817,WA,2009,Flood,1,West
+31603,1816,VT,2009,Severe Ice Storm,1,Northeast
+31605,1815,ME,2009,Severe Storm,1,Northeast
+31612,1814,HI,2009,Flood,1,West
+31614,1813,MA,2009,Severe Ice Storm,1,Northeast
+31621,1812,NH,2009,Severe Ice Storm,1,Northeast
+31631,1811,SD,2009,Snowstorm,1,Midwest
+31648,1810,CA,2009,Fire,1,West
+31652,1809,MO,2009,Severe Storm,0,Midwest
+31653,1809,MO,2009,Severe Storm,1,Midwest
+31708,1808,KS,2009,Severe Storm,1,Midwest
+31717,1806,FL,2009,Hurricane,1,Southeast
+31723,1804,AR,2009,Severe Storm,1,Southwest
+31744,1803,OK,2009,Severe Storm,0,Southwest
+31753,1803,OK,2009,Severe Storm,1,Southwest
+31755,1802,KY,2009,Severe Storm,1,Southeast
+31791,1801,NC,2009,Severe Storm,1,Southeast
+31795,1800,IL,2009,Severe Storm,1,Midwest
+31811,1799,NH,2009,Severe Storm,1,Northeast
+31813,1798,PR,2009,Severe Storm,1,Territories
+31839,1797,AL,2008,Severe Storm,1,Southeast
+31841,1796,AK,2008,Severe Storm,1,West
+31845,1795,IN,2008,Severe Storm,1,Midwest
+31883,1794,MS,2008,Hurricane,1,Southeast
+31905,1793,AR,2008,Hurricane,1,Southwest
+31923,1792,LA,2008,Hurricane,1,Southwest
+31952,1791,TX,2008,Hurricane,1,Southwest
+32003,1790,VT,2008,Severe Storm,1,Northeast
+32010,1789,AL,2008,Hurricane,1,Southeast
+32012,1788,ME,2008,Severe Storm,1,Northeast
+32015,1787,NH,2008,Severe Storm,1,Northeast
+32019,1785,FL,2008,Severe Storm,1,Southeast
+32063,1784,VT,2008,Severe Storm,1,Northeast
+32066,1783,NM,2008,Severe Storm,1,Southwest
+32068,1782,NH,2008,Severe Storm,1,Northeast
+32073,1781,ID,2008,Flood,1,West
+32075,1780,TX,2008,Hurricane,1,Southwest
+32091,1779,NE,2008,Severe Storm,1,Midwest
+32095,1778,VT,2008,Severe Storm,1,Northeast
+32097,1777,MI,2008,Severe Storm,1,Midwest
+32109,1776,KS,2008,Severe Storm,1,Midwest
+32163,1775,OK,2008,Severe Storm,1,Southwest
+32189,1774,SD,2008,Severe Storm,1,Midwest
+32219,1773,MO,2008,Severe Storm,1,Midwest
+32281,1772,MN,2008,Severe Storm,1,Midwest
+32287,1770,NE,2008,Severe Storm,1,Midwest
+32349,1769,WV,2008,Severe Storm,1,Southeast
+32367,1767,MT,2008,Severe Storm,1,West
+32371,1766,IN,2008,Severe Storm,1,Midwest
+32421,1765,NE,2008,Severe Storm,1,Midwest
+32426,1764,MS,2008,Severe Storm,1,Southeast
+32427,1763,IA,2008,Severe Storm,1,Midwest
+32512,1762,CO,2008,Severe Storm,1,West
+32514,1761,GA,2008,Severe Storm,1,Southeast
+32528,1760,MO,2008,Severe Storm,1,Midwest
+32531,1759,SD,2008,Snowstorm,1,Midwest
+32537,1758,AR,2008,Severe Storm,1,Southwest
+32549,1757,KY,2008,Severe Storm,1,Southeast
+32564,1756,OK,2008,Severe Storm,1,Southwest
+32568,1755,ME,2008,Flood,1,Northeast
+32575,1754,OK,2008,Flood,1,Southwest
+32599,1753,MS,2008,Severe Storm,1,Southeast
+32603,1752,OK,2008,Severe Storm,1,Southwest
+32617,1751,AR,2008,Severe Storm,0,Southwest
+32618,1751,AR,2008,Severe Storm,1,Southwest
+32676,1750,GA,2008,Severe Storm,1,Southeast
+32683,1749,MO,2008,Severe Storm,0,Midwest
+32698,1749,MO,2008,Severe Storm,1,Midwest
+32754,1748,MO,2008,Severe Ice Storm,1,Midwest
+32772,1747,IL,2008,Severe Storm,1,Midwest
+32774,1746,KY,2008,Severe Storm,1,Southeast
+32797,1745,TN,2008,Severe Storm,1,Southeast
+32816,1744,AR,2008,Severe Storm,1,Southwest
+32828,1743,HI,2008,Severe Storm,1,West
+32831,1742,MO,2008,Severe Storm,1,Midwest
+32840,1741,KS,2008,Severe Storm,1,Midwest
+32900,1740,IN,2008,Severe Storm,1,Midwest
+32921,1739,NE,2008,Severe Ice Storm,1,Midwest
+32929,1738,NV,2008,Severe Storm,1,West
+32930,1737,IA,2008,Severe Ice Storm,1,Midwest
+32960,1736,MO,2008,Severe Ice Storm,1,Midwest
+33002,1735,OK,2008,Severe Ice Storm,1,Southwest
+33027,1734,WA,2008,Severe Storm,1,West
+33039,1733,OR,2008,Severe Storm,1,West
+33045,1733,OR,2008,Severe Storm,0,West
+33051,1732,IN,2008,Severe Storm,1,Midwest
+33052,1730,TX,2008,Severe Storm,1,Southwest
+33058,1729,IL,2007,Severe Storm,1,Midwest
+33067,1728,MO,2007,Severe Storm,1,Midwest
+33074,1727,IA,2007,Severe Storm,1,Midwest
+33091,1726,ND,2007,Severe Storm,1,Midwest
+33092,1725,ND,2007,Severe Storm,1,Midwest
+33094,1724,NY,2007,Severe Storm,1,Northeast
+33096,1723,OK,2007,Severe Storm,1,Southwest
+33105,1722,IL,2007,Severe Storm,1,Midwest
+33107,1721,NE,2007,Severe Storm,1,Midwest
+33113,1720,OH,2007,Severe Storm,1,Midwest
+33121,1719,WI,2007,Severe Storm,1,Midwest
+33135,1718,OK,2007,Severe Storm,1,Southwest
+33158,1716,ME,2007,Severe Storm,1,Northeast
+33159,1715,VT,2007,Severe Storm,1,Northeast
+33164,1714,NE,2007,Severe Storm,1,Midwest
+33179,1713,ND,2007,Severe Storm,1,Midwest
+33192,1712,OK,2007,Severe Storm,1,Southwest
+33252,1711,KS,2007,Severe Storm,1,Midwest
+33275,1710,NY,2007,Severe Storm,1,Northeast
+33278,1709,TX,2007,Severe Storm,1,Southwest
+33356,1708,MO,2007,Severe Storm,1,Midwest
+33386,1707,OK,2007,Severe Storm,1,Southwest
+33413,1706,NE,2007,Severe Storm,1,Midwest
+33432,1705,IA,2007,Severe Storm,1,Midwest
+33451,1704,RI,2007,Severe Storm,1,Northeast
+33452,1703,KY,2007,Severe Storm,1,Southeast
+33461,1701,MA,2007,Severe Storm,1,Northeast
+33469,1700,CT,2007,Severe Storm,1,Northeast
+33476,1699,KS,2007,Severe Storm,1,Midwest
+33518,1698,VT,2007,Severe Storm,1,Northeast
+33526,1697,TX,2007,Severe Storm,1,Southwest
+33531,1696,WV,2007,Severe Storm,1,Southeast
+33549,1695,NH,2007,Severe Storm,1,Northeast
+33559,1694,NJ,2007,Severe Storm,1,Northeast
+33574,1693,ME,2007,Severe Storm,1,Northeast
+33587,1692,NY,2007,Severe Storm,1,Northeast
+33601,1691,ME,2007,Flood,1,Northeast
+33605,1690,NM,2007,Severe Storm,1,Southwest
+33607,1689,CA,2007,Freezing,1,West
+33623,1688,IA,2007,Severe Storm,1,Midwest
+33671,1685,LA,2007,Severe Storm,1,Southwest
+33674,1684,PA,2007,Severe Storm,1,Northeast
+33682,1683,OR,2007,Severe Storm,0,West
+33683,1683,OR,2007,Severe Storm,1,West
+33692,1682,WA,2007,Severe Storm,1,West
+33711,1681,IL,2007,Severe Ice Storm,1,Midwest
+33729,1680,FL,2007,Severe Storm,1,Southeast
+33730,1679,FL,2007,Severe Storm,1,Southeast
+33734,1677,OK,2007,Severe Storm,1,Southwest
+33737,1676,MO,2007,Severe Ice Storm,1,Midwest
+33776,1675,KS,2007,Severe Storm,1,Midwest
+33820,1674,NE,2007,Severe Storm,1,Midwest
+33879,1673,MO,2007,Severe Storm,1,Midwest
+33893,1672,OR,2007,Severe Storm,1,West
+33897,1671,WA,2007,Severe Storm,1,West
+33911,1670,NY,2007,Severe Storm,1,Northeast
+33940,1669,AK,2007,Severe Storm,1,West
+33943,1668,LA,2007,Severe Storm,1,Southwest
+33967,1667,MO,2007,Severe Storm,1,Midwest
+33968,1666,AK,2007,Fire,1,West
+33969,1665,NY,2007,Severe Storm,1,Northeast
+33973,1664,HI,2007,Earthquake,1,West
+33977,1663,AK,2007,Severe Storm,1,West
+33980,1662,IN,2007,Severe Storm,1,Midwest
+33983,1661,VA,2006,Severe Storm,1,Southeast
+34010,1660,AZ,2006,Severe Storm,1,Southwest
+34021,1659,NM,2006,Severe Storm,1,Southwest
+34041,1658,TX,2006,Severe Storm,1,Southwest
+34043,1657,AK,2006,Flood,1,West
+34046,1656,OH,2006,Severe Storm,1,Midwest
+34049,1655,VA,2006,Severe Storm,1,Southeast
+34065,1654,DE,2006,Severe Storm,1,Northeast
+34066,1653,NJ,2006,Severe Storm,1,Northeast
+34070,1652,MD,2006,Severe Storm,1,Southeast
+34073,1651,OH,2006,Severe Storm,1,Midwest
+34079,1650,NY,2006,Severe Storm,1,Northeast
+34088,1650,NY,2006,Severe Storm,0,Northeast
+34100,1649,PA,2006,Severe Storm,1,Northeast
+34133,4526,DE,2020,Biological,1,Northeast
+34153,1648,MN,2006,Flood,1,Midwest
+34162,1647,SD,2006,Severe Storm,1,Midwest
+34168,1646,CA,2006,Severe Storm,1,West
+34185,1645,ND,2006,Severe Storm,1,Midwest
+34197,1644,ME,2006,Severe Storm,1,Northeast
+34198,1643,NH,2006,Severe Storm,1,Northeast
+34205,1642,MA,2006,Severe Storm,1,Northeast
+34208,1641,WA,2006,Severe Storm,1,West
+34219,1640,HI,2006,Severe Storm,1,West
+34221,1638,KS,2006,Severe Storm,1,Midwest
+34223,1637,OK,2006,Severe Storm,1,Southwest
+34224,1636,AR,2006,Severe Storm,1,Southwest
+34231,1635,MO,2006,Severe Storm,1,Midwest
+34238,1634,TN,2006,Severe Storm,1,Southeast
+34254,1633,IL,2006,Severe Storm,1,Midwest
+34260,1632,OR,2006,Severe Storm,1,West
+34280,1631,MO,2006,Severe Storm,1,Midwest
+34321,1630,ID,2006,Severe Storm,1,West
+34322,1629,NV,2006,Severe Storm,1,West
+34330,1627,NE,2006,Severe Storm,1,Midwest
+34343,4525,UT,2020,Biological,1,West
+34360,1626,KS,2006,Severe Storm,1,Midwest
+34377,1625,SC,2006,Severe Ice Storm,1,Southeast
+34384,1624,TX,2006,Fire,1,Southwest
+34472,4524,AZ,2020,Biological,1,Southwest
+34527,4717,ND,2023,Flood,1,Midwest
+34691,1623,OK,2006,Fire,1,Southwest
+34769,1622,MN,2006,Severe Storm,0,Midwest
+34778,1621,ND,2006,Severe Storm,1,Midwest
+34782,1620,SD,2006,Severe Storm,1,Midwest
+34808,1619,CT,2006,Severe Storm,1,Northeast
+34813,1618,AK,2006,Severe Storm,1,West
+34817,1616,ND,2006,Snowstorm,0,Midwest
+34818,1616,ND,2006,Snowstorm,1,Midwest
+34838,1615,KS,2006,Severe Storm,1,Midwest
+34843,1614,MA,2006,Severe Storm,1,Northeast
+34854,1613,PR,2006,Severe Storm,1,Territories
+34886,4523,NV,2020,Biological,1,West
+34898,1612,IN,2006,Tornado,1,Midwest
+34900,1611,MP,2006,Typhoon,1,Territories
+34903,1610,NH,2006,Severe Storm,1,Northeast
+34909,1609,FL,2006,Hurricane,1,Southeast
+34929,1608,NC,2006,Hurricane,1,Southeast
+34978,4522,ME,2020,Biological,0,Northeast
+34985,4522,ME,2020,Biological,1,Northeast
+35113,1604,MS,2005,Hurricane,1,Southeast
+35195,1603,LA,2005,Hurricane,1,Southwest
+35259,1602,FL,2005,Hurricane,1,Southeast
+35270,1601,LA,2005,Severe Storm,1,Southwest
+35275,1600,KS,2005,Severe Storm,1,Midwest
+35278,1599,WY,2005,Tornado,1,West
+35279,1598,UT,2005,Flood,1,West
+35288,1596,SD,2005,Severe Storm,1,Midwest
+35295,1595,FL,2005,Hurricane,1,Southeast
+35320,1594,MS,2005,Hurricane,0,Southeast
+35321,1594,MS,2005,Hurricane,1,Southeast
+35447,1593,AL,2005,Hurricane,1,Southeast
+35493,1592,ID,2005,Flood,1,West
+35495,1591,ME,2005,Severe Storm,1,Northeast
+35508,1590,NE,2005,Severe Storm,1,Midwest
+35519,1589,NY,2005,Severe Storm,1,Northeast
+35540,1588,NJ,2005,Severe Storm,1,Northeast
+35549,1587,PA,2005,Severe Storm,1,Northeast
+35560,1586,AZ,2005,Severe Storm,1,Southwest
+35572,1584,AK,2005,Severe Storm,1,West
+35573,1583,NV,2005,Severe Storm,1,West
+35575,1582,AS,2005,Typhoon,1,Territories
+35580,1581,AZ,2005,Severe Storm,1,Southwest
+35588,1579,KS,2005,Severe Storm,1,Midwest
+35628,1578,KY,2005,Snowstorm,0,Southeast
+35631,1578,KY,2005,Snowstorm,1,Southeast
+35658,1576,UT,2005,Severe Storm,1,West
+35660,1575,HI,2005,Severe Storm,1,West
+35661,1574,WV,2005,Severe Storm,1,Southeast
+35667,1573,IN,2005,Severe Storm,1,Midwest
+35754,1572,DE,2005,Severe Storm,1,Northeast
+35755,1571,AK,2005,Severe Storm,1,West
+35761,1570,VA,2005,Severe Storm,1,Southeast
+35771,1569,MN,2005,Severe Storm,1,Midwest
+35778,1568,TN,2005,Severe Storm,1,Southeast
+35793,1567,VI,2005,Hurricane,1,Southeast
+35796,1566,SC,2005,Hurricane,1,Southeast
+35824,1565,NY,2005,Severe Storm,1,Northeast
+35833,1564,NY,2005,Severe Storm,1,Northeast
+35851,1563,NJ,2005,Severe Storm,1,Northeast
+35855,1562,KS,2004,Severe Storm,1,Midwest
+35857,1561,FL,2004,Hurricane,1,Southeast
+35910,1560,GA,2004,Hurricane,1,Southeast
+36038,1559,VT,2004,Severe Storm,1,Northeast
+36045,1558,WV,2004,Severe Storm,1,Southeast
+36068,1557,PA,2004,Hurricane,1,Northeast
+36135,1555,PA,2004,Severe Storm,1,Northeast
+36202,1554,GA,2004,Hurricane,1,Southeast
+36233,1553,NC,2004,Hurricane,1,Southeast
+36262,1552,PR,2004,Severe Storm,1,Territories
+36421,1551,FL,2004,Hurricane,1,Southeast
+36467,1550,MS,2004,Hurricane,1,Southeast
+36511,1549,AL,2004,Hurricane,1,Southeast
+36579,1548,LA,2004,Hurricane,1,Southwest
+36608,1547,SC,2004,Severe Storm,1,Southeast
+36611,1546,NC,2004,Hurricane,1,Southeast
+36646,1545,FL,2004,Hurricane,1,Southeast
+36783,4521,NE,2020,Biological,1,Midwest
+36814,1544,VA,2004,Severe Storm,1,Southeast
+36826,1543,SC,2004,Hurricane,1,Southeast
+36828,1542,IN,2004,Severe Storm,1,Midwest
+36891,1541,MP,2004,Typhoon,1,Territories
+36894,1540,NV,2004,Fire,1,West
+36895,1539,FL,2004,Hurricane,1,Southeast
+36964,1538,PA,2004,Severe Storm,1,Northeast
+36971,1537,KY,2004,Severe Storm,1,Southeast
+36998,1536,WV,2004,Severe Storm,1,Southeast
+37002,1535,KS,2004,Severe Storm,0,Midwest
+37004,1535,KS,2004,Severe Storm,1,Midwest
+37031,1534,NY,2004,Severe Storm,1,Northeast
+37093,1533,GU,2004,Severe Storm,1,Territories
+37094,1532,MP,2004,Typhoon,1,Territories
+37097,1531,SD,2004,Severe Storm,1,Midwest
+37107,1530,NJ,2004,Severe Storm,1,Northeast
+37109,1529,CA,2004,Dam/Levee Break,1,West
+37110,1528,AR,2004,Severe Storm,1,Southwest
+37124,1527,MI,2004,Severe Storm,1,Midwest
+37150,1526,WI,2004,Severe Storm,1,Midwest
+37194,1525,VA,2004,Severe Storm,1,Southeast
+37198,1524,MO,2004,Severe Storm,1,Midwest
+37235,1523,KY,2004,Severe Storm,1,Southeast
+37313,1522,WV,2004,Severe Storm,1,Southeast
+37337,1521,LA,2004,Severe Storm,1,Southwest
+37346,1520,IN,2004,Severe Storm,1,Midwest
+37415,1519,OH,2004,Severe Storm,0,Midwest
+37417,1519,OH,2004,Severe Storm,1,Midwest
+37440,1518,IA,2004,Severe Storm,1,Midwest
+37517,1517,NE,2004,Severe Storm,1,Midwest
+37556,1516,AR,2004,Severe Storm,1,Southwest
+37607,1514,NM,2004,Severe Storm,1,Southwest
+37611,1513,IL,2004,Severe Storm,1,Midwest
+37615,1512,MA,2004,Flood,1,Northeast
+37620,1511,FM,2004,Typhoon,1,Territories
+37622,1510,OR,2004,Severe Storm,1,West
+37652,1509,SC,2004,Severe Ice Storm,1,Southeast
+37678,1508,ME,2004,Severe Storm,1,Northeast
+37685,1507,OH,2004,Severe Storm,1,Midwest
+37699,1506,AS,2004,Typhoon,1,Territories
+37702,1505,CA,2004,Earthquake,1,West
+37704,1504,FM,2004,Typhoon,1,Territories
+37706,1503,VI,2004,Severe Storm,0,Southeast
+37709,1502,VA,2004,Severe Storm,1,Southeast
+37715,1501,PR,2004,Severe Storm,1,Territories
+37746,1500,WV,2004,Severe Storm,1,Southeast
+37781,1499,WA,2004,Severe Storm,1,West
+37788,4520,WI,2020,Biological,1,Midwest
+37797,1497,PA,2003,Severe Storm,1,Northeast
+37798,1496,WV,2003,Hurricane,1,Southeast
+37808,1495,DE,2003,Hurricane,1,Northeast
+37809,1494,DE,2003,Hurricane,1,Northeast
+37812,1493,DC,2003,Hurricane,0,Southeast
+37813,1492,MD,2003,Hurricane,1,Southeast
+37837,1491,VA,2003,Hurricane,0,Southeast
+37838,1491,VA,2003,Hurricane,1,Southeast
+37937,1490,NC,2003,Hurricane,1,Southeast
+37938,1490,NC,2003,Hurricane,0,Southeast
+37986,1489,NH,2003,Severe Storm,1,Northeast
+37988,1488,VT,2003,Severe Storm,1,Northeast
+37992,1487,IN,2003,Severe Storm,1,Midwest
+38014,1486,NY,2003,Severe Storm,1,Northeast
+38031,1485,PA,2003,Severe Storm,1,Northeast
+38032,1485,PA,2003,Severe Storm,0,Northeast
+38046,1484,OH,2003,Tornado,0,Midwest
+38047,1484,OH,2003,Tornado,1,Midwest
+38061,1483,ND,2003,Severe Storm,1,Midwest
+38062,1482,TN,2003,Severe Storm,1,Southeast
+38064,1481,FL,2003,Severe Storm,0,Southeast
+38068,1481,FL,2003,Severe Storm,1,Southeast
+38075,1480,NE,2003,Severe Storm,1,Midwest
+38094,1479,TX,2003,Hurricane,1,Southwest
+38112,1478,OH,2003,Severe Storm,1,Midwest
+38122,1477,AZ,2003,Fire,1,Southwest
+38123,1476,IN,2003,Severe Storm,0,Midwest
+38126,1476,IN,2003,Severe Storm,1,Midwest
+38169,1475,KY,2003,Severe Storm,1,Southeast
+38192,1474,WV,2003,Severe Storm,0,Southeast
+38194,1474,WV,2003,Severe Storm,1,Southeast
+38212,1473,AS,2003,Severe Storm,1,Territories
+38214,1472,AR,2003,Severe Storm,1,Southwest
+38218,1472,AR,2003,Severe Storm,0,Southwest
+38237,1471,KY,2003,Severe Storm,0,Southeast
+38238,1471,KY,2003,Severe Storm,1,Southeast
+38281,1470,MS,2003,Severe Storm,1,Southeast
+38290,1469,IL,2003,Severe Storm,1,Midwest
+38306,1468,ME,2003,Freezing,1,Northeast
+38317,1467,NY,2003,Severe Ice Storm,1,Northeast
+38318,1467,NY,2003,Severe Ice Storm,0,Northeast
+38333,1466,AL,2003,Severe Storm,0,Southeast
+38339,1466,AL,2003,Severe Storm,1,Southeast
+38371,1465,OK,2003,Severe Storm,1,Southwest
+38373,1465,OK,2003,Severe Storm,0,Southwest
+38398,1464,TN,2003,Severe Storm,1,Southeast
+38402,1464,TN,2003,Severe Storm,0,Southeast
+38471,1463,MO,2003,Severe Storm,1,Midwest
+38547,1462,KS,2003,Severe Storm,1,Midwest
+38562,1461,AK,2003,Severe Storm,1,West
+38565,1460,FL,2003,Severe Storm,1,Southeast
+38566,1459,MS,2003,Severe Storm,0,Southeast
+38567,1459,MS,2003,Severe Storm,1,Southeast
+38598,1458,VA,2003,Severe Storm,0,Southeast
+38612,1458,VA,2003,Severe Storm,1,Southeast
+38637,1457,NC,2003,Severe Ice Storm,1,Southeast
+38647,1456,TN,2003,Severe Storm,0,Southeast
+38649,1456,TN,2003,Severe Storm,1,Southeast
+38675,1455,WV,2003,Severe Storm,0,Southeast
+38689,1455,WV,2003,Severe Storm,1,Southeast
+38728,1454,KY,2003,Severe Storm,0,Southeast
+38729,1454,KY,2003,Severe Storm,1,Southeast
+38780,1452,OK,2003,Severe Ice Storm,1,Southwest
+38794,1451,SC,2003,Severe Ice Storm,1,Southeast
+38800,1450,AR,2003,Severe Ice Storm,0,Southwest
+38808,1450,AR,2003,Severe Ice Storm,1,Southwest
+38818,1449,FM,2003,Typhoon,0,Territories
+38819,1448,NC,2003,Severe Ice Storm,1,Southeast
+38820,1448,NC,2003,Severe Ice Storm,0,Southeast
+38863,1447,MP,2003,Typhoon,0,Territories
+38865,1447,MP,2003,Typhoon,1,Territories
+38866,1445,AK,2003,Severe Storm,1,West
+38870,1444,OH,2003,Severe Storm,0,Midwest
+38871,1444,OH,2003,Severe Storm,1,Midwest
+38890,1443,MS,2003,Severe Storm,0,Southeast
+38891,1443,MS,2003,Severe Storm,1,Southeast
+38896,1442,AL,2003,Severe Storm,1,Southeast
+38925,1441,TN,2003,Severe Storm,0,Southeast
+38929,1441,TN,2003,Severe Storm,1,Southeast
+38947,1440,AK,2003,Earthquake,1,West
+38953,1439,TX,2003,Severe Storm,0,Southwest
+38964,1439,TX,2003,Severe Storm,1,Southwest
+38971,1438,AL,2003,Hurricane,1,Southeast
+38973,1437,LA,2003,Hurricane,0,Southwest
+38977,1437,LA,2003,Hurricane,1,Southwest
+39017,1436,MS,2003,Hurricane,0,Southeast
+39020,1436,MS,2003,Hurricane,1,Southeast
+39028,1435,LA,2002,Hurricane,0,Southwest
+39029,1435,LA,2002,Hurricane,1,Southwest
+39044,1434,TX,2002,Coastal Storm,0,Southwest
+39046,1434,TX,2002,Coastal Storm,1,Southwest
+39055,1433,IN,2002,Severe Storm,1,Midwest
+39087,1432,WI,2002,Tornado,1,Midwest
+39106,1431,ND,2002,Severe Storm,1,Midwest
+39112,1430,MP,2002,Typhoon,1,Territories
+39113,1429,WI,2002,Severe Storm,1,Midwest
+39121,1428,VT,2002,Severe Storm,1,Northeast
+39126,1427,FM,2002,Typhoon,1,Territories
+39128,1425,TX,2002,Flood,1,Southwest
+39169,1424,MT,2002,Severe Storm,1,West
+39175,1423,AK,2002,Flood,1,West
+39185,1422,AZ,2002,Fire,0,Southwest
+39187,1422,AZ,2002,Fire,1,Southwest
+39190,1421,CO,2002,Fire,1,West
+39250,1420,IA,2002,Flood,1,Midwest
+39271,1418,IN,2002,Severe Storm,1,Midwest
+39299,1418,IN,2002,Severe Storm,0,Midwest
+39322,1417,FM,2002,Typhoon,1,Territories
+39323,1416,IL,2002,Tornado,0,Midwest
+39334,1416,IL,2002,Tornado,1,Midwest
+39418,1415,NY,2002,Earthquake,1,Northeast
+39425,1414,KY,2002,Severe Storm,0,Southeast
+39431,1414,KY,2002,Severe Storm,1,Southeast
+39483,4518,AR,2020,Biological,1,Southwest
+39538,1413,MI,2002,Flood,0,Midwest
+39539,1413,MI,2002,Flood,1,Midwest
+39544,1412,MO,2002,Severe Storm,0,Midwest
+39561,1412,MO,2002,Severe Storm,1,Midwest
+39623,1411,VA,2002,Severe Storm,0,Southeast
+39630,1411,VA,2002,Severe Storm,1,Southeast
+39638,1410,WV,2002,Severe Storm,0,Southeast
+39640,1410,WV,2002,Severe Storm,1,Southeast
+39646,1409,MD,2002,Tornado,1,Southeast
+39649,1408,TN,2002,Severe Storm,0,Southeast
+39677,1408,TN,2002,Severe Storm,1,Southeast
+39686,1407,KY,2002,Severe Storm,0,Southeast
+39698,1407,KY,2002,Severe Storm,1,Southeast
+39723,1406,VA,2002,Severe Storm,0,Southeast
+39724,1406,VA,2002,Severe Storm,1,Southeast
+39733,1405,OR,2002,Severe Storm,0,West
+39737,1405,OR,2002,Severe Storm,1,West
+39738,1404,NY,2002,Snowstorm,1,Northeast
+39739,1403,MO,2002,Severe Ice Storm,1,Midwest
+39782,1402,KS,2002,Severe Ice Storm,0,Midwest
+39815,1402,KS,2002,Severe Ice Storm,1,Midwest
+39817,1401,OK,2002,Severe Ice Storm,0,Southwest
+39860,1401,OK,2002,Severe Ice Storm,1,Southwest
+39863,1400,AR,2002,Severe Storm,0,Southwest
+39867,1400,AR,2002,Severe Storm,1,Southwest
+39883,1399,AL,2002,Severe Storm,1,Southeast
+39902,1398,MS,2002,Severe Storm,0,Southeast
+39911,1398,MS,2002,Severe Storm,1,Southeast
+39925,1397,GU,2002,Earthquake,1,Territories
+39926,1396,PR,2002,Severe Storm,0,Territories
+39929,1396,PR,2002,Severe Storm,1,Territories
+39939,1395,OK,2002,Severe Storm,1,Southwest
+39942,1394,NE,2002,Severe Storm,1,Midwest
+39943,1393,FL,2001,Coastal Storm,0,Southeast
+39947,1393,FL,2001,Coastal Storm,1,Southeast
+39954,1392,VA,2001,Terrorist,1,Southeast
+39955,1391,NY,2001,Fire,0,Northeast
+40013,1391,NY,2001,Fire,1,Northeast
+40018,1390,OH,2001,Severe Storm,1,Midwest
+40022,1389,DC,2001,Severe Storm,1,Southeast
+40023,1388,KY,2001,Severe Storm,0,Southeast
+40035,1388,KY,2001,Severe Storm,1,Southeast
+40044,1387,TN,2001,Severe Storm,1,Southeast
+40052,1386,VA,2001,Severe Storm,0,Southeast
+40055,1386,VA,2001,Severe Storm,1,Southeast
+40062,1385,MT,2001,Severe Storm,1,West
+40065,1384,OK,2001,Severe Storm,0,Southwest
+40069,1384,OK,2001,Severe Storm,1,Southwest
+40113,1383,PA,2001,Severe Storm,1,Northeast
+40114,1383,PA,2001,Severe Storm,0,Northeast
+40116,1382,MS,2001,Severe Storm,1,Southeast
+40121,1381,FL,2001,Severe Storm,0,Southeast
+40122,1381,FL,2001,Severe Storm,1,Southeast
+40130,1380,LA,2001,Coastal Storm,0,Southwest
+40147,1380,LA,2001,Coastal Storm,1,Southwest
+40157,1379,TX,2001,Coastal Storm,0,Southwest
+40160,1379,TX,2001,Coastal Storm,1,Southwest
+40188,1378,WV,2001,Severe Storm,0,Southeast
+40197,1378,WV,2001,Severe Storm,1,Southeast
+40212,1377,MT,2001,Severe Storm,1,West
+40214,1374,CO,2001,Severe Storm,1,West
+40228,1373,NE,2001,Severe Storm,0,Midwest
+40230,1373,NE,2001,Severe Storm,1,Midwest
+40256,1372,PR,2001,Severe Storm,0,Territories
+40271,1371,ME,2001,Severe Storm,1,Northeast
+40277,1368,IL,2001,Flood,1,Midwest
+40287,1367,IA,2001,Severe Storm,0,Midwest
+40292,1367,IA,2001,Severe Storm,1,Midwest
+40310,1366,KS,2001,Severe Storm,1,Midwest
+40311,1365,MS,2001,Severe Storm,0,Southeast
+40312,1365,MS,2001,Severe Storm,1,Southeast
+40317,1364,MA,2001,Severe Storm,0,Northeast
+40324,1364,MA,2001,Severe Storm,1,Northeast
+40325,1363,AR,2001,Severe Storm,0,Southwest
+40346,1363,AR,2001,Severe Storm,1,Southwest
+40347,1362,AL,2001,Severe Storm,0,Southeast
+40348,1362,AL,2001,Severe Storm,1,Southeast
+40353,1361,WA,2001,Earthquake,0,West
+40374,1361,WA,2001,Earthquake,1,West
+40377,1360,MS,2001,Severe Storm,0,Southeast
+40424,1360,MS,2001,Severe Storm,1,Southeast
+40427,1358,VT,2001,Severe Storm,1,Northeast
+40429,1357,LA,2001,Severe Ice Storm,1,Southwest
+40437,1356,TX,2001,Severe Ice Storm,0,Southwest
+40452,1356,TX,2001,Severe Ice Storm,1,Southwest
+40483,1355,OK,2001,Severe Ice Storm,0,Southwest
+40548,1354,AR,2001,Severe Ice Storm,0,Southwest
+40614,1354,AR,2001,Severe Ice Storm,1,Southwest
+40615,1353,ND,2001,Tornado,1,Midwest
+40624,1352,AL,2001,Severe Storm,0,Southeast
+40634,1352,AL,2001,Severe Storm,1,Southeast
+40635,1351,WY,2001,Severe Storm,1,West
+40639,1350,MT,2001,Severe Storm,0,West
+40640,1350,MT,2001,Severe Storm,1,West
+40646,1349,OK,2001,Severe Storm,0,Southwest
+40656,1349,OK,2001,Severe Storm,1,Southwest
+40657,1348,HI,2001,Severe Storm,1,West
+40658,1348,HI,2001,Severe Storm,0,West
+40659,1347,AZ,2001,Severe Storm,1,Southwest
+40660,1347,AZ,2001,Severe Storm,0,Southwest
+40667,1346,MI,2001,Severe Storm,0,Midwest
+40668,1346,MI,2001,Severe Storm,1,Midwest
+40669,1345,FL,2001,Severe Storm,1,Southeast
+40673,1342,CA,2000,Earthquake,1,West
+40674,1341,ID,2000,Fire,0,West
+40689,1341,ID,2000,Fire,1,West
+40690,1340,MT,2000,Fire,0,West
+40743,1340,MT,2000,Fire,1,West
+40744,1339,OH,2000,Severe Storm,1,Midwest
+40745,1338,DC,2000,Severe Storm,1,Southeast
+40746,1337,NJ,2000,Severe Storm,1,Northeast
+40748,1336,VT,2000,Severe Storm,1,Northeast
+40754,1335,NY,2000,Severe Storm,0,Northeast
+40764,1335,NY,2000,Severe Storm,1,Northeast
+40782,1333,MN,2000,Severe Storm,0,Midwest
+40784,1333,MN,2000,Severe Storm,1,Midwest
+40800,1332,WI,2000,Severe Storm,0,Midwest
+40809,1332,WI,2000,Severe Storm,1,Midwest
+40830,1331,TN,2000,Severe Storm,1,Southeast
+40845,1330,SD,2000,Severe Storm,1,Midwest
+40850,1329,NM,2000,Fire,0,Southwest
+40858,1329,NM,2000,Fire,1,Southwest
+40871,1328,MO,2000,Flood,1,Midwest
+40881,1327,KS,2000,Severe Storm,1,Midwest
+40884,1326,ME,2000,Severe Storm,1,Northeast
+40892,1325,DC,2000,Severe Storm,1,Southeast
+40893,1324,MD,2000,Severe Storm,1,Southeast
+40908,1323,TX,2000,Tornado,1,Southwest
+40909,1322,AL,2000,Severe Storm,1,Southeast
+40911,1321,OH,2000,Severe Storm,1,Midwest
+40918,1320,KY,2000,Severe Storm,1,Southeast
+40934,1319,WV,2000,Flood,1,Southeast
+40960,1318,VA,2000,Severe Storm,0,Southeast
+40962,1318,VA,2000,Severe Storm,1,Southeast
+41069,1317,AL,2000,Severe Storm,0,Southeast
+41072,1316,AK,2000,Severe Storm,1,West
+41086,1313,SC,2000,Severe Storm,0,Southeast
+41087,1313,SC,2000,Severe Storm,1,Southeast
+41124,1312,NC,2000,Severe Storm,1,Southeast
+41157,1311,GA,2000,Severe Storm,1,Southeast
+41208,1310,KY,2000,Tornado,0,Southeast
+41215,1310,KY,2000,Tornado,1,Southeast
+41219,1309,VI,2000,Hurricane,1,Southeast
+41222,1308,ME,2000,Hurricane,1,Northeast
+41227,1307,VT,2000,Severe Storm,1,Northeast
+41237,1306,FL,2000,Hurricane,0,Southeast
+41238,1306,FL,2000,Hurricane,1,Southeast
+41256,1304,AZ,2000,Severe Storm,1,Southwest
+41258,1303,MD,1999,Hurricane,1,Southeast
+41269,1301,NM,1999,Severe Storm,1,Southwest
+41277,1300,FL,1999,Hurricane,1,Southeast
+41289,1299,SC,1999,Hurricane,0,Southeast
+41316,1298,PA,1999,Flood,1,Northeast
+41321,1297,DE,1999,Hurricane,1,Northeast
+41322,1296,NY,1999,Hurricane,0,Northeast
+41326,1296,NY,1999,Hurricane,1,Northeast
+41337,1295,NJ,1999,Hurricane,1,Northeast
+41346,1294,PA,1999,Hurricane,1,Northeast
+41354,1293,VA,1999,Hurricane,0,Southeast
+41357,1293,VA,1999,Hurricane,1,Southeast
+41403,1292,NC,1999,Hurricane,1,Southeast
+41470,1290,VA,1999,Hurricane,1,Southeast
+41471,1289,PA,1999,Severe Storm,1,Northeast
+41473,1288,MN,1999,Severe Ice Storm,0,Midwest
+41474,1288,MN,1999,Severe Ice Storm,1,Midwest
+41480,1286,NE,1999,Severe Storm,1,Midwest
+41483,1285,UT,1999,Tornado,1,West
+41484,1284,WI,1999,Flood,1,Midwest
+41494,1283,MN,1999,Severe Storm,1,Midwest
+41497,1283,MN,1999,Severe Storm,0,Midwest
+41503,1282,IA,1999,Severe Storm,0,Midwest
+41520,1282,IA,1999,Severe Storm,1,Midwest
+41524,1281,NV,1999,Severe Storm,1,West
+41525,1280,SD,1999,Tornado,1,Midwest
+41527,1278,IL,1999,Severe Storm,1,Midwest
+41528,1277,IA,1999,Severe Storm,0,Midwest
+41535,1277,IA,1999,Severe Storm,1,Midwest
+41545,1276,CO,1999,Severe Storm,0,West
+41557,1275,TN,1999,Severe Storm,0,Southeast
+41558,1275,TN,1999,Severe Storm,1,Southeast
+41575,1274,TX,1999,Tornado,0,Southwest
+41577,1274,TX,1999,Tornado,1,Southwest
+41579,1273,KS,1999,Tornado,1,Midwest
+41582,1272,OK,1999,Tornado,1,Southwest
+41601,1271,GA,1999,Severe Storm,0,Southeast
+41602,1271,GA,1999,Severe Storm,1,Southeast
+41603,1270,MO,1999,Severe Storm,0,Midwest
+41608,1270,MO,1999,Severe Storm,1,Midwest
+41609,1269,LA,1999,Severe Storm,0,Southwest
+41611,1269,LA,1999,Severe Storm,1,Southwest
+41614,1268,WY,1999,Severe Ice Storm,0,West
+41615,1268,WY,1999,Severe Ice Storm,1,West
+41616,1267,CA,1999,Freezing,1,West
+41624,1266,AR,1999,Severe Storm,0,Southwest
+41636,1266,AR,1999,Severe Storm,1,Southwest
+41646,1265,MS,1999,Severe Ice Storm,0,Southeast
+41647,1265,MS,1999,Severe Ice Storm,1,Southeast
+41680,1264,LA,1999,Severe Storm,1,Southwest
+41698,1263,ME,1999,Severe Storm,1,Northeast
+41700,1262,TN,1999,Severe Storm,0,Southeast
+41710,1262,TN,1999,Severe Storm,1,Southeast
+41724,1261,AL,1999,Severe Storm,0,Southeast
+41725,1261,AL,1999,Severe Storm,1,Southeast
+41736,1260,TN,1999,Severe Storm,1,Southeast
+41769,1259,FL,1999,Severe Storm,0,Southeast
+41770,1259,FL,1999,Severe Storm,1,Southeast
+41771,1258,KS,1999,Severe Storm,0,Midwest
+41788,1258,KS,1999,Severe Storm,1,Midwest
+41791,1257,TX,1999,Flood,0,Southwest
+41797,1257,TX,1999,Flood,1,Southwest
+41834,1256,MO,1999,Severe Storm,1,Midwest
+41837,1255,WA,1999,Mud/Landslide,1,West
+41838,1254,KS,1999,Severe Storm,0,Midwest
+41847,1254,KS,1999,Severe Storm,1,Midwest
+41850,1253,MO,1999,Severe Storm,0,Midwest
+41866,1253,MO,1999,Severe Storm,1,Midwest
+41869,1252,WA,1999,Severe Storm,1,West
+41871,1251,MS,1999,Hurricane,0,Southeast
+41872,1251,MS,1999,Hurricane,1,Southeast
+41888,1250,AL,1998,Hurricane,0,Southeast
+41890,1250,AL,1998,Hurricane,1,Southeast
+41902,1248,VI,1998,Hurricane,1,Southeast
+41903,1248,VI,1998,Hurricane,0,Southeast
+41906,1247,PR,1998,Hurricane,0,Territories
+41985,1247,PR,1998,Hurricane,1,Territories
+41986,1246,LA,1998,Hurricane,0,Southwest
+41990,1246,LA,1998,Hurricane,1,Southwest
+42008,1245,TX,1998,Severe Storm,0,Southwest
+42013,1244,NY,1998,Severe Storm,0,Northeast
+42017,1244,NY,1998,Severe Storm,1,Northeast
+42024,1243,SC,1998,Hurricane,1,Southeast
+42025,1242,VA,1998,Hurricane,1,Southeast
+42030,1240,NC,1998,Hurricane,0,Southeast
+42050,1240,NC,1998,Hurricane,1,Southeast
+42060,1239,TX,1998,Severe Storm,1,Southwest
+42317,1238,WI,1998,Severe Storm,0,Midwest
+42322,1237,MI,1998,Severe Storm,0,Midwest
+42324,1236,WI,1998,Severe Storm,0,Midwest
+42338,1235,TN,1998,Severe Storm,0,Southeast
+42340,1234,IN,1998,Severe Storm,0,Midwest
+42365,1233,NY,1998,Severe Storm,0,Northeast
+42380,1232,ME,1998,Severe Storm,0,Northeast
+42386,1231,NH,1998,Severe Storm,0,Northeast
+42393,1230,IA,1998,Flood,0,Midwest
+42466,1230,IA,1998,Flood,1,Midwest
+42476,1229,WV,1998,Severe Storm,0,Southeast
+42497,1228,VT,1998,Severe Storm,0,Northeast
+42508,1227,OH,1998,Severe Storm,0,Midwest
+42531,1226,MI,1998,Severe Storm,0,Midwest
+42544,1225,MN,1998,Tornado,0,Midwest
+42563,1224,MA,1998,Flood,0,Northeast
+42570,1223,FL,1998,Fire,0,Southeast
+42637,1222,NY,1998,Severe Storm,0,Northeast
+42643,1221,OR,1998,Flood,0,West
+42644,1220,ND,1998,Flood,0,Midwest
+42660,1219,PA,1998,Severe Storm,0,Northeast
+42667,1218,SD,1998,Flood,0,Midwest
+42676,1217,IN,1998,Severe Storm,0,Midwest
+42685,1216,KY,1998,Severe Storm,0,Southeast
+42706,1215,TN,1998,Severe Storm,0,Southeast
+42749,1214,AL,1998,Severe Storm,0,Southeast
+42755,1213,FM,1998,Drought,0,Territories
+42758,1212,MN,1998,Tornado,0,Midwest
+42765,1211,NC,1998,Severe Storm,0,Southeast
+42772,1210,MH,1998,Drought,0,
+42797,1209,GA,1998,Severe Storm,0,Southeast
+42916,1208,AL,1998,Severe Storm,0,Southeast
+42928,1207,KY,1998,Severe Storm,0,Southeast
+42968,1206,NJ,1998,Coastal Storm,0,Northeast
+42971,1205,DE,1998,Severe Storm,0,Northeast
+42972,1204,FL,1998,Severe Storm,0,Southeast
+42975,1203,CA,1998,Severe Storm,0,West
+43016,1202,NM,1998,Severe Storm,0,Southwest
+43026,1201,VT,1998,Severe Storm,0,Northeast
+43032,1200,NC,1998,Severe Storm,0,Southeast
+43042,1199,NH,1998,Severe Storm,0,Northeast
+43051,1198,ME,1998,Severe Storm,0,Northeast
+43067,1197,TN,1998,Severe Storm,0,Southeast
+43106,1196,NY,1998,Snowstorm,0,Northeast
+43116,1195,FL,1998,Severe Storm,0,Southeast
+43171,1194,MP,1998,Typhoon,0,Territories
+43172,1193,GU,1998,Typhoon,0,Territories
+43173,1192,MP,1998,Typhoon,0,Territories
+43176,1191,IA,1998,Snowstorm,0,Midwest
+43189,1190,NE,1998,Severe Storm,0,Midwest
+43228,1189,NJ,1997,Severe Storm,0,Northeast
+43229,1188,IL,1997,Severe Storm,0,Midwest
+43230,1187,MN,1997,Severe Storm,0,Midwest
+43237,1186,CO,1997,Flood,0,West
+43250,1185,AL,1997,Severe Storm,0,Southeast
+43253,1184,VT,1997,Flood,0,Northeast
+43258,1183,MT,1997,Severe Storm,0,West
+43281,1182,WA,1997,Flood,0,West
+43282,1181,MI,1997,Severe Storm,0,Midwest
+43287,1180,WI,1997,Severe Storm,0,Midwest
+43291,1179,TX,1997,Flood,0,Southwest
+43312,1178,MS,1997,Flood,0,Southeast
+43316,1177,ID,1997,Severe Storm,0,West
+43328,1176,AR,1997,Flood,0,Southwest
+43356,1175,MN,1997,Flood,0,Midwest
+43416,1174,ND,1997,Flood,0,Midwest
+43469,1173,SD,1997,Flood,0,Midwest
+43536,1172,WA,1997,Flood,0,West
+43549,1171,TN,1997,Severe Storm,0,Southeast
+43555,1170,IL,1997,Severe Storm,0,Midwest
+43561,1169,LA,1997,Severe Storm,0,Southwest
+43564,1168,WV,1997,Flood,0,Southeast
+43580,1167,TN,1997,Tornado,0,Southeast
+43609,1166,FM,1997,Typhoon,0,Territories
+43610,1165,IN,1997,Severe Storm,0,Midwest
+43623,1164,OH,1997,Severe Storm,0,Midwest
+43641,1163,KY,1997,Severe Storm,0,Southeast
+43742,1162,AR,1997,Severe Storm,0,Southwest
+43767,1161,SD,1997,Severe Storm,0,Midwest
+43777,1160,OR,1997,Severe Storm,0,West
+43791,1159,WA,1997,Severe Storm,0,West
+43829,1158,MN,1997,Severe Storm,0,Midwest
+43884,1157,ND,1997,Severe Storm,1,Midwest
+43937,1156,SD,1997,Severe Storm,0,Midwest
+44006,1155,CA,1997,Severe Storm,0,West
+44017,1155,CA,1997,Severe Storm,1,West
+44055,1154,ID,1997,Severe Storm,0,West
+44073,1153,NV,1997,Severe Storm,0,West
+44080,1152,WA,1997,Severe Ice Storm,0,West
+44083,1151,MN,1997,Severe Storm,0,Midwest
+44095,1150,PA,1997,Flood,0,Northeast
+44096,1149,OR,1997,Flood,0,West
+44099,1148,NY,1997,Severe Storm,0,Northeast
+44111,1147,HI,1997,Flood,0,West
+44112,1146,NY,1997,Severe Storm,0,Northeast
+44116,1145,NJ,1997,Severe Storm,0,Northeast
+44121,1144,NH,1997,Flood,0,Northeast
+44127,1143,ME,1997,Flood,0,Northeast
+44130,1142,MA,1997,Flood,0,Northeast
+44135,1141,FL,1997,Severe Storm,0,Southeast
+44151,1140,SC,1996,Flood,0,Southeast
+44156,1139,MD,1996,Hurricane,0,Southeast
+44159,1138,PA,1996,Flood,0,Northeast
+44165,1137,WV,1996,Severe Storm,0,Southeast
+44175,1136,PR,1996,Hurricane,0,Territories
+44246,1135,VA,1996,Hurricane,0,Southeast
+44334,1134,NC,1996,Hurricane,0,Southeast
+44392,1133,IA,1996,Severe Storm,0,Midwest
+44407,1132,WV,1996,Fire,0,Southeast
+44417,1131,WI,1996,Flood,0,Midwest
+44419,1130,PA,1996,Flood,0,Northeast
+44429,1129,IL,1996,Severe Storm,0,Midwest
+44440,1128,MI,1996,Severe Storm,0,Midwest
+44447,1127,NC,1996,Hurricane,0,Southeast
+44464,1126,VI,1996,Hurricane,0,Southeast
+44467,1125,IN,1996,Severe Storm,0,Midwest
+44496,1124,VT,1996,Flood,0,Northeast
+44497,1123,NE,1996,Severe Storm,0,Midwest
+44501,1122,OH,1996,Flood,0,Midwest
+44517,1121,IA,1996,Severe Storm,0,Midwest
+44533,1120,PA,1996,Flood,0,Northeast
+44538,1119,AK,1996,Fire,0,West
+44539,1118,ND,1996,Severe Storm,0,Midwest
+44572,1117,KY,1996,Severe Storm,1,Southeast
+44576,1116,MN,1996,Flood,0,Midwest
+44602,1115,WV,1996,Flood,0,Southeast
+44619,1114,ME,1996,Severe Storm,0,Northeast
+44624,1113,MT,1996,Severe Storm,0,West
+44630,1112,IL,1996,Severe Storm,0,Midwest
+44658,1111,AR,1996,Severe Storm,0,Southwest
+44664,1110,IL,1996,Severe Storm,0,Midwest
+44669,1109,IN,1996,Flood,0,Midwest
+44725,1108,AL,1996,Severe Storm,0,Southeast
+44728,1107,OR,1996,Severe Storm,0,West
+44738,1106,ME,1996,Severe Storm,0,Northeast
+44745,1105,MT,1996,Severe Storm,0,West
+44759,1104,AL,1996,Severe Storm,0,Southeast
+44773,1103,NC,1996,Snowstorm,0,Southeast
+44807,1102,ID,1996,Severe Storm,0,West
+44817,1101,VT,1996,Flood,0,Northeast
+44828,1100,WA,1996,Flood,0,West
+44852,1099,OR,1996,Flood,0,West
+44879,1098,VA,1996,Flood,0,Southeast
+44906,1097,OH,1996,Flood,0,Midwest
+44919,1096,WV,1996,Flood,0,Southeast
+44947,1095,NY,1996,Flood,0,Northeast
+44988,1094,MD,1996,Flood,0,Southeast
+44994,1093,PA,1996,Flood,0,Northeast
+45061,1091,RI,1996,Snowstorm,0,Northeast
+45066,1088,NJ,1996,Snowstorm,0,Northeast
+45088,1086,VA,1996,Snowstorm,0,Southeast
+45224,1084,WV,1996,Snowstorm,0,Southeast
+45279,1083,NY,1996,Snowstorm,0,Northeast
+45298,1082,DE,1996,Snowstorm,0,Northeast
+45301,1081,MD,1996,Snowstorm,0,Southeast
+45325,1080,DC,1996,Severe Storm,1,Southeast
+45326,1079,WA,1996,Severe Storm,0,West
+45345,1078,MN,1996,Snowstorm,0,Midwest
+45349,1077,NH,1996,Flood,0,Northeast
+45355,1076,GA,1996,Severe Storm,0,Southeast
+45356,1075,SD,1996,Snowstorm,0,Midwest
+45382,1074,FL,1996,Flood,0,Southeast
+45385,1073,NC,1996,Flood,0,Southeast
+45400,1072,AK,1996,Flood,0,West
+45404,1071,GA,1996,Hurricane,0,Southeast
+45454,1070,AL,1996,Hurricane,0,Southeast
+45492,1069,FL,1996,Hurricane,0,Southeast
+45507,1068,PR,1995,Hurricane,0,Territories
+45521,1067,VI,1995,Hurricane,0,Southeast
+45524,1066,OK,1995,Severe Storm,0,Southwest
+45541,1065,OH,1995,Severe Storm,0,Midwest
+45552,1064,MN,1995,Severe Storm,0,Midwest
+45567,1063,VT,1995,Severe Storm,0,Northeast
+45573,1062,FL,1995,Hurricane,0,Southeast
+45579,1061,OR,1995,Flood,0,West
+45580,1060,WV,1995,Severe Storm,0,Southeast
+45583,1059,VA,1995,Severe Storm,0,Southeast
+45607,1058,OK,1995,Tornado,0,Southwest
+45636,1057,TN,1995,Tornado,0,Southeast
+45641,1056,TX,1995,Severe Storm,0,Southwest
+45642,1055,KY,1995,Tornado,0,Southeast
+45674,1054,MO,1995,Severe Storm,0,Midwest
+45736,1053,IL,1995,Severe Storm,0,Midwest
+45755,1052,SD,1995,Flood,0,Midwest
+45808,1051,MS,1995,Severe Storm,0,Southeast
+45812,1050,ND,1995,Severe Storm,0,Midwest
+45844,1049,LA,1995,Severe Storm,0,Southwest
+45856,1048,OK,1995,Human Cause,0,Southwest
+45857,1047,AL,1995,Severe Storm,0,Southeast
+45862,1046,CA,1995,Severe Storm,0,West
+45921,1045,SD,1995,Snowstorm,0,Midwest
+45942,1044,CA,1995,Severe Storm,0,West
+45984,1043,FL,1995,Severe Storm,0,Southeast
+45986,1042,GA,1995,Severe Storm,0,Southeast
+45999,1041,TX,1995,Flood,0,Southwest
+46037,1040,MH,1995,Coastal Storm,0,
+46038,1039,AK,1994,Severe Storm,0,West
+46041,1038,CA,1994,Fishing Losses,0,West
+46045,1037,WA,1994,Fishing Losses,0,West
+46051,1036,OR,1994,Fishing Losses,0,West
+46059,1035,FL,1994,Severe Storm,0,Southeast
+46072,1034,AL,1994,Severe Storm,0,Southeast
+46082,1033,GA,1994,Tornado,0,Southeast
+46137,1032,ND,1994,Severe Storm,0,Midwest
+46162,1031,SD,1994,Severe Storm,0,Midwest
+46183,1030,DC,1994,Severe Storm,0,Southeast
+46184,1029,ME,1994,Flood,0,Northeast
+46185,1028,MI,1994,Freezing,0,Midwest
+46195,1027,NE,1994,Snowstorm,0,Midwest
+46210,1026,TX,1994,Severe Storm,0,Southwest
+46213,1025,IL,1994,Severe Storm,0,Midwest
+46229,1024,OK,1994,Severe Storm,0,Southwest
+46230,1023,MO,1994,Severe Storm,0,Midwest
+46248,1022,TN,1994,Flood,0,Southeast
+46265,1021,VA,1994,Severe Storm,0,Southeast
+46298,1020,GA,1994,Tornado,0,Southeast
+46310,1019,AL,1994,Severe Storm,0,Southeast
+46317,1018,KY,1994,Snowstorm,0,Southeast
+46385,1017,DE,1994,Severe Storm,0,Northeast
+46387,1016,MD,1994,Snowstorm,0,Southeast
+46396,1015,PA,1994,Severe Storm,0,Northeast
+46440,1014,VA,1994,Snowstorm,0,Southeast
+46512,1013,AL,1994,Severe Storm,0,Southeast
+46522,1012,LA,1994,Severe Storm,0,Southwest
+46530,1011,AR,1994,Snowstorm,0,Southwest
+46547,1010,TN,1994,Severe Storm,0,Southeast
+46618,1009,MS,1994,Severe Storm,0,Southeast
+46644,1007,VA,1994,Severe Storm,0,Southeast
+46645,1006,MO,1994,Severe Storm,0,Midwest
+46669,1005,CA,1994,Fire,0,West
+46675,1004,OR,1994,Earthquake,0,West
+46676,1003,NC,1993,Hurricane,0,Southeast
+46677,1002,IN,1993,Severe Storm,0,Midwest
+46683,1001,ND,1993,Flood,0,Midwest
+46722,1000,KS,1993,Flood,0,Midwest
+46779,999,SD,1993,Severe Storm,0,Midwest
+46818,998,NE,1993,Flood,0,Midwest
+46870,997,IL,1993,Flood,0,Midwest
+46909,996,IA,1993,Flood,0,Midwest
+47008,995,MO,1993,Flood,0,Midwest
+47113,994,WI,1993,Severe Storm,0,Midwest
+47160,993,MN,1993,Severe Storm,0,Midwest
+47217,992,NM,1993,Flood,0,Southwest
+47221,991,OK,1993,Severe Storm,0,Southwest
+47265,990,VT,1993,Flood,0,Northeast
+47269,989,MO,1993,Flood,0,Midwest
+47277,988,ME,1993,Flood,0,Northeast
+47289,987,OK,1993,Tornado,0,Southwest
+47293,986,IA,1993,Flood,0,Midwest
+47308,985,OR,1993,Earthquake,0,West
+47312,984,NY,1993,Human Cause,0,Northeast
+47313,983,NE,1993,Flood,0,Midwest
+47326,982,FL,1993,Tornado,0,Southeast
+47364,981,WA,1993,Severe Storm,0,West
+47371,980,GA,1993,Tornado,0,Southeast
+47379,979,CA,1993,Flood,0,West
+47406,978,LA,1993,Flood,0,Southwest
+47415,977,AZ,1993,Flood,0,Southwest
+47428,976,DE,1993,Coastal Storm,0,Northeast
+47429,975,MA,1993,Coastal Storm,0,Northeast
+47438,974,NY,1993,Flood,0,Northeast
+47443,973,NJ,1993,Flood,0,Northeast
+47455,972,CT,1993,Flood,0,Northeast
+47458,971,MH,1993,Typhoon,0,
+47469,970,TX,1993,Tornado,0,Southwest
+47470,969,GA,1993,Tornado,0,Southeast
+47484,968,MS,1993,Tornado,0,Southeast
+47505,967,MS,1993,Tornado,0,Southeast
+47506,966,FL,1993,Severe Storm,0,Southeast
+47513,965,IA,1993,Flood,0,Midwest
+47522,964,WI,1992,Flood,0,Midwest
+47532,963,WI,1992,Tornado,0,Midwest
+47533,962,IN,1992,Severe Storm,0,Midwest
+47548,961,HI,1992,Hurricane,0,West
+47554,960,TX,1992,Severe Storm,0,Southwest
+47580,959,WI,1992,Tornado,0,Midwest
+47581,958,CA,1992,Fire,0,West
+47583,957,GU,1992,Typhoon,0,Territories
+47584,956,LA,1992,Hurricane,0,Southwest
+47620,955,FL,1992,Hurricane,0,Southeast
+47624,954,NE,1992,Flood,0,Midwest
+47632,953,IN,1992,Flood,0,Midwest
+47638,952,FL,1992,Flood,0,Southeast
+47642,951,OH,1992,Severe Storm,0,Midwest
+47666,950,AR,1992,Severe Storm,0,Southwest
+47671,949,TX,1992,Tornado,0,Southwest
+47674,948,SD,1992,Severe Storm,0,Midwest
+47682,947,CA,1992,Earthquake,0,West
+47684,946,MN,1992,Severe Storm,0,Midwest
+47694,945,NM,1992,Flood,0,Southwest
+47695,944,VA,1992,Flood,0,Southeast
+47723,943,CA,1992,Earthquake,0,West
+47724,942,CA,1992,Fire,0,West
+47725,941,IL,1992,Flood,0,Midwest
+47726,940,ME,1992,Flood,0,Northeast
+47736,939,MS,1992,Tornado,0,Southeast
+47740,938,VT,1992,Flood,0,Northeast
+47745,937,TX,1992,Flood,0,Southwest
+47748,936,NJ,1992,Severe Storm,0,Northeast
+47753,935,CA,1992,Flood,0,West
+47758,934,FM,1992,Typhoon,0,Territories
+47761,933,DE,1992,Flood,0,Northeast
+47763,932,MH,1992,Flood,0,
+47769,931,PR,1992,Flood,0,Territories
+47804,930,TX,1992,Flood,0,Southwest
+47869,929,MN,1992,Severe Ice Storm,0,Midwest
+47881,928,IA,1992,Severe Ice Storm,0,Midwest
+47925,927,AS,1992,Hurricane,0,Territories
+47930,926,FM,1992,Typhoon,0,Territories
+47933,925,MH,1992,Typhoon,0,
+47941,924,GU,1992,Typhoon,0,Territories
+47942,923,NH,1992,Coastal Storm,0,Northeast
+47943,922,WA,1992,Fire,0,West
+47949,921,ME,1992,Coastal Storm,0,Northeast
+47954,920,MA,1992,Coastal Storm,0,Northeast
+47961,919,CA,1992,Fire,0,West
+47962,918,NY,1991,Hurricane,0,Northeast
+47963,917,NH,1991,Hurricane,0,Northeast
+47967,916,CT,1991,Hurricane,0,Northeast
+47973,915,ME,1991,Hurricane,0,Northeast
+47982,914,MA,1991,Hurricane,0,Northeast
+47993,913,RI,1991,Hurricane,0,Northeast
+47998,912,WI,1991,Severe Storm,0,Midwest
+48003,911,IA,1991,Flood,0,Midwest
+48019,910,TN,1991,Flood,0,Southeast
+48028,909,AK,1991,Snowstorm,0,West
+48032,908,NE,1991,Flood,0,Midwest
+48039,907,AR,1991,Flood,0,Southwest
+48060,906,MS,1991,Severe Storm,0,Southeast
+48102,905,OK,1991,Tornado,0,Southwest
+48108,904,LA,1991,Severe Storm,0,Southwest
+48146,903,KS,1991,Tornado,0,Midwest
+48152,902,LA,1991,Flood,0,Southwest
+48167,901,ME,1991,Snowstorm,0,Northeast
+48168,900,TX,1991,Severe Storm,0,Southwest
+48173,899,IN,1991,Severe Ice Storm,0,Midwest
+48199,898,NY,1991,Snowstorm,0,Northeast
+48212,897,GA,1991,Flood,0,Southeast
+48227,896,WA,1991,Flood,0,West
+48237,895,MS,1991,Flood,0,Southeast
+48255,894,CA,1991,Freezing,0,West
+48288,893,KY,1991,Flood,0,Southeast
+48307,892,FM,1991,Typhoon,0,Territories
+48308,891,IN,1991,Flood,0,Midwest
+48381,890,AL,1991,Flood,0,Southeast
+48393,889,TN,1991,Flood,0,Southeast
+48415,888,MS,1991,Severe Storm,0,Southeast
+48427,887,GU,1991,Typhoon,0,Territories
+48428,886,FM,1991,Typhoon,0,Territories
+48430,885,IN,1991,Flood,0,Midwest
+48432,884,AZ,1991,Flood,0,Southwest
+48440,883,WA,1991,Flood,0,West
+48459,882,PW,1991,Typhoon,0,
+48460,881,SC,1991,Flood,0,Southeast
+48473,880,GA,1991,Flood,0,Southeast
+48482,879,IA,1990,Flood,0,Midwest
+48499,878,IL,1990,Tornado,0,Midwest
+48502,877,WI,1990,Flood,0,Midwest
+48503,876,NH,1990,Flood,0,Northeast
+48511,875,VT,1990,Flood,0,Northeast
+48516,874,WI,1990,Severe Storm,0,Midwest
+48533,873,NE,1990,Severe Storm,0,Midwest
+48556,872,CA,1990,Fire,0,West
+48560,871,IL,1990,Severe Storm,0,Midwest
+48576,870,OH,1990,Severe Storm,0,Midwest
+48601,869,IN,1990,Severe Storm,0,Midwest
+48631,868,IA,1990,Flood,0,Midwest
+48670,867,MO,1990,Flood,0,Midwest
+48680,866,OK,1990,Severe Storm,0,Southwest
+48719,865,AR,1990,Flood,0,Southwest
+48756,864,HI,1990,Volcanic Eruption,0,West
+48757,863,TX,1990,Severe Storm,0,Southwest
+48821,862,FL,1990,Flood,0,Southeast
+48832,861,AL,1990,Severe Storm,0,Southeast
+48865,860,IL,1990,Severe Ice Storm,0,Midwest
+48875,859,MS,1990,Severe Storm,0,Southeast
+48910,858,TN,1990,Flood,0,Southeast
+48913,857,GA,1990,Severe Storm,0,Southeast
+48951,856,AL,1990,Severe Storm,0,Southeast
+48978,855,AS,1990,Hurricane,0,Territories
+48983,854,MP,1990,Typhoon,0,Territories
+48987,853,OR,1990,Flood,0,West
+48989,852,WA,1990,Flood,0,West
+48996,851,FL,1990,Freezing,0,Southeast
+49028,850,TX,1990,Freezing,0,Southwest
+49038,849,LA,1990,Flood,0,Southwest
+49041,848,AL,1990,Tornado,0,Southeast
+49043,847,VA,1990,Flood,0,Southeast
+49044,846,KY,1990,Flood,0,Southeast
+49055,845,CA,1990,Earthquake,0,West
+49067,844,NC,1989,Hurricane,0,Southeast
+49096,843,SC,1989,Hurricane,0,Southeast
+49120,842,PR,1989,Hurricane,0,Territories
+49177,841,VI,1989,Hurricane,0,Southeast
+49180,840,VT,1989,Flood,0,Northeast
+49185,839,MD,1989,Severe Storm,0,Southeast
+49186,838,DC,1989,Severe Storm,0,Southeast
+49187,837,CT,1989,Tornado,0,Northeast
+49189,836,TX,1989,Flood,0,Southwest
+49198,835,LA,1989,Flood,0,Southwest
+49217,834,KY,1989,Flood,0,Southeast
+49229,833,LA,1989,Tornado,0,Southwest
+49238,832,AK,1989,Flood,0,West
+49241,831,OH,1989,Flood,0,Midwest
+49254,830,ME,1989,Flood,0,Northeast
+49258,829,LA,1989,Flood,0,Southwest
+49288,828,TX,1989,Severe Storm,0,Southwest
+49375,827,NC,1989,Tornado,0,Southeast
+49388,826,AK,1989,Freezing,0,West
+49400,825,ND,1989,Flood,0,Midwest
+49406,824,MN,1989,Flood,0,Midwest
+49414,823,TX,1989,Flood,0,Southwest
+49423,822,WA,1989,Flood,0,West
+49427,821,KY,1989,Flood,0,Southeast
+49494,820,UT,1989,Flood,0,West
+49495,819,IL,1989,Tornado,0,Midwest
+49500,818,NC,1989,Tornado,0,Southeast
+49509,817,AR,1989,Tornado,0,Southwest
+49533,816,TX,1989,Hurricane,0,Southwest
+49536,815,CA,1988,Fire,0,West
+49540,814,IA,1988,Tornado,0,Midwest
+49541,813,AK,1988,Fire,0,West
+49542,812,CA,1988,Flood,0,West
+49547,811,MP,1988,Typhoon,0,Territories
+49548,810,GU,1988,Typhoon,0,Territories
+49549,809,MH,1988,Typhoon,0,
+49550,808,HI,1988,Flood,0,West
+49551,807,AR,1988,Flood,0,Southwest
+49562,806,AR,1988,Tornado,0,Southwest
+49563,805,PR,1988,Flood,0,Territories
+49595,804,LA,1988,Tornado,0,Southwest
+49605,803,FM,1988,Typhoon,0,Territories
+49606,802,TX,1988,Tornado,0,Southwest
+49616,801,NY,1988,Snowstorm,0,Northeast
+49625,800,MP,1988,Typhoon,0,Territories
+49628,799,CA,1988,Earthquake,0,West
+49630,798,IL,1987,Flood,0,Midwest
+49633,797,MN,1987,Severe Storm,0,Midwest
+49643,796,OH,1987,Flood,0,Midwest
+49647,795,IA,1987,Flood,0,Midwest
+49651,794,OK,1987,Flood,0,Southwest
+49667,793,TX,1987,Tornado,0,Southwest
+49669,792,NY,1987,Flood,0,Northeast
+49674,791,MH,1987,Fire,0,
+49675,790,MA,1987,Flood,0,Northeast
+49683,789,NH,1987,Flood,0,Northeast
+49691,788,ME,1987,Flood,0,Northeast
+49705,787,MS,1987,Severe Storm,0,Southeast
+49706,786,FM,1987,Typhoon,0,Territories
+49707,785,AS,1987,Hurricane,0,Territories
+49712,784,WA,1987,Flood,0,West
+49719,783,MP,1987,Typhoon,0,Territories
+49720,782,AK,1987,Flood,0,West
+49724,781,AK,1987,Flood,0,West
+49726,780,KS,1987,Flood,0,Midwest
+49736,779,MO,1987,Flood,0,Midwest
+49766,778,OK,1987,Flood,0,Southwest
+49807,777,MT,1987,Flood,0,West
+49814,776,IL,1987,Flood,0,Midwest
+49822,775,WI,1987,Flood,0,Midwest
+49830,774,MI,1986,Flood,0,Midwest
+49860,773,MD,1986,Flood,0,Southeast
+49861,772,TX,1986,Tornado,0,Southwest
+49862,771,NH,1986,Flood,0,Northeast
+49865,770,WI,1986,Flood,0,Midwest
+49867,769,WA,1986,Flood,0,West
+49868,768,PR,1986,Flood,0,Territories
+49899,767,IN,1986,Tornado,0,Midwest
+49900,766,PA,1986,Flood,0,Northeast
+49901,765,FM,1986,Typhoon,0,Territories
+49902,764,SD,1986,Flood,0,Midwest
+49927,763,TX,1986,Tornado,0,Southwest
+49928,762,WA,1986,Flood,0,West
+49929,761,MT,1986,Flood,0,West
+49945,760,UT,1986,Flood,0,West
+49949,759,NV,1986,Flood,0,West
+49955,758,CA,1986,Flood,0,West
+49994,757,WA,1986,Flood,0,West
+49997,756,FL,1986,Hurricane,0,Southeast
+50005,755,VA,1986,Flood,0,Southeast
+50057,754,PA,1986,Flood,0,Northeast
+50063,753,WV,1986,Flood,0,Southeast
+50092,752,LA,1986,Hurricane,0,Southwest
+50106,751,MA,1986,Hurricane,0,Northeast
+50119,750,NY,1986,Hurricane,0,Northeast
+50121,749,NJ,1986,Hurricane,0,Northeast
+50125,748,RI,1986,Hurricane,0,Northeast
+50130,747,CT,1986,Hurricane,0,Northeast
+50138,746,PR,1986,Flood,0,Territories
+50186,745,PA,1986,Hurricane,0,Northeast
+50192,744,MI,1985,Flood,0,Midwest
+50213,743,FL,1985,Hurricane,0,Southeast
+50220,742,AL,1985,Hurricane,0,Southeast
+50222,741,MS,1985,Hurricane,0,Southeast
+50226,740,WY,1985,Flood,0,West
+50227,739,CA,1985,Fire,0,West
+50233,738,OH,1985,Tornado,0,Midwest
+50239,737,PA,1985,Tornado,0,Northeast
+50250,736,PR,1985,Flood,0,Territories
+50270,735,IL,1985,Flood,0,Midwest
+50293,734,NY,1985,Snowstorm,0,Northeast
+50295,733,NY,1985,Flood,0,Northeast
+50297,732,FL,1985,Freezing,0,Southeast
+50317,731,NM,1985,Flood,0,Southwest
+50322,730,AZ,1985,Severe Storm,0,Southwest
+50324,729,VI,1985,Hurricane,0,Southeast
+50327,728,LA,1985,Flood,0,Southwest
+50331,727,TX,1985,Flood,0,Southwest
+50334,726,TX,1985,Flood,0,Southwest
+50335,725,NY,1984,Flood,0,Northeast
+50338,724,NC,1984,Hurricane,0,Southeast
+50344,723,NV,1984,Flood,0,West
+50345,722,NM,1984,Flood,0,Southwest
+50348,721,PA,1984,Flood,0,Northeast
+50355,720,UT,1984,Flood,0,West
+50367,719,CO,1984,Flood,0,West
+50382,718,NE,1984,Tornado,0,Midwest
+50383,717,SD,1984,Flood,0,Midwest
+50399,716,NE,1984,Tornado,0,Midwest
+50423,715,IA,1984,Severe Storm,0,Midwest
+50428,714,KS,1984,Severe Storm,0,Midwest
+50434,713,MO,1984,Flood,0,Midwest
+50445,712,VT,1984,Flood,0,Northeast
+50450,711,CT,1984,Flood,0,Northeast
+50456,710,WI,1984,Tornado,0,Midwest
+50458,709,OK,1984,Flood,0,Southwest
+50462,708,TN,1984,Flood,0,Southeast
+50472,707,VA,1984,Flood,0,Southeast
+50475,706,WV,1984,Flood,0,Southeast
+50479,705,KY,1984,Severe Storm,0,Southeast
+50507,704,OK,1984,Tornado,0,Southwest
+50515,703,MS,1984,Tornado,0,Southeast
+50521,702,NY,1984,Flood,0,Northeast
+50533,701,NJ,1984,Flood,0,Northeast
+50541,700,SC,1984,Tornado,0,Southeast
+50548,699,NC,1984,Tornado,0,Southeast
+50562,698,FL,1984,Freezing,0,Southeast
+50567,697,ID,1984,Snowstorm,0,West
+50568,696,TX,1984,Freezing,0,Southwest
+50574,695,AL,1984,Severe Storm,0,Southeast
+50578,694,ID,1984,Earthquake,0,West
+50581,693,OK,1984,Flood,0,Southwest
+50599,692,NM,1984,Flood,0,Southwest
+50602,691,AZ,1984,Flood,0,Southwest
+50613,690,CA,1983,Flood,0,West
+50615,689,TX,1983,Hurricane,0,Southwest
+50624,688,AR,1983,Flood,0,Southwest
+50629,687,CA,1983,Flood,0,West
+50632,686,AZ,1983,Flood,0,Southwest
+50635,685,OK,1983,Flood,0,Southwest
+50636,684,IL,1983,Severe Storm,0,Midwest
+50650,683,MS,1983,Severe Storm,0,Southeast
+50666,682,CA,1983,Earthquake,0,West
+50667,681,VI,1983,Flood,0,Southeast
+50669,680,UT,1983,Flood,0,West
+50691,679,LA,1983,Flood,0,Southwest
+50701,678,MS,1983,Severe Storm,0,Southeast
+50716,677,CA,1983,Coastal Storm,0,West
+50756,676,WA,1983,Flood,0,West
+50757,675,LA,1983,Flood,0,Southwest
+50776,674,IL,1983,Severe Storm,0,Midwest
+50799,673,AR,1983,Severe Storm,0,Southwest
+50837,672,MO,1983,Flood,0,Midwest
+50851,671,HI,1983,Typhoon,0,West
+50853,670,KY,1982,Flood,0,Southeast
+50854,669,CA,1982,Flood,0,West
+50855,668,TN,1982,Flood,0,Southeast
+50856,667,MO,1982,Flood,0,Midwest
+50859,666,TN,1982,Flood,0,Southeast
+50864,665,CO,1982,Flood,0,West
+50865,664,FL,1982,Flood,0,Southeast
+50869,663,KS,1982,Flood,1,Midwest
+50870,662,OK,1982,Flood,0,Southwest
+50879,661,CT,1982,Flood,0,Northeast
+50887,660,IL,1982,Tornado,0,Midwest
+50889,659,TX,1982,Flood,0,Southwest
+50890,658,ND,1982,Flood,0,Midwest
+50893,657,CA,1982,Fire,0,West
+50894,656,HI,1982,Flood,0,West
+50895,655,TX,1982,Tornado,0,Southwest
+50896,654,MI,1982,Flood,0,Midwest
+50898,653,OH,1982,Flood,0,Midwest
+50903,652,IN,1982,Flood,0,Midwest
+50908,651,CA,1982,Flood,0,West
+50918,650,MA,1982,Fire,0,Northeast
+50919,649,OK,1982,Flood,0,Southwest
+50925,648,TX,1982,Flood,0,Southwest
+50934,647,FM,1981,Fire,0,Territories
+50935,646,TX,1981,Flood,0,Southwest
+50936,645,NV,1981,Flood,0,West
+50937,644,KS,1981,Severe Storm,0,Midwest
+50939,643,IL,1981,Severe Storm,0,Midwest
+50943,642,OH,1981,Severe Storm,0,Midwest
+50947,641,PA,1981,Flood,0,Northeast
+50952,640,MT,1981,Flood,0,West
+50962,639,AL,1981,Flood,0,Southeast
+50963,638,AL,1981,Severe Storm,0,Southeast
+50964,637,AS,1981,Typhoon,0,Territories
+50969,636,KY,1981,Toxic Substances,0,Southeast
+50970,635,CA,1981,Fire,0,West
+50974,634,MP,1981,Typhoon,0,Territories
+50975,633,CA,1981,Flood,0,West
+50976,632,TX,1980,Flood,0,Southwest
+50978,631,MI,1980,Flood,0,Midwest
+50988,630,OH,1980,Flood,0,Midwest
+50995,629,PA,1980,Flood,0,Northeast
+50998,628,WV,1980,Flood,0,Southeast
+51013,627,TX,1980,Hurricane,0,Southwest
+51025,626,WI,1980,Flood,0,Midwest
+51029,625,NE,1980,Tornado,0,Midwest
+51032,624,ID,1980,Volcanic Eruption,0,West
+51040,623,WA,1980,Volcanic Eruption,0,West
+51079,622,LA,1980,Flood,0,Southwest
+51085,621,MI,1980,Tornado,0,Midwest
+51087,620,MO,1980,Tornado,0,Midwest
+51088,619,AL,1980,Severe Storm,0,Southeast
+51090,618,MS,1980,Severe Storm,0,Southeast
+51098,617,AR,1980,Tornado,0,Southwest
+51103,616,LA,1980,Flood,0,Southwest
+51115,615,CA,1980,Flood,0,West
+51123,614,AZ,1980,Flood,0,Southwest
+51128,613,HI,1980,Flood,0,West
+51129,612,WA,1980,Flood,0,West
+51138,611,FM,1980,Flood,0,Territories
+51139,610,AS,1980,Flood,0,Territories
+51144,609,CA,1980,Earthquake,0,West
+51145,608,CT,1980,Tornado,0,Northeast
+51146,607,FL,1979,Flood,0,Southeast
+51149,606,VA,1979,Flood,0,Southeast
+51150,605,NC,1979,Flood,0,Southeast
+51151,604,LA,1979,Flood,0,Southwest
+51154,603,TX,1979,Flood,0,Southwest
+51161,602,VI,1979,Hurricane,0,Southeast
+51164,601,MD,1979,Severe Storm,0,Southeast
+51169,600,FL,1979,Hurricane,0,Southeast
+51174,599,MS,1979,Hurricane,0,Southeast
+51190,598,AL,1979,Hurricane,0,Southeast
+51201,597,PR,1979,Hurricane,0,Territories
+51273,596,IN,1979,Flood,0,Midwest
+51291,595,TX,1979,Flood,0,Southwest
+51297,594,CA,1979,Flood,0,West
+51298,593,VA,1979,Flood,0,Southeast
+51299,592,KY,1979,Flood,0,Southeast
+51300,591,WY,1979,Tornado,0,West
+51301,590,IA,1979,Tornado,0,Midwest
+51309,589,NM,1979,Flood,0,Southwest
+51315,588,KS,1979,Flood,0,Midwest
+51317,587,TX,1979,Flood,0,Southwest
+51318,586,FL,1979,Severe Storm,0,Southeast
+51322,585,TN,1979,Severe Storm,0,Southeast
+51336,584,LA,1979,Flood,0,Southwest
+51346,583,IL,1979,Flood,0,Midwest
+51375,582,MN,1979,Flood,0,Midwest
+51386,581,ND,1979,Flood,0,Midwest
+51428,580,TX,1979,Severe Storm,0,Southwest
+51435,579,MO,1979,Tornado,0,Midwest
+51452,578,AL,1979,Flood,0,Southeast
+51480,577,MS,1979,Severe Storm,0,Southeast
+51516,576,OK,1979,Tornado,0,Southwest
+51522,575,TX,1979,Tornado,0,Southwest
+51527,574,AR,1979,Tornado,0,Southwest
+51535,573,HI,1979,Flood,0,West
+51536,571,NM,1979,Flood,0,Southwest
+51541,570,AZ,1979,Flood,0,Southwest
+51547,569,WV,1979,Flood,0,Southeast
+51552,568,KY,1979,Flood,0,Southeast
+51589,567,LA,1979,Tornado,0,Southwest
+51591,566,CA,1979,Flood,0,West
+51592,565,LA,1978,Flood,0,Southwest
+51594,564,AR,1978,Flood,0,Southwest
+51596,563,AL,1978,Flood,0,Southeast
+51597,562,MP,1978,Flood,0,Territories
+51598,561,TX,1978,Flood,0,Southwest
+51606,560,MN,1978,Severe Storm,0,Midwest
+51623,559,WI,1978,Severe Storm,0,Midwest
+51639,558,MT,1978,Flood,0,West
+51646,557,WY,1978,Flood,0,West
+51658,556,LA,1978,Flood,0,Southwest
+51662,555,MN,1978,Flood,0,Midwest
+51672,554,ND,1978,Flood,0,Midwest
+51697,553,IN,1978,Flood,0,Midwest
+51699,552,NE,1978,Flood,0,Midwest
+51720,551,AZ,1978,Flood,0,Southwest
+51730,550,ME,1978,Flood,0,Northeast
+51734,549,NH,1978,Flood,0,Northeast
+51735,548,RI,1978,Snowstorm,0,Northeast
+51740,547,CA,1978,Flood,0,West
+51754,546,MA,1978,Flood,0,Northeast
+51762,545,WA,1978,Flood,0,West
+51780,544,TN,1978,Flood,0,Southeast
+51786,543,VA,1978,Flood,0,Southeast
+51794,542,NC,1978,Flood,0,Southeast
+51810,541,GA,1978,Flood,0,Southeast
+51811,540,AZ,1978,Flood,0,Southwest
+51814,539,KS,1977,Flood,0,Midwest
+51824,538,MO,1977,Flood,0,Midwest
+51830,537,PA,1977,Flood,0,Northeast
+51838,536,GA,1977,Freezing,0,Southeast
+51844,535,MO,1977,Tornado,0,Midwest
+51851,534,LA,1977,Flood,0,Southwest
+51859,533,TN,1977,Flood,0,Southeast
+51865,532,AL,1977,Flood,0,Southeast
+51874,531,WV,1977,Flood,0,Southeast
+51885,530,VA,1977,Flood,0,Southeast
+51901,529,KY,1977,Flood,0,Southeast
+51916,528,NJ,1977,Severe Ice Storm,0,Northeast
+51926,527,NY,1977,Snowstorm,0,Northeast
+51935,526,FL,1977,Freezing,0,Southeast
+51970,525,VA,1977,Freezing,0,Southeast
+52009,524,MD,1977,Snowstorm,0,Southeast
+52025,523,PA,1977,Flood,0,Northeast
+52046,522,MD,1977,Flood,0,Southeast
+52048,521,CA,1976,Flood,0,West
+52051,520,NY,1976,Hurricane,0,Northeast
+52054,519,NJ,1976,Flood,0,Northeast
+52058,518,VT,1976,Flood,0,Northeast
+52070,517,CO,1976,Flood,0,West
+52074,516,MO,1976,Flood,0,Midwest
+52078,515,NY,1976,Flood,0,Northeast
+52085,514,KS,1976,Flood,0,Midwest
+52095,513,PA,1976,Flood,0,Northeast
+52097,512,NY,1976,Flood,0,Northeast
+52099,511,SD,1976,Flood,0,Midwest
+52103,510,TX,1976,Flood,0,Southwest
+52104,509,IL,1976,Severe Storm,0,Midwest
+52106,508,MP,1976,Typhoon,0,Territories
+52107,507,GA,1976,Flood,0,Southeast
+52115,505,ID,1976,Flood,0,West
+52120,504,OK,1976,Flood,0,Southwest
+52122,503,GU,1976,Typhoon,0,Territories
+52123,501,ND,1976,Flood,0,Midwest
+52132,500,NE,1976,Severe Ice Storm,0,Midwest
+52152,499,MS,1976,Severe Storm,0,Southeast
+52156,498,AR,1976,Tornado,0,Southwest
+52160,497,OK,1976,Tornado,0,Southwest
+52162,496,WI,1976,Flood,0,Midwest
+52184,495,MI,1976,Severe Storm,0,Midwest
+52213,494,NY,1976,Severe Ice Storm,0,Northeast
+52220,493,AK,1976,Fire,0,West
+52221,492,WA,1976,Flood,0,West
+52233,491,OK,1976,Tornado,0,Southwest
+52235,490,HI,1976,Earthquake,0,West
+52236,489,MD,1976,Flood,0,Southeast
+52250,488,AL,1976,Severe Storm,0,Southeast
+52265,487,NY,1976,Flood,0,Northeast
+52281,486,MI,1975,Flood,0,Midwest
+52297,485,PA,1975,Flood,0,Northeast
+52327,484,FL,1975,Flood,0,Southeast
+52333,483,PR,1975,Flood,0,Territories
+52411,482,WI,1975,Severe Storm,0,Midwest
+52415,481,WV,1975,Flood,0,Southeast
+52417,480,OH,1975,Flood,0,Midwest
+52421,479,FL,1975,Flood,0,Southeast
+52429,478,IL,1975,Tornado,0,Midwest
+52430,477,NJ,1975,Flood,0,Northeast
+52443,476,MN,1975,Severe Storm,0,Midwest
+52460,475,ND,1975,Flood,0,Midwest
+52473,474,OK,1975,Severe Storm,0,Southwest
+52483,473,MN,1975,Flood,0,Midwest
+52484,472,MT,1975,Flood,0,West
+52498,471,AR,1975,Flood,0,Southwest
+52505,470,LA,1975,Severe Storm,0,Southwest
+52517,469,ND,1975,Flood,0,Midwest
+52532,468,KY,1975,Flood,0,Southeast
+52536,467,NE,1975,Tornado,0,Midwest
+52538,466,MO,1975,Tornado,0,Midwest
+52542,465,MI,1975,Flood,0,Midwest
+52559,464,AL,1975,Flood,0,Southeast
+52567,463,AR,1975,Tornado,0,Southwest
+52568,462,TX,1975,Tornado,0,Southwest
+52569,461,KY,1975,Flood,0,Southeast
+52586,460,GA,1975,Tornado,0,Southeast
+52587,459,TN,1975,Flood,0,Southeast
+52633,458,AL,1975,Flood,0,Southeast
+52656,457,TX,1975,Flood,0,Southwest
+52657,456,MS,1975,Tornado,0,Southeast
+52659,455,PR,1975,Flood,0,Territories
+52711,454,TX,1975,Flood,0,Southwest
+52721,453,OK,1975,Flood,0,Southwest
+52734,452,AK,1975,Flood,0,West
+52735,451,VI,1975,Flood,0,Southeast
+52738,450,LA,1975,Severe Storm,0,Southwest
+52739,449,AS,1974,Drought,0,Territories
+52744,448,LA,1974,Hurricane,0,Southwest
+52754,447,NY,1974,Flood,0,Northeast
+52758,446,MN,1974,Flood,0,Midwest
+52764,445,OH,1974,Flood,0,Midwest
+52765,444,AK,1974,Freezing,0,West
+52767,443,IA,1974,Flood,0,Midwest
+52806,442,KS,1974,Flood,0,Midwest
+52807,441,OK,1974,Flood,0,Southwest
+52827,440,MN,1974,Flood,0,Midwest
+52839,439,MO,1974,Flood,0,Midwest
+52861,438,IL,1974,Flood,0,Midwest
+52907,437,AR,1974,Flood,0,Southwest
+52915,436,OH,1974,Flood,0,Midwest
+52918,435,AR,1974,Flood,0,Southwest
+52919,434,ND,1974,Flood,0,Midwest
+52937,433,HI,1974,Flood,0,West
+52939,432,CA,1974,Flood,0,West
+52940,431,WI,1974,Tornado,0,Midwest
+52944,430,MS,1974,Flood,0,Southeast
+52974,429,MI,1974,Tornado,0,Midwest
+52975,428,NC,1974,Tornado,0,Southeast
+52981,427,IL,1974,Tornado,0,Midwest
+52985,426,WV,1974,Flood,0,Southeast
+52989,425,GA,1974,Tornado,0,Southeast
+53009,424,TN,1974,Tornado,0,Southeast
+53054,423,IN,1974,Tornado,0,Midwest
+53093,422,AL,1974,Tornado,0,Southeast
+53113,421,OH,1974,Tornado,0,Midwest
+53127,420,KY,1974,Tornado,0,Southeast
+53161,419,OK,1974,Flood,0,Southwest
+53167,418,LA,1974,Flood,0,Southwest
+53173,417,MT,1974,Flood,0,West
+53180,416,WV,1974,Flood,0,Southeast
+53185,415,ID,1974,Flood,0,West
+53194,414,WA,1974,Flood,0,West
+53207,413,OR,1974,Flood,0,West
+53226,412,CA,1974,Flood,0,West
+53233,411,NH,1974,Flood,0,Northeast
+53237,410,ME,1974,Flood,0,Northeast
+53249,409,OK,1974,Flood,0,Southwest
+53264,408,AK,1974,Flood,0,West
+53265,407,MO,1974,Flood,0,Midwest
+53301,406,NE,1974,Flood,0,Midwest
+53316,405,MA,1974,Fire,0,Northeast
+53317,404,OK,1974,Flood,0,Southwest
+53322,403,KS,1973,Severe Storm,0,Midwest
+53375,402,NJ,1973,Flood,0,Northeast
+53379,401,NY,1973,Flood,0,Northeast
+53385,400,PA,1973,Flood,0,Northeast
+53395,399,NH,1973,Flood,0,Northeast
+53405,398,TX,1973,Flood,0,Southwest
+53418,397,VT,1973,Flood,0,Northeast
+53432,396,CO,1973,Flood,0,West
+53448,395,TN,1973,Flood,0,Southeast
+53460,394,NC,1973,Flood,0,Southeast
+53469,393,TX,1973,Flood,0,Southwest
+53473,392,OK,1973,Severe Storm,0,Southwest
+53504,391,GA,1973,Tornado,0,Southeast
+53505,390,OH,1973,Mud/Landslide,0,Midwest
+53507,389,AR,1973,Flood,0,Southwest
+53512,388,AL,1973,Flood,0,Southeast
+53524,387,FL,1973,Flood,0,Southeast
+53537,386,IA,1973,Flood,0,Midwest
+53563,385,CO,1973,Flood,0,West
+53579,384,ME,1973,Flood,0,Northeast
+53582,383,HI,1973,Earthquake,0,West
+53583,382,TN,1973,Flood,0,Southeast
+53589,381,KY,1973,Flood,0,Southeast
+53594,380,NM,1973,Flood,0,Southwest
+53605,379,CO,1973,Dam/Levee Break,0,West
+53606,378,KS,1973,Flood,0,Midwest
+53670,377,OH,1973,Flood,0,Midwest
+53678,376,WI,1973,Flood,0,Midwest
+53712,375,AR,1973,Flood,0,Southwest
+53755,374,LA,1973,Flood,0,Southwest
+53792,373,IL,1973,Flood,0,Midwest
+53844,372,MO,1973,Severe Storm,0,Midwest
+53938,371,MI,1973,Flood,0,Midwest
+53952,370,GA,1973,Tornado,0,Southeast
+53966,369,AL,1973,Tornado,0,Southeast
+53994,368,MS,1973,Severe Storm,0,Southeast
+54046,367,NY,1973,Flood,0,Northeast
+54054,366,TN,1973,Flood,0,Southeast
+54101,365,TX,1973,Severe Storm,0,Southwest
+54106,364,CA,1973,Flood,0,West
+54112,363,MI,1973,Flood,0,Midwest
+54121,362,OH,1973,Flood,0,Midwest
+54126,361,NM,1973,Flood,0,Southwest
+54129,360,AZ,1973,Flood,0,Southwest
+54131,359,VA,1973,Flood,0,Southeast
+54162,358,VA,1973,Flood,0,Southeast
+54165,357,MA,1972,Fishing Losses,0,Northeast
+54173,356,ME,1972,Fishing Losses,0,Northeast
+54181,355,PA,1972,Flood,0,Northeast
+54182,354,IA,1972,Flood,0,Midwest
+54199,353,NM,1972,Flood,0,Southwest
+54201,352,WI,1972,Flood,0,Midwest
+54205,351,IL,1972,Flood,0,Midwest
+54208,350,MN,1972,Flood,0,Midwest
+54213,349,WV,1972,Flood,0,Southeast
+54217,348,IA,1972,Flood,0,Midwest
+54221,347,MN,1972,Flood,0,Midwest
+54234,346,NM,1972,Flood,0,Southwest
+54235,345,OH,1972,Flood,0,Midwest
+54242,344,WV,1972,Flood,0,Southeast
+54257,343,AZ,1972,Flood,0,Southwest
+54260,342,CA,1972,Flood,0,West
+54261,341,MD,1972,Flood,0,Southeast
+54282,340,PA,1972,Flood,0,Northeast
+54335,4517,WV,2020,Biological,1,Southeast
+54392,4516,NH,2020,Biological,1,Northeast
+54402,4515,IN,2020,Biological,1,Midwest
+54495,4514,TN,2020,Biological,1,Southeast
+54590,4513,VI,2020,Biological,1,Southeast
+54593,4512,VA,2020,Biological,1,Southeast
+54731,4511,MP,2020,Biological,1,Territories
+54736,4510,HI,2020,Biological,1,West
+54741,4509,ND,2020,Biological,1,Midwest
+54799,4508,MT,2020,Biological,1,West
+54863,4507,OH,2020,Biological,1,Midwest
+54951,4506,PA,2020,Biological,1,Northeast
+55018,4505,RI,2020,Biological,1,Northeast
+55025,4504,KS,2020,Biological,1,Midwest
+55162,4503,AL,2020,Biological,1,Southeast
+55173,339,VA,1972,Flood,0,Southeast
+55279,338,NY,1972,Flood,0,Northeast
+55305,337,FL,1972,Coastal Storm,0,Southeast
+55319,336,SD,1972,Flood,0,Midwest
+55323,335,ND,1972,Flood,0,Midwest
+55330,334,WA,1972,Flood,0,West
+55333,333,TX,1972,Flood,0,Southwest
+55340,332,KY,1972,Flood,0,Southeast
+55350,331,TN,1972,Flood,0,Southeast
+55354,330,MI,1972,Snowstorm,0,Midwest
+55363,329,CA,1972,Flood,0,West
+55365,328,WA,1972,Flood,0,West
+55368,327,NH,1972,Coastal Storm,0,Northeast
+55369,326,ME,1972,Flood,0,Northeast
+55376,325,MA,1972,Flood,0,Northeast
+55380,324,ID,1972,Flood,0,West
+55381,323,WV,1972,Flood,0,Southeast
+55388,322,WA,1972,Flood,0,West
+55397,321,AR,1972,Flood,0,Southwest
+55424,320,TX,1972,Flood,0,Southwest
+55430,319,OR,1972,Flood,0,West
+55440,318,MS,1972,Flood,0,Southeast
+55449,317,OK,1972,Flood,0,Southwest
+55461,316,CA,1972,Flood,0,West
+55462,315,LA,1972,Hurricane,0,Southwest
+55483,314,OK,1971,Flood,0,Southwest
+55489,313,TX,1971,Flood,0,Southwest
+55504,312,PA,1971,Flood,0,Northeast
+55511,311,NY,1971,Flood,0,Northeast
+55524,310,NJ,1971,Flood,0,Northeast
+55545,309,MD,1971,Flood,0,Southeast
+55554,308,NE,1971,Flood,0,Midwest
+55563,307,FM,1971,Typhoon,0,Territories
+55564,306,TN,1971,Tornado,0,Southeast
+55567,305,KY,1971,Tornado,0,Southeast
+55575,304,FL,1971,Freezing,0,Southeast
+55581,303,NE,1971,Flood,0,Midwest
+55600,302,MS,1971,Tornado,0,Southeast
+55623,301,OR,1971,Flood,0,West
+55625,300,WA,1971,Flood,0,West
+55632,299,CA,1971,Earthquake,0,West
+55633,298,VI,1971,Flood,0,Southeast
+55635,297,OK,1971,Severe Storm,0,Southwest
+55650,296,PR,1971,Flood,0,Territories
+55710,295,CA,1970,Fire,0,West
+55716,294,AZ,1970,Flood,0,Southwest
+55722,293,CO,1970,Flood,0,West
+55738,292,TX,1970,Hurricane,0,Southwest
+55745,291,MN,1970,Flood,0,Midwest
+55756,290,NY,1970,Flood,0,Northeast
+55760,289,FL,1970,Flood,0,Southeast
+55763,288,KY,1970,Flood,0,Southeast
+55776,287,ND,1970,Flood,0,Midwest
+55797,286,TX,1970,Tornado,0,Southwest
+55808,285,AL,1970,Severe Storm,0,Southeast
+55810,284,ME,1970,Flood,0,Northeast
+55825,283,CA,1970,Flood,0,West
+55842,282,KY,1970,Flood,0,Southeast
+55854,281,AK,1970,Severe Storm,0,West
+55855,280,AL,1970,Hurricane,0,Southeast
+55857,279,WV,1969,Flood,0,Southeast
+55858,278,WV,1969,Hurricane,0,Southeast
+55861,277,VT,1969,Flood,0,Northeast
+55863,276,IL,1969,Flood,0,Midwest
+55878,275,NY,1969,Flood,0,Northeast
+55879,274,VA,1969,Hurricane,0,Southeast
+55906,273,PA,1969,Flood,0,Northeast
+55910,272,LA,1969,Hurricane,0,Southwest
+55915,271,MS,1969,Hurricane,0,Southeast
+55942,270,CA,1969,Flood,0,West
+55943,269,IA,1969,Flood,0,Midwest
+55991,268,MN,1969,Flood,0,Midwest
+55995,267,KS,1969,Tornado,0,Midwest
+56015,266,OH,1969,Tornado,0,Midwest
+56041,265,KY,1969,Flood,0,Southeast
+56052,264,WI,1969,Flood,0,Midwest
+56058,263,TN,1969,Flood,0,Southeast
+56064,262,IL,1969,Flood,0,Midwest
+56074,261,CO,1969,Flood,0,West
+56113,260,WI,1969,Flood,0,Midwest
+56129,259,IA,1969,Flood,0,Midwest
+56201,258,NV,1969,Flood,0,West
+56202,257,SD,1969,Flood,0,Midwest
+56228,256,ND,1969,Flood,0,Midwest
+56274,255,MN,1969,Flood,0,Midwest
+56344,254,AR,1969,Flood,0,Southwest
+56380,253,CA,1969,Flood,0,West
+56417,252,FL,1969,Hurricane,0,Southeast
+56431,251,HI,1968,Flood,0,West
+56432,250,MN,1968,Flood,0,Midwest
+56433,249,MN,1968,Flood,0,Midwest
+56438,248,IA,1968,Flood,0,Midwest
+56450,247,IN,1968,Flood,0,Midwest
+56462,246,TX,1968,Flood,0,Southwest
+56467,245,NJ,1968,Flood,0,Northeast
+56474,244,TX,1968,Flood,0,Southwest
+56475,243,OH,1968,Flood,0,Midwest
+56503,242,IL,1968,Tornado,0,Midwest
+56511,241,OK,1968,Flood,0,Southwest
+56516,240,IA,1968,Tornado,0,Midwest
+56520,239,AR,1968,Tornado,0,Southwest
+56546,238,OH,1968,Tornado,0,Midwest
+56551,237,KY,1968,Tornado,0,Southeast
+56556,236,AR,1968,Tornado,0,Southwest
+56558,234,NC,1968,Severe Ice Storm,0,Southeast
+56579,233,NY,1968,Flood,0,Northeast
+56581,232,TX,1967,Hurricane,0,Southwest
+56610,231,ID,1967,Fire,0,West
+56620,230,AK,1967,Flood,0,West
+56621,229,KS,1967,Tornado,0,Midwest
+56648,228,NE,1967,Flood,0,Midwest
+56704,227,IL,1967,Tornado,0,Midwest
+56713,226,KY,1967,Flood,0,Southeast
+56731,224,WV,1967,Flood,0,Southeast
+56767,223,CA,1967,Flood,0,West
+56775,222,TX,1966,Flood,0,Southwest
+56776,221,NE,1966,Flood,0,Midwest
+56784,220,ND,1966,Flood,0,Midwest
+56792,219,KS,1966,Tornado,0,Midwest
+56794,218,TX,1966,Flood,0,Southwest
+56820,217,AZ,1966,Flood,0,Southwest
+56825,216,ND,1966,Flood,0,Midwest
+56841,215,MN,1966,Flood,0,Midwest
+56866,214,GA,1966,Flood,0,Southeast
+56889,213,AS,1966,Typhoon,0,Territories
+56894,212,CA,1966,Flood,0,West
+56895,211,CA,1966,Flood,0,West
+56899,210,MS,1965,Hurricane,0,Southeast
+56910,209,FL,1965,Hurricane,0,Southeast
+56920,208,LA,1965,Hurricane,0,Southwest
+56955,207,DE,1965,Drought,0,Northeast
+56958,206,PA,1965,Drought,0,Northeast
+56971,205,NJ,1965,Drought,0,Northeast
+56992,204,NY,1965,Drought,0,Northeast
+57006,203,MO,1965,Flood,0,Midwest
+57024,202,NM,1965,Flood,0,Southwest
+57028,201,KS,1965,Flood,0,Midwest
+57049,200,CO,1965,Tornado,0,West
+57076,199,TX,1965,Tornado,0,Southwest
+57083,198,MO,1965,Severe Storm,0,Midwest
+57089,197,SD,1965,Flood,0,Midwest
+57093,196,WA,1965,Earthquake,0,West
+57099,195,ND,1965,Flood,0,Midwest
+57109,194,IL,1965,Tornado,0,Midwest
+57119,193,IA,1965,Flood,0,Midwest
+57187,192,WI,1965,Tornado,0,Midwest
+57207,191,OH,1965,Tornado,0,Midwest
+57222,190,MI,1965,Tornado,0,Midwest
+57238,189,IN,1965,Tornado,0,Midwest
+57255,188,MN,1965,Flood,0,Midwest
+57320,187,NV,1965,Flood,0,West
+57324,186,ID,1965,Flood,0,West
+57351,185,WA,1965,Flood,0,West
+57372,184,OR,1965,Flood,0,West
+57408,183,CA,1965,Flood,0,West
+57439,182,MT,1965,Snowstorm,1,West
+57440,181,FM,1965,Typhoon,0,Territories
+57441,180,GA,1965,Flood,1,Southeast
+57442,179,NC,1965,Flood,1,Southeast
+57443,178,LA,1965,Hurricane,1,Southwest
+57444,177,GA,1964,Hurricane,1,Southeast
+57445,176,FL,1964,Hurricane,1,Southeast
+57446,175,FL,1964,Hurricane,1,Southeast
+57447,174,NE,1964,Flood,1,Midwest
+57448,173,MO,1964,Flood,1,Midwest
+57449,172,MT,1964,Flood,1,West
+57450,171,VI,1964,Drought,1,Southeast
+57451,170,PR,1964,Drought,1,Territories
+57452,169,CA,1964,Other,1,West
+57453,168,AK,1964,Earthquake,1,West
+57454,167,OH,1964,Flood,1,Midwest
+57455,166,AR,1964,Flood,1,Southwest
+57456,165,WV,1964,Flood,1,Southeast
+57457,164,VT,1964,Flood,1,Northeast
+57458,163,KY,1964,Flood,1,Southeast
+57459,162,IN,1964,Flood,1,Midwest
+57460,161,CA,1964,Dam/Levee Break,1,West
+57461,160,VT,1964,Drought,1,Northeast
+57462,159,TX,1963,Hurricane,1,Southwest
+57463,158,NY,1963,Flood,1,Northeast
+57464,157,AR,1963,Flood,1,Southwest
+57465,156,NE,1963,Flood,1,Midwest
+57466,155,WY,1963,Flood,1,West
+57467,154,FM,1963,Typhoon,0,Territories
+57468,153,GU,1963,Typhoon,1,Territories
+57469,152,HI,1963,Flood,1,West
+57470,151,TN,1963,Flood,1,Southeast
+57471,150,GA,1963,Flood,1,Southeast
+57472,149,VA,1963,Flood,1,Southeast
+57473,148,KY,1963,Flood,1,Southeast
+57474,147,WV,1963,Flood,1,Southeast
+57475,146,WA,1963,Flood,1,West
+57476,145,CA,1963,Flood,1,West
+57477,144,OR,1963,Flood,1,West
+57478,143,ID,1963,Flood,1,West
+57479,142,NV,1963,Flood,1,West
+57480,141,FL,1963,Flood,1,Southeast
+57481,140,GU,1963,Typhoon,1,Territories
+57482,139,LA,1963,Toxic Substances,1,Southwest
+57483,138,CA,1963,Flood,1,West
+57484,137,WA,1963,Severe Storm,1,West
+57485,136,OR,1963,Severe Storm,1,West
+57486,135,MS,1963,Toxic Substances,1,Southeast
+57487,134,NE,1962,Flood,1,Midwest
+57488,133,IA,1962,Flood,1,Midwest
+57489,132,SD,1962,Flood,1,Midwest
+57490,131,NE,1962,Flood,1,Midwest
+57491,130,NC,1962,Flood,1,Southeast
+57492,129,NY,1962,Flood,1,Northeast
+57493,128,KY,1962,Flood,1,Southeast
+57494,127,MD,1962,Flood,1,Southeast
+57495,126,DE,1962,Flood,1,Northeast
+57496,125,WV,1962,Flood,1,Southeast
+57497,124,NJ,1962,Flood,1,Northeast
+57498,123,VA,1962,Flood,1,Southeast
+57499,122,CA,1962,Flood,1,West
+57500,121,NV,1962,Flood,1,West
+57501,120,ID,1962,Flood,1,West
+57502,119,CA,1962,Fire,1,West
+57503,118,TX,1961,Hurricane,1,Southwest
+57504,117,WV,1961,Flood,1,Southeast
+57505,116,ID,1961,Flood,1,West
+57506,115,IL,1961,Flood,1,Midwest
+57507,114,MO,1961,Flood,1,Midwest
+57508,113,IN,1961,Flood,1,Midwest
+57509,112,AR,1961,Flood,1,Southwest
+57510,111,IA,1961,Flood,1,Midwest
+57511,110,GA,1961,Flood,1,Southeast
+57512,109,AL,1961,Flood,1,Southeast
+57513,108,MS,1961,Flood,1,Southeast
+57514,107,NC,1960,Hurricane,1,Southeast
+57515,106,FL,1960,Hurricane,1,Southeast
+57516,105,ID,1960,Fire,1,West
+57517,104,OK,1960,Severe Storm,1,Southwest
+57518,103,TX,1960,Severe Storm,1,Southwest
+57519,102,AR,1960,Tornado,1,Southwest
+57520,101,HI,1960,Other,1,West
+57521,100,MO,1960,Flood,1,Midwest
+57522,99,SD,1960,Flood,1,Midwest
+57523,98,NE,1960,Flood,1,Midwest
+57524,97,FL,1960,Other,1,Southeast
+57525,96,HI,1960,Earthquake,1,West
+57526,95,OK,1960,Flood,1,Southwest
+57527,94,HI,1959,Hurricane,1,West
+57528,93,TX,1959,Flood,1,Southwest
+57529,92,OK,1959,Flood,1,Southwest
+57530,91,IN,1959,Flood,0,Midwest
+57531,90,OH,1959,Flood,1,Midwest
+57532,89,PA,1959,Flood,1,Northeast
+57533,88,KS,1959,Flood,1,Midwest
+57534,87,NC,1959,Hurricane,1,Southeast
+57535,86,IA,1958,Flood,1,Midwest
+57536,85,TX,1958,Tornado,1,Southwest
+57537,84,LA,1958,Flood,1,Southwest
+57538,83,AR,1958,Flood,1,Southwest
+57539,82,CA,1958,Flood,1,West
+57540,81,KS,1957,Flood,1,Midwest
+57541,80,MN,1957,Flood,1,Midwest
+57542,79,ND,1957,Tornado,1,Midwest
+57543,78,IL,1957,Flood,1,Midwest
+57544,77,AR,1957,Tornado,1,Southwest
+57545,76,ID,1957,Flood,1,West
+57546,75,MO,1957,Tornado,1,Midwest
+57547,74,OK,1957,Flood,1,Southwest
+57548,73,LA,1957,Hurricane,1,Southwest
+57549,72,TX,1957,Hurricane,1,Southwest
+57550,71,HI,1957,Other,1,West
+57551,70,WA,1957,Flood,1,West
+57552,69,OR,1957,Flood,1,West
+57553,68,VA,1957,Flood,1,Southeast
+57554,67,WV,1957,Flood,1,Southeast
+57555,66,KY,1957,Flood,1,Southeast
+57556,65,CA,1957,Fire,1,West
+57557,64,LA,1957,Hurricane,1,Southwest
+57558,63,NV,1956,Flood,1,West
+57559,62,PR,1956,Hurricane,1,Territories
+57560,61,PA,1956,Severe Storm,1,Northeast
+57561,60,OR,1956,Flood,1,West
+57562,59,CO,1956,Flood,1,West
+57563,58,PA,1956,Severe Storm,1,Northeast
+57564,57,OH,1956,Other,1,Midwest
+57565,56,NC,1956,Severe Storm,1,Southeast
+57566,55,ID,1956,Flood,1,West
+57567,54,OK,1956,Tornado,1,Southwest
+57568,53,MI,1956,Tornado,1,Midwest
+57569,52,NY,1956,Flood,1,Northeast
+57570,51,PA,1956,Flood,1,Northeast
+57571,50,WA,1956,Flood,1,West
+57572,49,OR,1956,Flood,1,West
+57573,48,NV,1956,Flood,1,West
+57574,47,CA,1956,Flood,1,West
+57575,46,AK,1956,Other,1,West
+57576,45,NY,1955,Hurricane,1,Northeast
+57577,44,SC,1955,Hurricane,1,Southeast
+57578,43,MA,1955,Hurricane,1,Northeast
+57579,42,CT,1955,Hurricane,1,Northeast
+57580,41,NJ,1955,Hurricane,1,Northeast
+57581,40,PA,1955,Flood,1,Northeast
+57582,39,RI,1955,Hurricane,1,Northeast
+57583,38,NM,1955,Flood,1,Southwest
+57584,37,NC,1955,Hurricane,1,Southeast
+57585,36,NV,1955,Flood,1,West
+57586,35,OK,1955,Flood,1,Southwest
+57587,34,KS,1955,Tornado,1,Midwest
+57588,33,CO,1955,Flood,1,West
+57589,32,HI,1955,Volcanic Eruption,1,West
+57590,31,AK,1955,Other,1,West
+57591,30,IN,1955,Flood,1,Midwest
+57592,29,SC,1955,Hurricane,1,Southeast
+57593,28,NC,1955,Hurricane,1,Southeast
+57594,27,NM,1955,Flood,1,Southwest
+57595,26,NY,1955,Hurricane,1,Northeast
+57596,25,CT,1954,Hurricane,1,Northeast
+57597,24,ME,1954,Hurricane,1,Northeast
+57598,23,RI,1954,Hurricane,1,Northeast
+57599,22,MA,1954,Hurricane,1,Northeast
+57600,21,WV,1954,Flood,1,Southeast
+57601,20,SD,1954,Flood,1,Midwest
+57602,19,NV,1954,Earthquake,1,West
+57603,18,TX,1954,Flood,1,Southwest
+57604,17,IA,1954,Flood,1,Midwest
+57605,16,GA,1954,Tornado,1,Southeast
+57606,15,CA,1954,Flood,1,West
+57607,14,MS,1954,Tornado,1,Southeast
+57608,13,AK,1954,Other,1,West
+57609,12,FL,1954,Flood,1,Southeast
+57610,11,NH,1953,Fire,1,Northeast
+57611,9,TX,1953,Flood,1,Southwest
+57612,8,IA,1953,Flood,1,Midwest
+57613,7,MA,1953,Tornado,1,Northeast
+57614,6,MI,1953,Tornado,1,Midwest
+57615,5,MT,1953,Flood,1,West
+57616,4,MI,1953,Tornado,1,Midwest
+57617,3,LA,1953,Flood,1,Southwest
+57618,2,TX,1953,Tornado,1,Southwest
+57619,1,GA,1953,Tornado,1,Southeast
+57629,4502,DC,2020,Biological,1,Southeast
+57641,4500,CT,2020,Biological,1,Northeast
+57653,4499,OR,2020,Biological,1,West
+57700,4498,CO,2020,Biological,1,West
+57766,4497,KY,2020,Biological,1,Southeast
+57886,4496,MA,2020,Biological,1,Northeast
+57903,4495,GU,2020,Biological,1,Territories
+57904,4494,MI,2020,Biological,1,Midwest
+57998,4493,PR,2020,Biological,1,Territories
+58076,4492,SC,2020,Biological,1,Southeast
+58123,4491,MD,2020,Biological,1,Southeast
+58147,4490,MO,2020,Biological,1,Midwest
+58262,4489,IL,2020,Biological,1,Midwest
+58364,4488,NJ,2020,Biological,1,Northeast
+58387,4487,NC,2020,Biological,1,Southeast
+58493,4486,FL,2020,Biological,1,Southeast
+58563,4485,TX,2020,Biological,1,Southwest
+58820,4484,LA,2020,Biological,1,Southwest
+58891,4483,IA,2020,Biological,1,Midwest
+58992,4482,CA,2020,Biological,1,West
+59050,4481,WA,2020,Biological,1,West
+59117,4480,NY,2020,Biological,1,Northeast
+59181,5466,AZ,2023,Fire,1,Southwest
+59200,5453,CA,2022,Fire,1,West
+59202,5451,CA,2022,Fire,1,West
+59203,5450,CA,2022,Fire,1,West
+59204,5445,CA,2022,Fire,1,West
+59205,5439,CA,2022,Fire,1,West
+59206,5467,WA,2023,Fire,1,West
+59207,4718,SD,2023,Flood,1,Midwest
+59218,3593,MP,2023,Tropical Storm,0,Territories
+59223,4719,ME,2023,Flood,1,Northeast
+59231,4195,MI,2014,Flood,1,Midwest
+59234,3592,CA,2023,Flood,0,West
+59240,4722,MN,2023,Flood,1,Midwest
+59279,5276,WY,2018,Fire,1,West
+59280,4721,OK,2023,Severe Storm,1,Southwest
+59321,4699,CA,2023,Severe Storm,1,West
+59360,3395,FL,2018,Hurricane,0,Southeast
+59362,4723,NY,2023,Severe Storm,1,Northeast
+59376,5470,WA,2023,Fire,1,West
+59377,4716,MP,2023,Tropical Storm,1,Territories
+59380,5472,WA,2023,Fire,1,West
+59381,4352,NM,2018,Flood,1,Southwest
+59382,4324,OK,2017,Tornado,1,Southwest
+59399,4231,NJ,2015,Severe Storm,1,Northeast
+59403,4725,NJ,2023,Severe Storm,1,Northeast
+59404,4726,MT,2023,Flood,1,West
+59412,4727,MS,2023,Severe Storm,1,Southeast
+59434,4275,MT,2016,Tornado,1,West
+59435,3553,DC,2021,Other,0,Southeast
+59436,4729,TN,2023,Severe Storm,1,Southeast
+59444,4732,IA,2023,Flood,1,Midwest
+59451,4111,NY,2013,Severe Storm,1,Northeast
+59453,4735,TN,2023,Severe Storm,1,Southeast
+59457,4736,ME,2023,Flood,1,Northeast
+59458,4737,ME,2023,Flood,1,Northeast
+59501,4733,OR,2023,Mud/Landslide,1,West
+59507,3598,ME,2023,Hurricane,0,Northeast
+59523,3599,MA,2023,Hurricane,0,Northeast
+59537,5473,AK,2023,Fire,1,West
+59538,4356,VT,2018,Severe Storm,1,Northeast
+59548,3574,LA,2021,Coastal Storm,0,Southwest
+59612,3590,NY,2023,Winter Storm,0,Northeast
+59618,4741,MO,2023,Severe Storm,1,Midwest
+59651,3597,SC,2023,Hurricane,0,Southeast
+59697,5307,FL,2020,Fire,1,Southeast
+59698,3596,FL,2023,Tropical Storm,0,Southeast
+59747,3542,OR,2020,Fire,0,West
+59758,1912,KY,2010,Severe Storm,1,Southeast
+59841,5203,OR,2017,Fire,1,West
+59843,5198,OR,2017,Fire,1,West
+59844,5196,OR,2017,Fire,1,West
+59845,3585,SC,2022,Hurricane,0,Southeast
+59891,3544,MS,2020,Hurricane,0,Southeast
+59915,4248,MS,2016,Severe Storm,0,Southeast
+59916,4248,MS,2016,Severe Storm,1,Southeast
+59927,4742,TN,2023,Severe Storm,1,Southeast
+59937,3595,VT,2023,Flood,0,Northeast
+59951,4743,CA,2023,Hurricane,1,West
+59952,5465,NM,2023,Fire,1,Southwest
+59954,5461,NM,2023,Fire,1,Southwest
+59955,5485,LA,2023,Fire,1,Southwest
+59956,5482,LA,2023,Fire,1,Southwest
+59957,5469,WA,2023,Fire,1,West
+59960,5165,TN,2017,Fire,1,Southeast
+59961,5164,NC,2017,Fire,1,Southeast
+59962,5153,OR,2016,Fire,0,West
+59963,5148,WA,2016,Fire,0,West
+59964,5133,CO,2016,Fire,0,West
+59965,5130,UT,2016,Fire,0,West
+59966,5125,AZ,2016,Fire,0,Southwest
+59967,5122,OK,2016,Fire,0,Southwest
+59968,5116,TX,2016,Fire,1,Southwest
+59969,5105,ID,2015,Fire,1,West
+59970,5061,WA,2014,Fire,0,West
+59971,5059,WA,2014,Fire,0,West
+59972,5058,WA,2014,Fire,0,West
+59973,5056,OR,2014,Fire,0,West
+59974,5048,WA,2013,Fire,0,West
+59975,5039,OR,2013,Fire,0,West
+59976,5038,WA,2013,Fire,0,West
+59978,5030,CO,2013,Fire,0,West
+59979,5022,CO,2013,Fire,0,West
+59981,5020,WA,2012,Fire,0,West
+59983,5013,WA,2012,Fire,0,West
+59985,4655,MT,2022,Flood,1,West
+59992,4632,AL,2022,Severe Storm,1,Southeast
+59994,4570,LA,2021,Hurricane,1,Southwest
+60058,4555,AL,2020,Severe Storm,1,Southeast
+60065,4316,NH,2017,Severe Storm,1,Northeast
+60067,4269,TX,2016,Flood,1,Southwest
+60094,4215,GA,2015,Severe Ice Storm,1,Southeast
+60110,4148,NM,2013,Severe Storm,1,Southwest
+60121,4127,MT,2013,Flood,1,West
+60136,4121,MI,2013,Flood,1,Midwest
+60152,4073,DC,2012,Severe Storm,1,Southeast
+60153,4035,KS,2011,Flood,1,Midwest
+60161,3578,OK,2020,Biological,0,Southwest
+60162,3547,LA,2021,Hurricane,0,Southwest
+60226,3536,SD,2020,Biological,0,Midwest
+60227,3528,AL,2020,Biological,0,Southeast
+60228,3527,LA,2020,Coastal Storm,0,Southwest
+60292,3526,SD,2020,Biological,0,Midwest
+60293,3523,NE,2020,Biological,0,Midwest
+60294,3521,NM,2020,Biological,0,Southwest
+60295,3520,NM,2020,Biological,0,Southwest
+60296,3519,NM,2020,Biological,0,Southwest
+60297,3518,OK,2020,Biological,0,Southwest
+60298,3517,OK,2020,Biological,0,Southwest
+60299,3516,MT,2020,Biological,0,West
+60300,3514,OK,2020,Biological,0,Southwest
+60301,3513,SD,2020,Biological,0,Midwest
+60302,3512,ND,2020,Biological,0,Midwest
+60303,3511,OK,2020,Biological,0,Southwest
+60304,3509,OK,2020,Biological,0,Southwest
+60305,3508,MN,2020,Biological,0,Midwest
+60306,3507,WA,2020,Biological,0,West
+60307,3506,NM,2020,Biological,0,Southwest
+60308,3505,OK,2020,Biological,0,Southwest
+60309,3504,NY,2020,Biological,0,Northeast
+60310,3503,MN,2020,Biological,0,Midwest
+60311,3502,OK,2020,Biological,0,Southwest
+60312,3501,TX,2020,Biological,0,Southwest
+60313,3500,NM,2020,Biological,0,Southwest
+60314,3499,OK,2020,Biological,0,Southwest
+60315,3495,OK,2020,Biological,0,Southwest
+60316,3494,OK,2020,Biological,0,Southwest
+60317,3490,KS,2020,Biological,0,Midwest
+60318,3489,NE,2020,Biological,0,Midwest
+60319,3488,NE,2020,Biological,0,Midwest
+60321,3487,OK,2020,Biological,0,Southwest
+60322,3483,NE,2020,Biological,0,Midwest
+60421,3482,MO,2020,Biological,0,Midwest
+60536,3481,KS,2020,Biological,0,Midwest
+60645,3480,IA,2020,Biological,0,Midwest
+60746,3479,WY,2020,Biological,0,West
+60770,3478,UT,2020,Biological,0,West
+60806,3477,ND,2020,Biological,0,Midwest
+60864,3476,MT,2020,Biological,0,West
+60928,3474,MS,2020,Biological,0,Southeast
+61011,3473,TN,2020,Biological,0,Southeast
+61106,3472,AL,2020,Biological,0,Southeast
+61174,3471,NC,2020,Biological,0,Southeast
+61275,3470,SC,2020,Biological,0,Southeast
+61322,3469,KY,2020,Biological,0,Southeast
+61442,3468,FL,2020,Biological,0,Southeast
+61448,3467,ID,2020,Biological,0,West
+61492,3466,GU,2020,Biological,0,Territories
+61493,3465,AS,2020,Biological,0,Territories
+61498,3464,GA,2020,Biological,0,Southeast
+61658,3463,MP,2020,Biological,0,Territories
+61662,3462,OK,2020,Biological,0,Southwest
+61774,3461,AR,2020,Biological,0,Southwest
+61850,3460,NM,2020,Biological,0,Southwest
+61919,3459,LA,2020,Biological,0,Southwest
+61991,3458,TX,2020,Biological,0,Southwest
+62248,3457,OH,2020,Biological,0,Midwest
+62336,3456,IN,2020,Biological,0,Midwest
+62428,3455,MI,2020,Biological,0,Midwest
+62522,3454,WI,2020,Biological,0,Midwest
+62605,3453,MN,2020,Biological,0,Midwest
+62710,3452,PR,2020,Biological,0,Territories
+62788,3450,WV,2020,Biological,0,Southeast
+62843,3449,DE,2020,Biological,0,Northeast
+62846,3448,VA,2020,Biological,0,Southeast
+62984,3447,DC,2020,Biological,0,Southeast
+62985,3446,AK,2020,Biological,0,West
+63022,3445,NH,2020,Biological,0,Northeast
+63032,3444,ME,2020,Biological,0,Northeast
+63211,3443,NV,2020,Biological,0,West
+63255,3441,PA,2020,Biological,0,Northeast
+63322,3440,RI,2020,Biological,0,Northeast
+63327,3439,CT,2020,Biological,0,Northeast
+63336,3438,MA,2020,Biological,0,Northeast
+63350,3437,VT,2020,Biological,0,Northeast
+63364,3435,IL,2020,Biological,0,Midwest
+63466,3434,NY,2020,Biological,0,Northeast
+63530,3433,VI,2020,Biological,0,Southeast
+63533,3431,HI,2020,Biological,0,West
+63537,3430,MD,2020,Biological,0,Southeast
+63561,3423,NC,2019,Hurricane,0,Southeast
+63662,3422,GA,2019,Hurricane,0,Southeast
+63674,3421,SC,2019,Hurricane,0,Southeast
+63721,3420,FL,2019,Hurricane,0,Southeast
+63727,3419,FL,2019,Hurricane,0,Southeast
+63794,3418,VI,2019,Hurricane,0,Southeast
+63797,3417,PR,2019,Severe Storm,0,Territories
+63875,3306,PR,2010,Fire,0,Territories
+63880,3259,FL,2005,Hurricane,0,Southeast
+63884,3235,PA,2005,Hurricane,0,Northeast
+63951,3231,KY,2005,Hurricane,0,Southeast
+64071,2998,OK,2012,Fire,0,Southwest
+64072,2995,WY,2012,Fire,0,West
+64073,2993,WY,2012,Fire,0,West
+64074,2992,WY,2012,Fire,0,West
+64077,2968,TX,2011,Fire,0,Southwest
+64078,2967,TX,2011,Fire,0,Southwest
+64079,2958,TX,2011,Fire,0,Southwest
+64080,2949,TX,2011,Fire,0,Southwest
+64081,2946,OK,2011,Fire,0,Southwest
+64082,2945,OK,2011,Fire,0,Southwest
+64083,2944,OK,2011,Fire,0,Southwest
+64084,2942,OK,2011,Fire,0,Southwest
+64085,2940,OK,2011,Fire,0,Southwest
+64086,2935,NM,2011,Fire,0,Southwest
+64087,2933,NM,2011,Fire,0,Southwest
+64093,2931,TX,2011,Fire,0,Southwest
+64094,2930,TX,2011,Fire,0,Southwest
+64095,2929,TX,2011,Fire,0,Southwest
+64096,2928,TX,2011,Fire,0,Southwest
+64097,2926,TX,2011,Fire,0,Southwest
+64098,2925,TX,2011,Fire,0,Southwest
+64099,2924,TX,2011,Fire,0,Southwest
+64100,2918,NM,2011,Fire,0,Southwest
+64101,2916,TX,2011,Fire,0,Southwest
+64102,2914,TX,2011,Fire,0,Southwest
+64103,2912,TX,2011,Fire,0,Southwest
+64104,2910,TX,2011,Fire,0,Southwest
+64105,2905,TX,2011,Fire,0,Southwest
+64107,2904,TX,2011,Fire,0,Southwest
+64108,2903,TX,2011,Fire,0,Southwest
+64109,2899,TX,2011,Fire,0,Southwest
+64110,2898,TX,2011,Fire,0,Southwest
+64111,2894,TX,2011,Fire,0,Southwest
+64112,2889,TX,2011,Fire,0,Southwest
+64115,2888,TX,2011,Fire,0,Southwest
+64118,2887,OK,2011,Fire,0,Southwest
+64119,2886,TX,2011,Fire,0,Southwest
+64120,2885,TX,2011,Fire,0,Southwest
+64122,2883,OK,2011,Fire,0,Southwest
+64123,2880,NM,2011,Fire,0,Southwest
+64125,2879,OK,2011,Fire,0,Southwest
+64126,2859,UT,2010,Fire,0,West
+64127,2828,CA,2009,Fire,0,West
+64128,2827,WA,2009,Fire,0,West
+64130,2690,FL,2007,Fire,0,Southeast
+64131,2687,FL,2007,Fire,0,Southeast
+64135,2680,TX,2007,Fire,0,Southwest
+64136,2672,CO,2006,Fire,0,West
+64137,2655,NE,2006,Fire,0,Midwest
+64138,2653,CA,2006,Fire,0,West
+64139,2633,OK,2006,Fire,0,Southwest
+64140,2617,TX,2006,Fire,0,Southwest
+64141,2616,OK,2006,Fire,0,Southwest
+64143,2614,TX,2006,Fire,0,Southwest
+64144,2611,TX,2006,Fire,0,Southwest
+64145,2610,TX,2006,Fire,0,Southwest
+64146,2606,OK,2006,Fire,0,Southwest
+64148,2603,OK,2006,Fire,0,Southwest
+64149,2602,OK,2006,Fire,0,Southwest
+64150,2598,TX,2006,Fire,0,Southwest
+64151,2589,OK,2006,Fire,0,Southwest
+64152,2588,OK,2006,Fire,0,Southwest
+64153,2566,CO,2005,Fire,0,West
+64155,2561,AZ,2005,Fire,0,Southwest
+64157,2536,NV,2004,Fire,0,West
+64158,2531,NV,2004,Fire,0,West
+64160,2504,CA,2004,Fire,0,West
+64161,2503,CA,2004,Fire,0,West
+64162,2427,WY,2002,Fire,0,West
+64164,2309,CO,2000,Fire,0,West
+64166,2308,CO,2000,Fire,0,West
+64167,2239,TX,1998,Fire,0,Southwest
+64168,2223,TX,1998,Fire,0,Southwest
+64169,2218,TX,1998,Fire,0,Southwest
+64170,2216,TX,1998,Fire,0,Southwest
+64171,2202,TX,1998,Fire,0,Southwest
+64234,1687,AL,2007,Severe Storm,1,Southeast
+64242,1686,GA,2007,Severe Storm,1,Southeast
+64258,1678,OK,2007,Severe Storm,1,Southwest
+64306,1617,KY,2006,Severe Storm,1,Southeast
+64308,1607,LA,2005,Hurricane,1,Southwest
+64372,1606,TX,2005,Hurricane,0,Southwest
+64376,1606,TX,2005,Hurricane,1,Southwest
+64626,1359,FL,2001,Freezing,0,Southeast
+64674,1359,FL,2001,Freezing,1,Southeast
+64675,1344,FL,2001,Severe Storm,1,Southeast
+64684,1343,OH,2000,Severe Storm,1,Midwest
+64685,1315,GA,2000,Severe Storm,1,Southeast
+64691,1314,LA,2000,Snowstorm,1,Southwest
+64699,1305,NH,2000,Hurricane,1,Northeast
+64702,1302,CT,1999,Hurricane,1,Northeast
+64705,1291,NC,1999,Hurricane,1,Southeast
+64711,1287,TX,1999,Hurricane,0,Southwest
+64712,1287,TX,1999,Hurricane,1,Southwest
+64724,1249,FL,1998,Hurricane,0,Southeast
+64740,1249,FL,1998,Hurricane,1,Southeast
+64741,1241,FL,1998,Hurricane,0,Southeast
+64742,1241,FL,1998,Hurricane,1,Southeast
+64747,1092,CT,1996,Snowstorm,0,Northeast
+64755,1090,MA,1996,Snowstorm,0,Northeast
+64769,1089,KY,1996,Snowstorm,0,Southeast
+64889,1087,NC,1996,Snowstorm,0,Southeast
+64959,1085,PA,1996,Snowstorm,0,Northeast
+65010,1008,CA,1994,Earthquake,0,West
