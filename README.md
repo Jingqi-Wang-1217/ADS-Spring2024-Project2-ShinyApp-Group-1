@@ -11,18 +11,18 @@ Term: Spring 2024
 ## Project Title: The U.S. Disasters Analysis
 Term: Spring 2024
 
-+ Team #: Group 1
-+ **Team members:**: 
-+ Zhou, Jitian
-+ Chen, Zhengfei
-+ Tang, Chulin
-+ Liu, Jiaqi
-+ Wang, Jingqi
++ Team #: **Group 1**
++ **Team members:** 
+++ Zhou, Jitian
+++ Chen, Zhengfei
+++ Tang, Chulin
+++ Liu, Jiaqi
+++ Wang, Jingqi
 	
 
 + **Project summary**:
-+ We develop a Shiny App that provides an analysis of U.S. disasters using Disaster Declarations Summaries dataset available on the [OpenFEMA](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2) website. This application offers in-depth insights into disaster trends and impacts across the country. 
-+ In an era marked by climate change and environmental upheaval, our analysis delves into the frequency and distribution of natural disasters across the United States. We've meticulously compiled data, revealing patterns in disaster occurrences, distinguishing prevalent types, and identifying the most affected states. This investigation not only highlights the resilience of communities but also underscores the pressing need for robust disaster preparedness and adaptive strategies. By understanding the past, we aim to equip policymakers and stakeholders with insights to fortify against the inevitable challenges of tomorrow. 
+++ We develop a Shiny App that provides an analysis of U.S. disasters using Disaster Declarations Summaries dataset available on the [OpenFEMA](https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2) website. This application offers in-depth insights into disaster trends and impacts across the country. 
+++ In an era marked by climate change and environmental upheaval, our analysis delves into the frequency and distribution of natural disasters across the United States. We've meticulously compiled data, revealing patterns in disaster occurrences, distinguishing prevalent types, and identifying the most affected states. This investigation not only highlights the resilience of communities but also underscores the pressing need for robust disaster preparedness and adaptive strategies. By understanding the past, we aim to equip policymakers and stakeholders with insights to fortify against the inevitable challenges of tomorrow. 
 
 + **[Shiny App Link](https://jingqiwang.shinyapps.io/TheUSDisastersAnalysisApp/)**
 
