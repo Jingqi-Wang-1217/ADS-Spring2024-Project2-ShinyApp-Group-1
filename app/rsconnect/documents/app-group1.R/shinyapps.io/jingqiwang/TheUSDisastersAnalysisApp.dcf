@@ -1,0 +1,13 @@
+name: TheUSDisastersAnalysisApp
+title: TheUSDisastersAnalysisApp
+username: jingqiwang
+account: jingqiwang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11273307
+bundleId: 8274319
+url: https://jingqiwang.shinyapps.io/TheUSDisastersAnalysisApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|server.R|ui.R
